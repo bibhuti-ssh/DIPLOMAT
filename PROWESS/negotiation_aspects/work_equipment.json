@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "work equipment",
+    "background": "A senior AI developer, Anya, is joining a bootstrapped tech startup, InnovateAI, which has a standard-issue laptop policy. Her role requires intensive local machine learning model training, for which the standard laptop is vastly underpowered. The specific high-end GPU-powered laptop she needs is triple the standard budget.",
+    "employer": "HR Manager",
+    "candidate": "Senior AI Developer",
+    "negotiation_goal": "Convince Anya to use cloud-based GPU services to stay within the hardware budget.",
+    "current_position": "Insists on the specified high-performance local hardware for workflow efficiency and to reduce reliance on internet connectivity."
+  },
+  {
+    "domain": "work equipment",
+    "background": "GlobalCorp Inc. is implementing a return-to-office mandate. Carlos, a data analyst with a documented back condition, wants the company to purchase the exact model of ergonomic chair and standing desk he personally bought for his home office setup, which has eliminated his chronic pain.",
+    "employer": "Department Head",
+    "candidate": "Data Analyst",
+    "negotiation_goal": "Provide a standard ergonomic setup from the company's approved vendor, which meets compliance standards.",
+    "current_position": "Argues that his specific, proven setup is a medical necessity and that experimenting with new equipment poses a health risk."
+  },
+  {
+    "domain": "work equipment",
+    "background": "PixelPerfect Agency is hiring Maya, a talented graphic designer, as a full-time employee after a successful freelance contract. Maya's unique visual style is heavily dependent on a niche, expensive suite of design plugins the agency does not currently license.",
+    "employer": "Creative Director",
+    "candidate": "Graphic Designer",
+    "negotiation_goal": "Have Maya adapt her workflow to the agency's existing, fully-licensed Adobe Creative Cloud suite to avoid additional software costs.",
+    "current_position": "Claims the specialized plugins are integral to her acclaimed work and will deliver superior results, justifying the investment."
+  },
+  {
+    "domain": "work equipment",
+    "background": "A non-profit, EcoGuardians, is hiring Dr. Evans, a field biologist for remote conservation work. Dr. Evans is requesting a specific brand of ruggedized tablet and satellite phone he trusts from past expeditions, but the non-profit has an exclusive equipment partnership with a different, more affordable brand.",
+    "employer": "Operations Manager",
+    "candidate": "Field Biologist",
+    "negotiation_goal": "Equip Dr. Evans with the standard-issue partner brand gear to stay within a very tight grant-funded budget.",
+    "current_position": "Contends that his preferred gear's reliability is a critical safety and data integrity issue in the harsh environments he'll be working in."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Precision Parts Mfg. is hiring Gus, a master welder known for his fine work. Gus owns a custom-calibrated, high-end welding machine and wants to use it at the facility, requesting a stipend for its maintenance and use instead of the company's standard equipment.",
+    "employer": "Plant Supervisor",
+    "candidate": "Master Welder",
+    "negotiation_goal": "Require Gus to use company-owned equipment to comply with uniform safety, liability, and insurance protocols.",
+    "current_position": "States that his precision and speed are intrinsically linked to his familiar, personalized machine and is hesitant to use other equipment."
+  },
+  {
+    "domain": "work equipment",
+    "background": "A fully remote customer support agent, Priya, is being hired by a mid-sized company, ConnectNow. The company offers a standard, one-time $500 home office stipend, but Priya lives in a major city where that amount is insufficient for a quality ergonomic setup.",
+    "employer": "HR Generalist",
+    "candidate": "Customer Support Agent",
+    "negotiation_goal": "Maintain the standardized stipend amount to ensure fairness and equity across all remote employees.",
+    "current_position": "Requesting an increased stipend of $800, providing quotes from local retailers to justify the regional cost difference."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Metropolis General Hospital is recruiting a world-renowned surgeon, Dr. Chen, to lead its new cardiac center. Dr. Chen has built her reputation using a specific model of a robotic surgical system that the hospital does not own and represents a multi-million dollar investment.",
+    "employer": "Hospital Administrator",
+    "candidate": "Chief of Cardiac Surgery",
+    "negotiation_goal": "Persuade Dr. Chen to train on the hospital's existing, slightly older robotic system, avoiding a massive unbudgeted capital expense.",
+    "current_position": "Has made the acquisition of her preferred surgical system a non-negotiable condition of her employment contract."
+  },
+  {
+    "domain": "work equipment",
+    "background": "A top sales executive, Frank, is joining PharmaSolutions, and his role includes a company car. The standard vehicle is a sedan, but Frank needs to transport bulky marketing displays to client sites and has requested a specific, more expensive SUV model.",
+    "employer": "Sales Director",
+    "candidate": "Sales Executive",
+    "negotiation_goal": "Adhere to the company's fleet deal for sedans to control costs, suggesting Frank use courier services for large items.",
+    "current_position": "Argues that having the displays immediately accessible in an SUV is critical for spontaneous, high-impact client demonstrations."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Northwood University is hiring a prominent professor, Dr. Roche, to establish a new research lab. Her grant-winning research is contingent on a specific NMR spectrometer, an extremely expensive piece of equipment the university does not possess and hasn't budgeted for.",
+    "employer": "Dean of Sciences",
+    "candidate": "Tenured Professor",
+    "negotiation_goal": "Have Dr. Roche secure the equipment through a future research grant after she joins the university.",
+    "current_position": "Views the spectrometer as a fundamental component of her hiring 'startup package' and a prerequisite for accepting the position."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Sterling Bank is hiring Kenji, an investment banker, and has a strict policy requiring use of a company-issued, heavily secured smartphone. Kenji, a privacy advocate, wants to use his personal phone with a sandboxed work profile to keep his personal data separate.",
+    "employer": "IT Security Manager",
+    "candidate": "Investment Banker",
+    "negotiation_goal": "Enforce the corporate device policy without exception to meet stringent FINRA compliance and internal security requirements.",
+    "current_position": "Threatening to withdraw his acceptance over what he considers an unacceptable invasion of personal privacy."
+  },
+  {
+    "domain": "work equipment",
+    "background": "A law firm, Riggs & Jennings, is hiring Samuel, a paralegal who is visually impaired. Samuel requires a specific premium screen reader software and braille display he has used for years, but the firm's HR has identified a cheaper alternative they deem sufficient.",
+    "employer": "Senior Partner",
+    "candidate": "Paralegal",
+    "negotiation_goal": "Provide the more affordable, alternative assistive technology which meets the legal definition of a 'reasonable accommodation'.",
+    "current_position": "Insists his high performance and efficiency are tied to the specific tools he has mastered, and learning a new system would hinder his productivity."
+  },
+  {
+    "domain": "work equipment",
+    "background": "David is making an internal transfer from R&D to Technical Support at TechFirm Solutions. He wants to keep his high-end R&D workstation, but the standard equipment for his new role is a mid-range laptop, and his old machine is allocated to his replacement.",
+    "employer": "HR Business Partner",
+    "candidate": "Technical Support Engineer",
+    "negotiation_goal": "Ensure the specialized workstation is reallocated to the R&D department according to asset management policy.",
+    "current_position": "Believes keeping the powerful machine will allow him to better diagnose complex issues and feels the 'downgrade' is a step back."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Vortex Games is hiring a remote QA Tester, Chloe, for a highly anticipated video game. The role requires her to keep a confidential, pre-release game console at her home, and she is asking the company to pay for a high-security safe to store it in.",
+    "employer": "QA Lead",
+    "candidate": "QA Tester",
+    "negotiation_goal": "Reject the request for the safe, stating that the company's standard remote work NDA and security protocols are sufficient.",
+    "current_position": "Feels personally liable for the valuable prototype and is uncomfortable storing it without the added, company-funded physical security."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Global Software Co. is hiring a UX designer, Sofia, from Brazil for a remote role. The US-based company wants to ship her a standard MacBook, but Sofia is requesting a cash equivalent to buy one locally, citing high import taxes and a lack of local AppleCare support for US models.",
+    "employer": "Global Mobility Specialist",
+    "candidate": "UX Designer",
+    "negotiation_goal": "Ship the pre-configured corporate asset to maintain hardware standardization and security compliance.",
+    "current_position": "Wants to avoid the logistical nightmare of customs and potential downtime if the machine needs a repair that isn't supported locally."
+  },
+  {
+    "domain": "work equipment",
+    "background": "A new C-level executive, Dr. Petrova, is joining Innovent Biopharma. She is negotiating for the company to provide identical, top-of-the-line office setups (desk, chair, monitors) for both her corporate office and her home office to ensure seamless workflow.",
+    "employer": "Head of HR",
+    "candidate": "Chief Technology Officer",
+    "negotiation_goal": "Provide the standard executive home office stipend, arguing it's generous and adheres to established compensation policy.",
+    "current_position": "Positions the duplicate setup not as a perk, but as a business necessity for maximum productivity and accessibility."
+  },
+  {
+    "domain": "work equipment",
+    "background": "Sparky & Sons Electrical is hiring an apprentice, Liam, who is just starting his career. While the company provides a basic hand tool kit, apprentices are expected to purchase their own set of professional-grade power tools, which Liam cannot afford upfront.",
+    "employer": "Owner",
+    "candidate": "Apprentice Electrician",
+    "negotiation_goal": "Maintain the company policy of personal tool ownership to instill a sense of responsibility in apprentices.",
+    "current_position": "Requesting a tool-buying allowance that can be paid back via payroll deductions, as the cost is a major barrier to starting the job."
+  }
+]

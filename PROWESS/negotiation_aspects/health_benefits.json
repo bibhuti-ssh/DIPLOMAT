@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "health benefits",
+    "background": "A cash-strapped tech startup, 'InnovateAI,' cannot afford a premium PPO plan for its small team. They are trying to hire a highly sought-after senior software engineer who has a child with special medical needs requiring extensive, flexible coverage.",
+    "employer": "HR Manager at a Startup",
+    "candidate": "Senior Software Engineer",
+    "negotiation_goal": "Convince the candidate to accept the existing HMO plan, possibly supplemented by a Health Reimbursement Arrangement (HRA).",
+    "current_position": "Candidate insists on a PPO plan with a specific out-of-network provider or a significant salary increase to purchase a private plan."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A large non-profit, 'Global Aid Foundation,' maintains a standardized, modest health plan to ensure equity among all employees. A candidate for a Director role is coming from a corporate job with a 'gold-plated' plan and is concerned about the downgrade in coverage.",
+    "employer": "HR Director at a Non-Profit",
+    "candidate": "Program Director Candidate",
+    "negotiation_goal": "Uphold the standardized benefits policy to maintain fairness, while finding other ways to enhance the total compensation package.",
+    "current_position": "Candidate is asking the foundation to cover the premium difference for them to buy a comparable private insurance plan."
+  },
+  {
+    "domain": "health benefits",
+    "background": "During a collective bargaining agreement renewal, 'SteelWorks Inc.' is trying to control spiraling healthcare costs. The management proposes shifting all union workers from a low-deductible plan to a high-deductible health plan (HDHP).",
+    "employer": "Industrial Relations Manager",
+    "candidate": "Union Representative",
+    "negotiation_goal": "Implement the HDHP to reduce company premiums while minimizing union opposition, possibly by offering a large HSA contribution.",
+    "current_position": "The union is adamantly opposed to any increase in deductibles, citing the financial strain it would place on workers."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A fully remote marketing agency, 'Digital Bloom,' offers a national HMO plan. They extend an offer to a top candidate who lives in a rural state with very few in-network providers, making the plan practically unusable for them.",
+    "employer": "Recruiter at a Remote Company",
+    "candidate": "Content Strategist",
+    "negotiation_goal": "Retain the candidate without setting a precedent of purchasing individual plans for employees.",
+    "current_position": "Candidate is requesting a monthly, post-tax stipend to purchase a local PPO plan from their state's marketplace."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A multinational pharmaceutical firm, 'PharmaCorp,' is relocating an executive from their German office to the US headquarters. The executive is accustomed to Germany's comprehensive public healthcare and is struggling to understand the US system of deductibles, co-pays, and network limitations.",
+    "employer": "Global Mobility Specialist",
+    "candidate": "Executive Vice President (relocating)",
+    "negotiation_goal": "Bridge the gap between expectations and reality by offering a comprehensive benefits education and a one-time relocation health bonus.",
+    "current_position": "The executive is requesting a custom-designed insurance wrapper to eliminate all out-of-pocket costs, similar to their experience abroad."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A boutique law firm, 'Harris & Finch,' wants to hire a seasoned paralegal for a 30-hour per week role. The firm's policy only grants health benefits to full-time employees working 37.5 hours or more, but the candidate is perfect for the role.",
+    "employer": "Office Manager/HR at a small firm",
+    "candidate": "Experienced Paralegal",
+    "negotiation_goal": "Secure the candidate without extending full benefits, perhaps by offering to cover COBRA from their previous job for a year.",
+    "current_position": "The candidate will not accept the position without being made eligible for the firm's group health plan."
+  },
+  {
+    "domain": "health benefits",
+    "background": "The owner of 'The Daily Grind,' a small but growing coffee shop, is hiring their first-ever full-time manager. The owner has no group health plan and is unfamiliar with benefits administration, but the top candidate requires health coverage.",
+    "employer": "Small Business Owner",
+    "candidate": "Store Manager",
+    "negotiation_goal": "Offer a Qualified Small Employer Health Reimbursement Arrangement (QSEHRA) as a tax-advantaged way to provide funds for healthcare.",
+    "current_position": "The candidate is wary of the QSEHRA and is asking for a traditional group plan, which the owner finds daunting to set up."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A creative agency, 'Artisan Digital,' is converting a long-term freelance graphic designer into a full-time employee. The designer is happily covered under their spouse's excellent and inexpensive health plan.",
+    "employer": "HR Generalist",
+    "candidate": "Graphic Designer",
+    "negotiation_goal": "Encourage enrollment in the company plan to increase the group size and maintain consistent policy application.",
+    "current_position": "The candidate is requesting to waive health benefits in exchange for a higher base salary equivalent to the company's premium contribution."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A fast-growing B2B SaaS company, 'CloudLeap,' has a great medical plan, but its mental health coverage is very limited, with high co-pays and few in-network therapists. The leading candidate for a Senior Customer Success Manager role has a family that relies on weekly therapy.",
+    "employer": "Talent Acquisition Partner",
+    "candidate": "Senior Customer Success Manager",
+    "negotiation_goal": "Secure the candidate by offering a taxable wellness stipend that can be used for therapy, avoiding changes to the core insurance plan.",
+    "current_position": "The candidate is asking the company to purchase a supplemental mental health insurance plan for them."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A prestigious consulting firm, 'Stratagem Consulting,' is in final talks with a top-tier MBA graduate. The firm’s standard insurance plan does not cover any fertility treatments, such as IVF, which is a non-negotiable for the candidate.",
+    "employer": "University Relations Recruiter",
+    "candidate": "Management Consultant",
+    "negotiation_goal": "Find a creative solution, like a specialized HRA or a signing bonus earmarked for medical expenses, as changing the corporate-wide plan is impossible.",
+    "current_position": "The candidate has stated they will decline the offer unless the company can guarantee full coverage for at least two cycles of IVF treatment."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A mid-size fashion brand, 'VogueWear,' offers a medical plan but requires employees to pay 100% of the premiums for separate dental and vision plans. The lead candidate for a Product Designer role needs significant orthodontic work and has a strong prescription.",
+    "employer": "Benefits Administrator",
+    "candidate": "Lead Product Designer",
+    "negotiation_goal": "Offer a one-time hiring bonus to help offset the first year's dental/vision costs without altering the contribution strategy.",
+    "current_position": "Candidate is asking for the company to fully cover the premiums for the top-tier dental and vision plans."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A financial services firm, 'Capital Trust,' offers an HDHP paired with a Health Savings Account (HSA). However, the company's policy is to not make any employer contributions to employees' HSAs.",
+    "employer": "HR Business Partner",
+    "candidate": "Financial Analyst",
+    "negotiation_goal": "Adhere to the no-contribution policy, perhaps by highlighting other financial wellness benefits the company provides.",
+    "current_position": "The candidate is negotiating for the company to make the maximum annual HSA contribution on their behalf to offset the high deductible."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A university has hired a new professor who is set to start on August 1st. The professor's insurance from their prior job ends June 30th, creating a one-month coverage gap before the university's benefits kick in.",
+    "employer": "University Benefits Coordinator",
+    "candidate": "Assistant Professor",
+    "negotiation_goal": "Assist the professor with understanding their COBRA options without the university directly paying for the premium.",
+    "current_position": "The professor is requesting that the university directly pay the expensive COBRA premium for the month of July."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A large, traditional construction company, 'BuildRight Construction,' is hiring a new project manager. The company's benefits policy documentation does not explicitly cover domestic partners, only legal spouses, and the candidate is in a long-term, unmarried partnership.",
+    "employer": "Senior HR Manager",
+    "candidate": "Project Manager",
+    "negotiation_goal": "Work with the insurance broker to see if an exception can be made or if the policy can be updated, a potentially slow process.",
+    "current_position": "Candidate needs written confirmation that their domestic partner can be enrolled with the same premium contribution as a spouse before accepting."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A corporate wellness company, 'Zenith Wellness,' is hiring a new program manager. The candidate is a strong advocate for holistic medicine and is disappointed that treatments like acupuncture and chiropractic care are not covered by the company's standard plan.",
+    "employer": "Recruiting Manager",
+    "candidate": "Wellness Program Manager",
+    "negotiation_goal": "Reinforce the value of the existing plan and benefits, which include a generous general-purpose wellness stipend.",
+    "current_position": "The candidate is negotiating for a separate, dedicated monthly stipend specifically to cover alternative medicine costs."
+  },
+  {
+    "domain": "health benefits",
+    "background": "A government contractor, 'AeroDefense Solutions,' is hiring a 62-year-old Chief Engineer for a critical project. The candidate is concerned about healthcare after retirement and wants access to the company's retiree medical plan, a benefit typically reserved for employees with 20+ years of service.",
+    "employer": "Director of Total Rewards",
+    "candidate": "Chief Systems Engineer",
+    "negotiation_goal": "Deny access to the retiree medical plan due to strict eligibility rules, but offer to fund a retirement health savings vehicle instead.",
+    "current_position": "The candidate is attempting to negotiate a pro-rated entry into the retiree medical plan based on their anticipated 5-7 years of service."
+  }
+]

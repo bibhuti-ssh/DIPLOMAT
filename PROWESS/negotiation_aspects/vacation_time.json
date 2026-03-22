@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "vacation time",
+    "background": "Anya, a top-tier AI engineer, is leaving a large tech corporation for a promising but smaller startup, 'Innovatech Solutions.' Her current role provides five weeks of vacation, but Innovatech's standard policy for all employees is a rigid three weeks.",
+    "employer": "HR Manager at Innovatech Solutions",
+    "candidate": "Senior AI Engineer",
+    "negotiation_goal": "To convince the candidate that the company's strong culture and equity package outweigh the difference in vacation time.",
+    "current_position": "The candidate is firm on wanting her previous five weeks of vacation matched, viewing it as a dealbreaker."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Maria is a seasoned grant writer moving from the corporate world to a small environmental non-profit, 'GreenLeaf Organics.' GreenLeaf cannot match her previous salary but is open to negotiating non-monetary benefits to attract her.",
+    "employer": "Executive Director of GreenLeaf Organics",
+    "candidate": "Director of Development",
+    "negotiation_goal": "To offer a generous vacation package as a key incentive in lieu of a higher salary.",
+    "current_position": "The candidate has requested six weeks of vacation plus the paid week between Christmas and New Year's."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Frank, a machinist with 12 years at 'Precision Parts Inc.', is being promoted to a non-union Production Supervisor role. His union contract granted vacation based on seniority, but the management policy starts everyone at a lower base accrual rate.",
+    "employer": "Plant Manager at Precision Parts Inc.",
+    "candidate": "Newly Promoted Production Supervisor",
+    "negotiation_goal": "To adhere to the management policy while acknowledging his long service to the company.",
+    "current_position": "The candidate wants his 12 years of service to be recognized, granting him the 4-week vacation tier immediately."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Vivid Spark Agency wants to hire Chloe, a freelance designer, for a full-time position. She has a pre-booked, non-refundable, three-week trip to Japan scheduled two months after her proposed start date, before she would accrue any significant PTO.",
+    "employer": "Creative Director at Vivid Spark Agency",
+    "candidate": "Senior Graphic Designer",
+    "negotiation_goal": "To secure the candidate without setting a precedent for allowing large amounts of unpaid time off during the probationary period.",
+    "current_position": "The candidate requires written approval for the three-week unpaid leave before she will sign the offer letter."
+  },
+  {
+    "domain": "vacation time",
+    "background": "David, a traveling nurse accustomed to taking long breaks between contracts, is accepting a permanent ICU role at 'MetroHealth General.' He wants to continue his annual six-week medical mission trip, which is difficult to accommodate with standard hospital staffing policies.",
+    "employer": "Nurse Manager at MetroHealth General",
+    "candidate": "ICU Nurse",
+    "negotiation_goal": "To find a scheduling solution that allows for an extended leave without disrupting unit coverage.",
+    "current_position": "The candidate is asking for the ability to take a single, six-week block of unpaid or front-loaded paid time off each year."
+  },
+  {
+    "domain": "vacation time",
+    "background": "'GlobalCorp,' a large conglomerate, has just acquired a small tech firm with an 'unlimited PTO' policy. Emily, a key developer from the acquired firm, is being integrated into GlobalCorp's strict, tenure-based accrual system, which would start her at two weeks.",
+    "employer": "Integration HR Specialist at GlobalCorp",
+    "candidate": "Senior Software Developer",
+    "negotiation_goal": "To standardize benefits for all employees while retaining crucial talent from the acquisition.",
+    "current_position": "The candidate is requesting to be placed at the 5-year tenure level for vacation (4 weeks) to compensate for the loss of her flexible policy."
+  },
+  {
+    "domain": "vacation time",
+    "background": "An internal employee, Marco, is relocating from his company's Rome office to the US headquarters of 'Fintech Global.' His European contract included 30 days of vacation, but the US executive policy maxes out at 20 days.",
+    "employer": "Global HR Director at Fintech Global",
+    "candidate": "VP of Product Strategy (Internal Transfer)",
+    "negotiation_goal": "To manage the transition fairly while aligning the employee with the US benefits structure.",
+    "current_position": "The candidate insists on retaining his 30-day vacation allotment, citing it as a standard in his home country and critical for family visits."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Dr. Chen is being offered a tenure-track professorship at 'Northwood University.' To ensure he can complete a major book project, he wants to secure a research leave before his formal tenure review, which is outside the standard sabbatical policy.",
+    "employer": "Dean of the College of Arts & Sciences",
+    "candidate": "Assistant Professor of History",
+    "negotiation_goal": "To recruit a promising academic without circumventing established faculty leave policies.",
+    "current_position": "The candidate is asking for a contractual guarantee of a one-semester, pre-tenure sabbatical in his third year of employment."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Jasmine is a candidate for a role at 'CloudSphere Inc.,' a startup that touts 'unlimited vacation.' Having heard negative stories about such policies, she is skeptical and wants to understand the practical reality before accepting the offer.",
+    "employer": "Engineering Manager at CloudSphere Inc.",
+    "candidate": "DevOps Engineer",
+    "negotiation_goal": "To reassure the candidate about the policy's flexibility and the company's healthy work-life culture.",
+    "current_position": "The candidate is requesting language in her offer letter stating a 'company-encouraged and supported minimum of 4 weeks' of vacation annually."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Isabelle has been a successful contractor for 'Digital Momentum' for three years. The company is now converting her to a full-time employee, but their offer includes the standard entry-level vacation package.",
+    "employer": "Marketing Director at Digital Momentum",
+    "candidate": "Content Strategist",
+    "negotiation_goal": "To convert the contractor to an employee under the standard full-time benefits policy.",
+    "current_position": "The candidate believes her three years of continuous service as a contractor should count towards vacation seniority."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Tom, a project manager, is returning from parental leave. To help his family adjust, he wants to use his accrued vacation time to work a four-day week for the next several months, a non-standard use of PTO at his engineering firm.",
+    "employer": "Department Head at ConstructBuild Engineering",
+    "candidate": "Project Manager",
+    "negotiation_goal": "To support the employee's family needs while ensuring project continuity and fair workload distribution.",
+    "current_position": "The candidate has formally requested a pre-approved schedule to take every Friday off for the next 15 weeks using his vacation time."
+  },
+  {
+    "domain": "vacation time",
+    "background": "A top-performing salesperson, Kevin, is concerned about taking vacation because his income is heavily commission-based. He is negotiating a new contract with 'SecureNet Solutions' and wants a way to take time off without a significant financial hit.",
+    "employer": "Sales Manager at SecureNet Solutions",
+    "candidate": "Enterprise Account Executive",
+    "negotiation_goal": "To ensure the top salesperson takes time to recharge without creating a complex, one-off commission exception.",
+    "current_position": "The candidate is asking for a guaranteed commission draw for up to three weeks of vacation, equal to his prior six-month weekly average."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Dr. Ramirez is the final candidate for the COO role at 'BioVantage Therapeutics.' As part of her executive compensation package, she is negotiating for a vacation policy that allows for extended, planned international travel.",
+    "employer": "CEO of BioVantage Therapeutics",
+    "candidate": "Chief Operating Officer",
+    "negotiation_goal": "To close the top candidate by showing flexibility on non-cash executive perks.",
+    "current_position": "The candidate wants a contractual guarantee of 6 weeks of vacation annually, plus an additional paid week every other year for extended trips."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Liam is being hired as a manager at 'Peakview Mountain Resort,' a seasonal business with strict vacation blackout dates from December to March. Liam's family has a long-standing, non-negotiable holiday reunion in mid-December.",
+    "employer": "General Manager at Peakview Mountain Resort",
+    "candidate": "Hospitality Manager",
+    "negotiation_goal": "To hire the best candidate while protecting peak season staffing, which is critical to the business.",
+    "current_position": "The candidate is asking for a one-time, written exception to the blackout policy for his first year."
+  },
+  {
+    "domain": "vacation time",
+    "background": "Ben is being hired as the first non-founder employee at 'Apptivate Mobile,' an early-stage startup. The salary offer is below market rate but includes a significant equity stake. Ben wants to negotiate non-cash benefits to make the offer more appealing.",
+    "employer": "Founder/CEO of Apptivate Mobile",
+    "candidate": "Lead Mobile Developer",
+    "negotiation_goal": "To hire a foundational employee on a tight budget by being flexible in other areas.",
+    "current_position": "The candidate is asking for a guaranteed five-week vacation policy to be written into his contract, arguing it's essential to prevent burnout."
+  },
+  {
+    "domain": "vacation time",
+    "background": "A retail chain, 'StyleSpree,' is recruiting a District Manager, Sarah, from a competitor known for its unlimited PTO policy. StyleSpree has a rigid, tenure-based PTO system that maxes out at four weeks, which feels like a step back for Sarah.",
+    "employer": "Regional VP of Operations at StyleSpree",
+    "candidate": "District Manager",
+    "negotiation_goal": "To hire a proven leader without breaking the company's standardized vacation policy for this job level.",
+    "current_position": "The candidate is requesting five additional floating holidays to bridge the gap between the four-week policy and her current time off."
+  }
+]

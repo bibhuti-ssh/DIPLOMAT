@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "retention offer",
+    "background": "Priya, a top-performing senior AI engineer at a 150-person tech startup, received a massive offer from Google. The startup cannot match the salary but desperately needs her expertise to close its Series B funding round.",
+    "employer": "CTO of 'InnovateAI'",
+    "candidate": "Senior AI Engineer (Priya)",
+    "negotiation_goal": "Retain critical talent by offering a significant equity stake and a promotion to 'Principal Engineer' with strategic oversight.",
+    "current_position": "Holding a lucrative offer from a tech giant, primarily focused on the large compensation difference."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Mark, a veteran ICU nurse with 30 years of experience, is taking early retirement due to burnout. The hospital is implementing a new patient-tracking system that only he has been trained on, and his departure would halt the rollout.",
+    "employer": "Nursing Director at 'St. Luke's Medical Center'",
+    "candidate": "Head Charge Nurse (Mark)",
+    "negotiation_goal": "Convince him to stay for 6 months in a part-time, high-paid consultant role to train other staff and oversee the system launch.",
+    "current_position": "Adamant about retiring fully due to emotional and physical exhaustion; not interested in a full-time role."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Chloe, a high-potential financial analyst, has an offer from a rival investment bank. Her real reason for leaving is her micromanaging and toxic VP, a fact she has not disclosed to HR.",
+    "employer": "HR Business Partner at 'Barrington Capital'",
+    "candidate": "Financial Analyst (Chloe)",
+    "negotiation_goal": "Uncover the real reason for her departure and offer an internal transfer to a more respected team with a modest salary increase.",
+    "current_position": "Has a comparable offer and is using it as a pretext to escape a negative work environment without burning bridges."
+  },
+  {
+    "domain": "retention offer",
+    "background": "David, a plant manager at a mid-sized manufacturing firm, holds essential 'tribal knowledge' of legacy equipment. He has accepted an offer in another state to be closer to his aging parents.",
+    "employer": "VP of Operations at 'Precision Parts Inc.'",
+    "candidate": "Plant Manager (David)",
+    "negotiation_goal": "Negotiate a phased retirement plan where he works remotely as a consultant and flies in quarterly to mentor his successor.",
+    "current_position": "Firm on relocating for family reasons but is loyal to the company and open to a non-traditional arrangement."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Maria, the lead fundraiser for a well-known environmental non-profit, is leaving for a corporate ESG role with double the salary. She is passionate about the non-profit's mission but faces significant personal financial pressure.",
+    "employer": "Executive Director of 'GreenFuture Foundation'",
+    "candidate": "Director of Development (Maria)",
+    "negotiation_goal": "Offer a title change to 'Chief Development Officer' and a new bonus structure tied directly to major fundraising milestones.",
+    "current_position": "Feeling torn between her passion for the mission and a life-changing salary offer that provides financial security."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Leo, a talented graphic designer at a large marketing agency, feels his work has become creatively stifling. A small, boutique agency has offered him a lead role on more innovative projects.",
+    "employer": "Creative Director at 'OmniBrand Solutions'",
+    "candidate": "Senior Graphic Designer (Leo)",
+    "negotiation_goal": "Assign him as the creative lead for a prestigious new client and provide a budget for external skill development courses.",
+    "current_position": "Motivated by the promise of greater creative autonomy and career growth, not just a salary increase."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Dr. Chen, a lead scientist, is being poached by a competitor after her promising pharmaceutical research project was suddenly de-funded. She feels her years of work have been wasted and that the company no longer values innovation.",
+    "employer": "Head of R&D at 'BioSynth Pharma'",
+    "candidate": "Lead Research Scientist (Dr. Chen)",
+    "negotiation_goal": "Secure and guarantee multi-year funding to restart her project and offer her full autonomy over the research team.",
+    "current_position": "Deeply disheartened by the company's strategic pivot and has an offer where her research is the top priority."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Sofia, a top-performing retail store manager, has been repeatedly passed over for a corporate promotion. A competitor has offered her a regional manager position, a clear step up the ladder.",
+    "employer": "Regional Director at 'FashionForward Retail'",
+    "candidate": "Store Manager (Sofia)",
+    "negotiation_goal": "Create and offer a new 'District Manager in Training' role with a clearly defined 12-month path to a corporate position.",
+    "current_position": "Frustrated with a perceived lack of internal mobility and has an external offer for the exact promotion she desires."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Ben is the sole IT administrator at a university who understands its archaic, custom-built student registration system. A private tech firm is offering a 30% raise and a standard 9-to-5 workday, a stark contrast to his constant on-call duties.",
+    "employer": "Dean of Administration at 'Northwood University'",
+    "candidate": "Senior Systems Administrator (Ben)",
+    "negotiation_goal": "Match the salary offer and formally approve a four-day work week and the hiring of a junior admin to share the on-call load.",
+    "current_position": "Suffering from severe burnout and highly values the work-life balance promised by the new offer."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Fatima, the Director of Logistics at a traditional freight company, has an offer from a well-funded startup aiming to disrupt the industry with AI. She is excited by the chance to work with modern technology.",
+    "employer": "COO of 'Global Freight Solutions'",
+    "candidate": "Director of Logistics (Fatima)",
+    "negotiation_goal": "Promote her to 'VP of Logistics & Technology' and empower her with a significant budget to lead the company's digital transformation.",
+    "current_position": "Primarily motivated by the opportunity to innovate and escape what she sees as an outdated business model."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Tom, a highly efficient senior paralegal, has been accepted to law school and plans to quit to study full-time. The firm's partners depend on him heavily and see him as a future associate.",
+    "employer": "Managing Partner at 'Wexler & Associates'",
+    "candidate": "Senior Paralegal (Tom)",
+    "negotiation_goal": "Offer to pay for his law school tuition in exchange for a commitment to work part-time and return as an associate post-graduation.",
+    "current_position": "Set on focusing entirely on his studies and has not considered a work-study arrangement."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Aisha, a government cybersecurity analyst, has a lucrative offer from a defense contractor. The pay is 50% higher, but she would lose her federal pension and unparalleled job security.",
+    "employer": "Department Chief at a Federal Security Agency",
+    "candidate": "Cybersecurity Analyst (Aisha)",
+    "negotiation_goal": "Expedite a promotion to the next GS pay grade and provide a detailed financial comparison of total compensation, including pension value.",
+    "current_position": "Tempted by the massive salary jump but anxious about the instability of contract-based private sector work."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Liam, an editor at a prestigious print magazine, is leaving for a fully remote digital media startup. He is exhausted by his two-hour daily commute and the company's rigid in-office policy.",
+    "employer": "Editor-in-Chief at 'Urban Living Magazine'",
+    "candidate": "Senior Editor (Liam)",
+    "negotiation_goal": "Make an exception to the company's return-to-office policy and grant him a permanent hybrid schedule with 4 days remote.",
+    "current_position": "His decision is almost entirely based on achieving a better work-life balance through a remote work arrangement."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Jessica, the sole salesperson at a small, family-owned business, has exceeded all targets but is on a fixed salary. A larger competitor has offered her a role with a standard base salary plus an aggressive commission structure.",
+    "employer": "Owner of 'Miller's Fine Cabinetry'",
+    "candidate": "Sales Representative (Jessica)",
+    "negotiation_goal": "Immediately introduce a competitive, uncapped commission plan on top of her current salary to reward her high performance.",
+    "current_position": "Feels her direct contribution to revenue growth is not being fairly compensated and wants to earn based on performance."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Marcus, an aerospace engineer on a slow-moving government defense project, is bored and frustrated. He has an offer from a commercial space exploration company known for its fast-paced, innovative environment.",
+    "employer": "Program Manager at 'AeroDefense Corp'",
+    "candidate": "Systems Engineer (Marcus)",
+    "negotiation_goal": "Offer an immediate transfer to a newly formed, classified R&D 'skunkworks' project and include a substantial one-time retention bonus.",
+    "current_position": "Seeking more dynamic and impactful work; feels his career is stagnating in his current role."
+  },
+  {
+    "domain": "retention offer",
+    "background": "Antoine, the executive chef at a 5-star hotel, has been offered a partnership stake in a new, independent restaurant. He feels constrained by the hotel's corporate structure and lack of creative freedom.",
+    "employer": "General Manager of 'The Grand Regent Hotel'",
+    "candidate": "Executive Chef (Antoine)",
+    "negotiation_goal": "Offer him creative control to rebrand and run the hotel's flagship restaurant as his own concept, including a profit-sharing agreement.",
+    "current_position": "Desires the autonomy and financial upside of ownership, which he believes is impossible in his current corporate role."
+  }
+]

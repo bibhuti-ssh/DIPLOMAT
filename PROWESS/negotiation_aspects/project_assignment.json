@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "project assignment",
+    "background": "InnovateFast, a tech startup, needs its best junior developer, Maria, to maintain a critical but aging legacy system for a major client. However, a high-profile AI project is also starting, which is where Maria wants to be for her career growth.",
+    "employer": "CTO, David Chen",
+    "candidate": "Junior Software Engineer, Maria Garcia",
+    "negotiation_goal": "To secure Maria's commitment to the legacy system project for at least six months to ensure client stability.",
+    "current_position": "Wants to be assigned to the new AI project, arguing it better aligns with her skills and long-term career goals."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Global pharmaceutical giant BioGenCorp is fast-tracking a cardiovascular drug trial and wants its top scientist, Dr. Petrova, to lead it. This assignment would require pausing her promising, long-term oncology research for at least a year.",
+    "employer": "Head of R&D, Dr. Aris Thorne",
+    "candidate": "Principal Scientist, Dr. Lena Petrova",
+    "negotiation_goal": "To persuade Dr. Petrova to lead the high-priority cardiovascular project due to her unique expertise.",
+    "current_position": "Concerned the move will permanently derail her primary research and is asking for a co-lead role or guaranteed resource protection for her oncology project."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Vivid Creations, a mid-size ad agency, has landed a lucrative contract with a controversial fast-fashion brand. The managing partner wants the agency's most talented creative director, Kenji, to lead the campaign.",
+    "employer": "Managing Partner, Sarah Jenkins",
+    "candidate": "Creative Director, Kenji Tanaka",
+    "negotiation_goal": "To assign Kenji to the new client account to ensure a successful, award-winning campaign.",
+    "current_position": "Expressing strong ethical objections to the client's labor practices and is threatening to refuse the assignment."
+  },
+  {
+    "domain": "project assignment",
+    "background": "A federal government department is launching a critical national cybersecurity infrastructure upgrade that requires on-site leadership in a different state. They have selected their top analyst, Fatima, for a mandatory 9-month temporary relocation.",
+    "employer": "Division Chief, Marcus Vance",
+    "candidate": "Senior Cybersecurity Analyst, Fatima Al-Jamil",
+    "negotiation_goal": "To get Fatima to accept the temporary relocation and lead the regional implementation team.",
+    "current_position": "Willing to relocate, but is negotiating for a significant per diem increase, a furnished corporate apartment instead of a hotel, and a guaranteed promotion upon her return."
+  },
+  {
+    "domain": "project assignment",
+    "background": "GreenFuture Alliance, an environmental non-profit, is reassigning a successful program manager, Leo, from a stable rainforest conservation project. He is being moved to lead a new, underfunded, and high-risk political advocacy initiative.",
+    "employer": "Director of Programs, Emily Carter",
+    "candidate": "Program Manager, Leo Martinez",
+    "negotiation_goal": "To have Leo apply his proven skills to launch the new, strategically important advocacy initiative.",
+    "current_position": "Concerned about the new project's lack of resources and unclear metrics for success, and is asking for a specific, guaranteed budget before accepting."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Automotive manufacturer AutoForge Inc. needs to send a top engineer, Anja, to their struggling plant in Mexico for two years to lead a complete operational turnaround. The assignment is high-stakes and requires immense personal and professional commitment.",
+    "employer": "VP of Global Operations, Bill Foster",
+    "candidate": "Senior Process Engineer, Anja Schmidt",
+    "negotiation_goal": "To convince Anja to accept the challenging international assignment and take ownership of the plant's recovery.",
+    "current_position": "Open to the challenge but is demanding full operational autonomy, a hand-picked team, and a substantial completion bonus tied to performance metrics."
+  },
+  {
+    "domain": "project assignment",
+    "background": "A top-tier consulting firm, Stratagem Advisory, needs to assign a key consultant, Chloe, to a client project requiring 80% weekly travel for six months. Chloe recently communicated her desire for better work-life balance and more local projects.",
+    "employer": "Senior Partner, Richard Sterling",
+    "candidate": "Management Consultant, Chloe Davis",
+    "negotiation_goal": "To staff Chloe on this critical client engagement, as her skills are a perfect match for the client's needs.",
+    "current_position": "Pushing back on the travel requirement and negotiating for a 40% travel cap, a role-share with another consultant, or a different local assignment."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Online retailer StyleThread is pulling a talented data analyst, Priya, from the marketing team for a three-month assignment. She is needed on a purely operational project to optimize warehouse supply chain logistics.",
+    "employer": "Head of Analytics, Ben Carter",
+    "candidate": "Marketing Data Analyst, Priya Sharma",
+    "negotiation_goal": "To temporarily reassign Priya to the urgent logistics project where her analytical skills are desperately needed.",
+    "current_position": "Worried the move is a detour from her marketing analytics career path and is asking for the project's scope to include customer delivery experience analysis."
+  },
+  {
+    "domain": "project assignment",
+    "background": "At fintech startup PaySphere, a product manager just quit, leaving a flagship project in disarray—behind schedule and over budget. The VP of Product needs another PM, Sam, to step in and rescue the project immediately.",
+    "employer": "VP of Product, Olivia Reed",
+    "candidate": "Product Manager, Sam Jones",
+    "negotiation_goal": "To get Sam to take ownership of the failing project and get it back on track for launch.",
+    "current_position": "Willing to be a 'hero' but is negotiating for the authority to re-scope the project, a larger engineering team, and a formal guarantee that his performance will be judged on recovery, not the original failed deadlines."
+  },
+  {
+    "domain": "project assignment",
+    "background": "A major state university is asking a tenured history professor, Dr. Chen, to chair a time-consuming, two-year curriculum redesign committee. This significant administrative burden will take away from the time he can dedicate to his grant-funded research.",
+    "employer": "Dean of Arts & Sciences, Dr. Eleanor Vance",
+    "candidate": "Tenured Professor, Dr. Robert Chen",
+    "negotiation_goal": "To appoint Dr. Chen to this vital leadership role to ensure the success of the university-wide initiative.",
+    "current_position": "Agrees to serve as chair but is negotiating for a one-course reduction in his teaching load for the duration of the assignment and funding for a graduate research assistant."
+  },
+  {
+    "domain": "project assignment",
+    "background": "PixelForge Studios is shifting resources to a promising new mobile game and wants to assign their best character artist, Isabelle. Her passion and expertise, however, are in creating complex characters for the studio's flagship AAA console games.",
+    "employer": "Studio Art Director, Max Riley",
+    "candidate": "Lead Character Artist, Isabelle Dubois",
+    "negotiation_goal": "To transfer Isabelle to the mobile game project to elevate its art quality and appeal.",
+    "current_position": "Feels the assignment is a creative step down and is asking for a written guarantee that she will be the lead character artist on the next AAA console title."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Metropolitan General Hospital is implementing a new electronic health record (EHR) system and wants a respected Clinical Nurse Supervisor, David, to be the project's clinical lead. The role is highly technical and administrative, falling far outside his normal patient care duties.",
+    "employer": "Chief Nursing Officer, Maria Flores",
+    "candidate": "Clinical Nurse Supervisor, David Chen",
+    "negotiation_goal": "To leverage David's clinical credibility to ensure buy-in from nursing staff for the new EHR system.",
+    "current_position": "Hesitant due to his lack of IT project experience, and is negotiating for the hospital to fund a formal project management certification (PMP) for him."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Energy company TerraDrill needs to assign a senior geologist, Sofia, to a 6-month rotation on a remote offshore platform. This assignment is more hazardous and has a more grueling schedule than her typical onshore research projects.",
+    "employer": "Regional Operations Manager, Frank Miller",
+    "candidate": "Senior Geologist, Sofia Rossi",
+    "negotiation_goal": "To fill the critical geologist role on the offshore platform with an experienced, reliable professional.",
+    "current_position": "Accepts the necessity of the role but is negotiating for a 25% hazard pay bonus and an additional week of paid time off for every month spent offshore."
+  },
+  {
+    "domain": "project assignment",
+    "background": "SaaS company CloudLeap is rebalancing sales territories. Top performer Tom is being assigned a portfolio of stable, long-term clients with no growth potential, which will cap his commission earnings, while newer reps get high-growth territories.",
+    "employer": "Director of Sales, Jessica Wu",
+    "candidate": "Senior Account Executive, Tom Brady",
+    "negotiation_goal": "To have a trusted, senior rep manage a valuable client portfolio that requires retention focus, not growth.",
+    "current_position": "Arguing the assignment penalizes his success and is negotiating for a higher base salary to compensate for the lower commission potential."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Keystone Builders has a new project with a very important but notoriously difficult and demanding client. Management wants their most resilient project manager, Brenda, to handle the assignment to minimize escalations and risk.",
+    "employer": "Head of Projects, Alan Grant",
+    "candidate": "Project Manager, Brenda Sanchez",
+    "negotiation_goal": "To assign their best PM to the high-risk project to protect the client relationship and project profitability.",
+    "current_position": "Aware of the client's reputation and is negotiating for a 'difficulty bonus' upon project completion and a direct line to the VP for immediate backup on client disputes."
+  },
+  {
+    "domain": "project assignment",
+    "background": "Digital publisher Nexus Media is pivoting to video and wants a senior editor, Aisha, to lead its new, fast-paced TikTok news division. Aisha is a Pulitzer-nominated editor known for her deep, long-form investigative journalism.",
+    "employer": "Editor-in-Chief, Charles King",
+    "candidate": "Senior Editor, Aisha Khan",
+    "negotiation_goal": "To place a respected, high-standard editor in charge of the new video venture to give it journalistic credibility.",
+    "current_position": "Feels the role is a poor fit for her skills and is negotiating to hire a co-lead with a social video background to handle the operational side, allowing her to focus on editorial strategy."
+  }
+]

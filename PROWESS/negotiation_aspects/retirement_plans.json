@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "retirement plans",
+    "background": "A fast-growing tech startup, 'Innovate AI,' cannot yet afford a 401(k) match. They are trying to hire a senior engineer from a large corporation who is accustomed to a generous retirement package.",
+    "employer": "HR Manager",
+    "candidate": "Senior AI Engineer",
+    "negotiation_goal": "To substitute a retirement match with a significant grant of stock options to conserve cash while securing top talent.",
+    "current_position": "The candidate is pushing for a guaranteed employer contribution, viewing stock options as too volatile for retirement planning."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "An environmental non-profit, 'GreenFuture Alliance,' operates on a tight budget. They are making an offer to an experienced candidate for their Executive Director role.",
+    "employer": "Board Chair",
+    "candidate": "Executive Director Candidate",
+    "negotiation_goal": "To convince the candidate to accept a SIMPLE IRA with a modest match instead of a more costly 401(k) plan.",
+    "current_position": "The candidate is concerned about the lower contribution limits of a SIMPLE IRA and is asking for a deferred compensation agreement to bridge the gap."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "Legacy manufacturing firm 'SteelWorks Inc.' wants to retain the expertise of its best Plant Manager, who is nearing retirement age. They have proposed a phased retirement plan for him.",
+    "employer": "HR Director",
+    "candidate": "Veteran Plant Manager",
+    "negotiation_goal": "To structure a part-time work arrangement that allows for knowledge transfer without setting a costly precedent for other employees.",
+    "current_position": "The manager is concerned that working part-time will negatively impact the final calculation of his defined-benefit pension and wants written assurance it will be based on his highest-earning years."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A prestigious law firm, 'Lexington & Crowe,' is promoting a senior associate to partner. The partnership buy-in also serves as the primary retirement vehicle for partners.",
+    "employer": "Managing Partner",
+    "candidate": "Newly Appointed Partner",
+    "negotiation_goal": "To finalize the terms of the capital contribution and buy-in, which funds the retirement payouts for existing partners.",
+    "current_position": "The candidate is negotiating the vesting schedule of his partnership equity and the payout terms upon his eventual retirement or departure."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "'Northwood University' is trying to recruit a renowned professor from a private institution with a superior 403(b) plan. The state university has a less flexible, mandatory pension system.",
+    "employer": "University Provost",
+    "candidate": "Tenured Professor",
+    "negotiation_goal": "To attract the professor without altering the state-mandated pension structure for all faculty.",
+    "current_position": "The professor is demanding the university credit his years of service from his prior role, allowing him to vest immediately in the pension plan."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "Mid-sized retail chain 'StyleVibe Apparel' has a strict 5-year cliff vesting schedule for its 401(k) match. A top candidate for a Regional Manager role is hesitant due to this policy.",
+    "employer": "HR Business Partner",
+    "candidate": "Regional Manager Candidate",
+    "negotiation_goal": "To secure the candidate by offering a one-time signing bonus equivalent to the first year's match, instead of changing the company-wide vesting policy.",
+    "current_position": "The candidate is requesting an accelerated vesting schedule specifically for him, arguing the 5-year cliff is a major financial risk."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "Hospital network 'Unity Health' recently froze its pension plan for new hires, moving to a 401(k)-only system. They are now trying to hire a top surgeon who expects a pension.",
+    "employer": "Chief Human Resources Officer",
+    "candidate": "Chief of Surgery Candidate",
+    "negotiation_goal": "To create a competitive executive deferred compensation package that mimics the financial security of a pension, thereby adhering to the new policy.",
+    "current_position": "The candidate is unwilling to leave her current role without a guaranteed, defined-benefit style retirement income stream."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A 15-person creative agency, 'Pixel & Prose,' uses a SEP IRA, where only the employer contributes. They are hiring a new Creative Director who wants to save aggressively for retirement.",
+    "employer": "Founding Partner",
+    "candidate": "Creative Director",
+    "negotiation_goal": "To offer a competitive employer contribution percentage that aligns with the budget and other senior staff compensation.",
+    "current_position": "The candidate is asking for a 20% salary contribution to his SEP IRA, which is significantly higher than the 15% offered."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A defense contractor, 'Aegis Defense Solutions,' is hiring a cybersecurity expert leaving a long-term federal government position. The candidate's retirement savings are in the government's Thrift Savings Plan (TSP).",
+    "employer": "Talent Acquisition Lead",
+    "candidate": "Cybersecurity Analyst",
+    "negotiation_goal": "To ease the candidate's transition by offering professional financial planning assistance for the TSP rollover into the company 401(k).",
+    "current_position": "The candidate is asking for a 'transition bonus' to compensate for losing access to the TSP's uniquely low-cost G Fund."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A tech platform for freelancers, 'TaskFlow,' is negotiating a long-term contract with a high-value consultant. As an independent contractor, the consultant is not eligible for company benefits.",
+    "employer": "Head of Platform Partnerships",
+    "candidate": "Independent Management Consultant",
+    "negotiation_goal": "To increase the contractor's project rate to cover their self-funded retirement contributions, without classifying them as an employee.",
+    "current_position": "The consultant wants the contract to explicitly itemize a 'retirement stipend' to simplify funding his Solo 401(k) and for tax purposes."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "The founder of 'O'Malley & Sons Construction' is retiring and handing the CEO role to his daughter. They are negotiating his retirement package from the family-owned business.",
+    "employer": "Incoming CEO (Daughter)",
+    "candidate": "Retiring Founder (Father)",
+    "negotiation_goal": "To structure a sustainable retirement payout for the founder that doesn't strain the company's cash flow during the leadership transition.",
+    "current_position": "The founder wants a guaranteed fixed annuity, while the incoming CEO is proposing a smaller base payout supplemented by a percentage of future profits."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A pre-IPO biotech firm, 'GenoLife Sciences,' is hiring a CFO. The 401(k) plan is basic, so the negotiation is focused on equity as the primary retirement wealth-building tool.",
+    "employer": "CEO",
+    "candidate": "Chief Financial Officer",
+    "negotiation_goal": "To provide a lucrative stock option grant that incentivizes a successful IPO while conserving equity for future funding rounds.",
+    "current_position": "The CFO candidate is negotiating for an accelerated vesting clause in the event of an acquisition before the IPO occurs."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "'TransGlobal Airways' is in heated contract negotiations with its pilot's union. Management wants to move new hires from a defined-benefit pension to a defined-contribution plan to cut costs.",
+    "employer": "VP of Labor Relations",
+    "candidate": "Pilot's Union Representative",
+    "negotiation_goal": "To reduce long-term pension liabilities to remain competitive, even if it means creating a two-tiered retirement system.",
+    "current_position": "The union is holding firm, refusing to accept any plan that eliminates the pension for new pilots, seeing it as a critical industry standard."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "To promote younger talent, 'Stratagem Consulting' is offering a voluntary early retirement package to senior partners. A partner is negotiating the specifics of his exit package.",
+    "employer": "Head of HR",
+    "candidate": "Senior Partner",
+    "negotiation_goal": "To encourage the partner's departure by finalizing a mutually agreeable buyout and benefits package.",
+    "current_position": "The partner is arguing for an extended health coverage bridge, wanting the firm to cover his insurance premiums for five years until he is Medicare-eligible."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "A software company, 'CodeWeavers,' is trying to hire a young, high-earning developer who prefers post-tax retirement savings. The company's 401(k) plan currently only allows for traditional pre-tax contributions.",
+    "employer": "HR Generalist",
+    "candidate": "Senior Software Developer",
+    "negotiation_goal": "To explore adding a Roth 401(k) option to the company's plan as a low-cost way to modernize benefits and attract the candidate.",
+    "current_position": "The candidate has a competing offer from a firm that already provides a Roth 401(k) and has stated this is a key decision factor for him."
+  },
+  {
+    "domain": "retirement plans",
+    "background": "'Prairie Growers Co-op,' an agricultural cooperative, offers a variable profit-sharing plan as its main retirement benefit. A candidate for Logistics Director is wary of the income uncertainty.",
+    "employer": "General Manager",
+    "candidate": "Logistics Director Candidate",
+    "negotiation_goal": "To reassure the candidate of the plan's historical strength while upholding the variable, all-for-one nature of the co-op's compensation philosophy.",
+    "current_position": "The risk-averse candidate is requesting a guaranteed minimum annual retirement contribution, separate from and in addition to any profit-sharing payout."
+  }
+]

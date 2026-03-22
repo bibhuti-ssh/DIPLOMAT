@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "salary negotiation",
+    "background": "A promising new graduate, Maya, is offered an entry-level software engineering role at a fast-growing tech startup, 'InnovateNow'. The initial offer is heavy on stock options but low on base salary, which is a concern for her given her student loan debt.",
+    "employer": "HR Generalist at InnovateNow",
+    "candidate": "New Graduate Software Engineer",
+    "negotiation_goal": "To convince Maya that the long-term value of equity outweighs a higher base salary, thus preserving cash flow.",
+    "current_position": "Requesting a 15% increase in the base salary, willing to slightly reduce the initial stock option grant in exchange."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "David, a Marketing Manager at a large CPG company 'Global Goods Inc.', has been promoted to Senior Marketing Manager. The initial salary increase offered is only 8%, which is below his expectations for the added responsibilities.",
+    "employer": "Senior HR Business Partner at Global Goods Inc.",
+    "candidate": "Internal Candidate for Promotion",
+    "negotiation_goal": "To retain David and keep his new salary within the established pay band for the role, avoiding internal equity issues.",
+    "current_position": "Has presented market data showing a 15-20% increase is standard for this level of promotion and is asking for a salary at the top of the band."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A non-profit organization, 'GreenFuture Foundation', wants to hire an experienced grant writer, Sarah. Sarah is passionate about the mission but the offered salary is $20,000 below her current role in the corporate sector.",
+    "employer": "Executive Director at GreenFuture Foundation",
+    "candidate": "Experienced Grant Writer (Career Changer)",
+    "negotiation_goal": "To secure Sarah by highlighting non-monetary benefits like mission alignment, flexible hours, and generous PTO, as the budget is fixed.",
+    "current_position": "Asking if the organization can meet her halfway on salary or offer a significant non-taxable stipend for professional development."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "Alex, a top-performing sales executive at 'DataDriven Solutions', has received a lucrative offer from a direct competitor. He has presented this to his manager, and HR is now involved in crafting a counter-offer to retain him.",
+    "employer": "Compensation & Benefits Manager at DataDriven Solutions",
+    "candidate": "Sales Executive with a Competing Offer",
+    "negotiation_goal": "To retain a key employee without simply matching the competitor's offer, focusing on total rewards and long-term incentives.",
+    "current_position": "Is leveraging a competing offer for a higher base salary, an improved commission structure, and an immediate retention bonus."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A San Francisco-based tech firm, 'CloudSphere', is hiring a fully remote Senior DevOps Engineer, Ben, who lives in a low-cost-of-living area in the Midwest. There is a disagreement on whether the salary should be based on SF market rates or his local market rates.",
+    "employer": "Talent Acquisition Lead at CloudSphere",
+    "candidate": "Remote Senior DevOps Engineer",
+    "negotiation_goal": "To implement the company's location-based pay policy, offering a salary adjusted for the candidate's geography to ensure fairness across the remote workforce.",
+    "current_position": "Argues that his value and the work's impact are independent of his location and is requesting a salary aligned with the company's headquarters' market."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "An established manufacturing company, 'Precision Parts Co.', is hiring a Plant Manager, Ken. The negotiation is less about base salary and more about the performance bonus structure, which is tied to complex metrics like production uptime, safety incidents, and cost savings.",
+    "employer": "HR Director at Precision Parts Co.",
+    "candidate": "Experienced Plant Manager",
+    "negotiation_goal": "To finalize a bonus structure that is both motivating for the candidate and directly aligned with the company's strategic operational goals.",
+    "current_position": "Wants a higher guaranteed portion of the bonus and clearer, more attainable targets for the variable portion."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "Maria is re-entering the workforce after a five-year career break to raise her children. A mid-sized advertising agency, 'Creative Spark', is interested in her for a Project Manager role but is hesitant about her requested salary due to the employment gap.",
+    "employer": "Hiring Manager at Creative Spark",
+    "candidate": "Professional Returning to Workforce",
+    "negotiation_goal": "To hire Maria at a competitive but cautious salary, possibly with a 6-month performance review to re-evaluate compensation.",
+    "current_position": "Is advocating for a salary based on her prior experience level, highlighting volunteer and freelance work done during her break to demonstrate current skills."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A European pharmaceutical giant, 'PharmaLife,' is relocating a Senior Research Scientist, Dr. Ivan Petrov, from its German lab to its new US headquarters in Boston. The negotiation involves a complex package including base salary, cost-of-living adjustment, and relocation assistance.",
+    "employer": "Global Mobility Specialist at PharmaLife",
+    "candidate": "Internal International Transferee",
+    "negotiation_goal": "To execute a standard international relocation package while managing expectations on housing costs and tax implications in a high-cost city.",
+    "current_position": "Requesting a larger housing allowance and a guaranteed bonus to offset the significant personal and financial disruption of the move."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A government defense contractor, 'Aegis Defense', is hiring a Cybersecurity Analyst, Fatima, for a role with a federally mandated salary ceiling. The company's profit margin on the role is fixed, leaving almost no room for salary negotiation.",
+    "employer": "Recruiter at Aegis Defense",
+    "candidate": "Cybersecurity Analyst",
+    "negotiation_goal": "To hire Fatima by explaining the contractual salary constraints and focusing the negotiation on benefits, clearance sponsorship, and training opportunities.",
+    "current_position": "Is asking for a higher salary based on her certifications and market rates, unaware of the government contract's rigid pay structure."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "'HealthFirst Hospital' is offering a Nurse Practitioner, James, a position. The salary is largely standardized by a union-negotiated scale based on years of experience, but James is arguing his specialized certifications warrant a higher starting step on the scale.",
+    "employer": "Nurse Recruiter at HealthFirst Hospital",
+    "candidate": "Certified Nurse Practitioner",
+    "negotiation_goal": "To adhere to the collective bargaining agreement's pay scale while acknowledging the candidate's valuable skills, perhaps through a one-time sign-on bonus.",
+    "current_position": "Wants to be placed two steps higher on the salary scale than offered, citing his dual certifications in acute care and gerontology."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A boutique consulting firm, 'Momentum Strategy', wants to convert a long-term freelance consultant, Chloe, into a full-time Principal Consultant. The challenge is translating her high freelance day-rate into an annual salary with benefits, which on paper looks like a pay cut.",
+    "employer": "Partner at Momentum Strategy",
+    "candidate": "Freelancer transitioning to Full-Time",
+    "negotiation_goal": "To show that the total compensation package (base + bonus + benefits + PTO) is more valuable and stable than her freelance income.",
+    "current_position": "Is hesitant about the base salary offer and is focused on matching her previous year's freelance earnings, while also asking for a guaranteed bonus."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "After a merger, an employee from the acquired smaller company, 'AgileSoft', is being mapped to a new role at the larger 'EnterpriseCorp'. The employee, Tom, is currently paid 10% above the maximum of the salary band for his new, equivalent role at EnterpriseCorp.",
+    "employer": "HR Integration Manager at EnterpriseCorp",
+    "candidate": "Employee from Acquired Company",
+    "negotiation_goal": "To transition the employee smoothly by 'red-circling' his salary (freezing it until the band catches up) and explaining the new compensation philosophy.",
+    "current_position": "Is concerned about future earnings growth and is trying to negotiate a title bump or a lump-sum payment to compensate for the salary freeze."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A financial services firm, 'Blackwood Capital,' is hiring a Chief Financial Officer. The negotiation is centered on the total executive compensation package, including a multi-year guaranteed bonus, deferred compensation, and specific severance clauses (golden parachute).",
+    "employer": "CEO and Board Compensation Committee Chair",
+    "candidate": "C-Level Executive (CFO)",
+    "negotiation_goal": "To secure a top-tier CFO with a competitive package that heavily incentivizes long-term company performance and shareholder value.",
+    "current_position": "Is negotiating for a larger percentage of company equity and a sign-on bonus to cover unvested stock being left at his current company."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A university is hiring a tenure-track Assistant Professor, Dr. Lee. The salary is fairly rigid by department standards, so Dr. Lee is negotiating for non-salary items like a larger research startup fund, a reduced teaching load for the first year, and summer salary support.",
+    "employer": "Department Head at a University",
+    "candidate": "Assistant Professor Candidate",
+    "negotiation_goal": "To attract a promising academic within budget by offering valuable, non-salary research support that will set them up for success.",
+    "current_position": "Is primarily focused on securing resources that will enable her to get her lab running quickly and successfully apply for external grants."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "A retail chain, 'FashionForward', is promoting a Store Manager, Jessica, to a Regional Manager position that requires relocation. The company has a standard relocation lump sum, but Jessica has a family and a house to sell, and she argues the amount is insufficient.",
+    "employer": "Regional HR Manager at FashionForward",
+    "candidate": "Internal Promotee Requiring Relocation",
+    "negotiation_goal": "To facilitate the promotion by exploring cost-effective ways to enhance the relocation package without rewriting company policy.",
+    "current_position": "Is asking for an exception to the policy, requesting direct reimbursement for moving services and temporary housing instead of the lump sum."
+  },
+  {
+    "domain": "salary negotiation",
+    "background": "'Artisan Collective', an e-commerce platform for handmade goods, is hiring its first in-house Data Scientist, Wei. As the first person in this role, there is no established salary benchmark within the company, making the negotiation wide open.",
+    "employer": "Founder/CEO of Artisan Collective",
+    "candidate": "First Data Scientist Hire",
+    "negotiation_goal": "To hire a foundational technical expert at a salary that is sustainable for the bootstrapped company but competitive enough to attract talent.",
+    "current_position": "Has provided market data for similar roles in the tech industry and is asking for a salary at the high end of that range, citing the impact he will have."
+  }
+]

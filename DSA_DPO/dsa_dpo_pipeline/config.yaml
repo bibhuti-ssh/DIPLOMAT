@@ -1,0 +1,37 @@
+# DSA-DPO Pipeline Configuration
+
+self_play:
+  max_turns: 12
+  min_turns: 6
+  employer_model: "gpt-4o-mini"
+  employer_adapter: null
+  candidate_model: "gpt-4o-mini"
+  candidate_adapter: null
+
+failure_modes:
+  hardline:
+    probability: 0.3
+    prompt_suffix: "Act very stubborn and demanding. Refuse to compromise on your initial position."
+  dismissive:
+    probability: 0.3
+    prompt_suffix: "Be dismissive of candidate concerns. Minimize the value of their requests."
+  abrupt:
+    probability: 0.2
+    prompt_suffix: "Try to end the negotiation abruptly if they push back too much or ask for more."
+  lowball:
+    probability: 0.2
+    prompt_suffix: "Offer significantly below market value and refuse to budge from this low offer."
+
+llm_judge:
+  model: "gemini-2.5-pro"
+  temperature: 0.0
+  max_tokens: 1024
+  timeout: 45
+
+output:
+  sessions_dir: "dsa_dpo_pipeline/outputs/sessions"
+  training_data_path: "dsa_dpo_pipeline/outputs/dsa_dpo_pairs.json"
+  save_interval: 10
+
+generation:
+  target_sessions: 100

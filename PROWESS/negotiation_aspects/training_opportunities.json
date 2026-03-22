@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "training opportunities",
+    "background": "A fast-growing AI startup, SynthAI, is hiring a mid-level software engineer. The candidate, Priya, is skilled but lacks experience with a specific proprietary machine learning framework the company uses.",
+    "employer": "CTO, David Chen",
+    "candidate": "Software Engineer Candidate, Priya Sharma",
+    "negotiation_goal": "Secure the candidate by offering a structured onboarding program, without setting a precedent for expensive external courses for all new hires.",
+    "current_position": "Priya is requesting the company sponsor a $10,000 external certification in the relevant ML framework before she starts."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "OmniSteel Manufacturing is promoting a long-time floor supervisor, Marco, to Plant Operations Manager. The new role requires financial acumen and P&L management, skills Marco has not formally developed.",
+    "employer": "HR Director, Susan Vance",
+    "candidate": "Newly Promoted Plant Operations Manager, Marco Rossi",
+    "negotiation_goal": "Convince Marco to accept an internal mentorship program and a series of online business courses, rather than the full-time Executive MBA he has requested.",
+    "current_position": "Marco believes an MBA is essential for success and is making it a condition of accepting the promotion."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A top-performing quantitative analyst, Chloe, at a large investment bank, Blackwood Capital, has a competing offer. To retain her, the bank is preparing a counter-offer that includes non-monetary benefits.",
+    "employer": "Managing Director, Richard Sterling",
+    "candidate": "Senior Quantitative Analyst, Chloe Davis",
+    "negotiation_goal": "Retain Chloe by offering a spot in a prestigious international leadership program, which has a two-year service commitment attached.",
+    "current_position": "Chloe is hesitant about the two-year commitment and wants the training opportunity without the restrictive service clause."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A clinical nurse, Ben Carter, at St. Jude's Hospital wants to transition into a healthcare informatics role internally. He lacks the required IT certifications for this new career path.",
+    "employer": "Department Head of IT, Dr. Evelyn Reed",
+    "candidate": "Clinical Nurse, Ben Carter",
+    "negotiation_goal": "Offer tuition assistance for certifications, contingent on Ben working part-time in his current role while studying to avoid a staffing shortage.",
+    "current_position": "Ben wants the hospital to cover the full cost and provide paid study leave to complete the certifications quickly."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "During her annual review, a store manager at fashion retail chain VogueVerse, Sofia, has met sales targets but has poor team retention scores. She identifies a lack of formal management training as the root cause.",
+    "employer": "Regional Director, Frank Miller",
+    "candidate": "Store Manager, Sofia Garcia",
+    "negotiation_goal": "Approve a conflict resolution workshop, but tie future pay increases to measurable improvements in employee retention metrics post-training.",
+    "current_position": "Sofia wants access to the training without her bonus being contingent on its immediate, measurable success."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A non-profit environmental agency, GreenSphere, has received a grant for digital transformation. The Communications Director wants to train the entire team on advanced data visualization tools on a tight budget.",
+    "employer": "Communications Director, Aisha Khan",
+    "candidate": "Senior Communications Officer (representing the team), Liam Murphy",
+    "negotiation_goal": "Implement a 'train-the-trainer' model where one person gets certified and then trains the rest of the team to save costs.",
+    "current_position": "Liam argues this puts an unfair burden on him and that everyone should receive professional, external training to ensure quality."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A fully remote graphic designer, Leo, at Creative Spark Agency wants to attend a premier, in-person design conference in another country. Company policy typically only covers virtual training for remote employees.",
+    "employer": "HR Manager, Brenda Holloway",
+    "candidate": "Remote Graphic Designer, Leo Petrov",
+    "negotiation_goal": "Offer to pay for the conference ticket but ask the employee to cover his own travel and accommodation as a compromise.",
+    "current_position": "Leo argues that since in-office employees have travel for training covered, his should be too, as a matter of equity."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A municipal government office is upgrading its records system to a cloud-based platform. A veteran records clerk, Margaret, is highly resistant to the change and fears she cannot learn the new system.",
+    "employer": "IT Project Manager, Kenji Tanaka",
+    "candidate": "Senior Records Clerk, Margaret Sullivan",
+    "negotiation_goal": "Negotiate a phased training plan with one-on-one coaching to ease her transition, preventing an early retirement that would cause a knowledge drain.",
+    "current_position": "Margaret is asking to be exempt from the new system and continue using the old one until she retires in three years."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A long-term freelance video editor, Sam, for online media company BuzzStream, wants access to the company's expensive subscription for a new AI-powered editing software. As a contractor, he is not typically eligible for such benefits.",
+    "employer": "Head of Production, Olivia Chen",
+    "candidate": "Freelance Video Editor, Sam Jones",
+    "negotiation_goal": "Provide software access in exchange for a lower project rate on his next three assignments, effectively having him co-pay for the tool.",
+    "current_position": "Sam believes that since the tool improves his efficiency for the company's benefit, they should bear the full cost without impacting his rates."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "PharmaCo Global has hired a new VP of R&D, Dr. Thorne, from academia who has deep scientific knowledge but no corporate leadership experience. The company wants to ensure a smooth transition.",
+    "employer": "Chief Human Resources Officer, Eleanor Vance",
+    "candidate": "New VP of R&D, Dr. Aris Thorne",
+    "negotiation_goal": "Make a mandatory executive coaching and financial strategy course part of his onboarding package.",
+    "current_position": "Dr. Thorne feels the mandatory coaching is patronizing and wants to focus solely on the scientific aspects of his role for the first year."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A junior aerospace engineer, Fatima, at AeroDynamics Inc. is requesting sponsorship for a highly specialized and expensive ($50,000) certification. The company is worried she will leave after getting certified.",
+    "employer": "Engineering Department Head, Bob Schmidt",
+    "candidate": "Junior Aerospace Engineer, Fatima Al-Jamil",
+    "negotiation_goal": "Agree to fund the certification, but only if Fatima signs a three-year training repayment agreement (a 'training bond').",
+    "current_position": "Fatima is strongly opposed to the training bond, feeling it unfairly restricts her career mobility and shows a lack of trust."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A data analyst, Carlos, from the marketing team at an e-commerce firm wants to gain experience in product management. He is requesting to spend 20% of his time shadowing the product team and taking a certification course.",
+    "employer": "Marketing Director, Jessica Wu",
+    "candidate": "Data Analyst, Carlos Ramirez",
+    "negotiation_goal": "Allow the cross-functional training but require him to maintain 100% of his current marketing analytics output.",
+    "current_position": "Carlos is requesting a temporary 20% reduction in his primary responsibilities to accommodate the training."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A paralegal, Anne, is returning to the law firm Riggs & Harrison after a five-year career break. Legal software and e-discovery procedures have changed significantly in her absence.",
+    "employer": "Partner, Michael Riggs",
+    "candidate": "Returning Paralegal, Anne Hathaway",
+    "negotiation_goal": "Offer a 'returnship' at a lower initial salary that includes a comprehensive re-training program, with a salary review after six months.",
+    "current_position": "Anne is asking to be reinstated at her previous seniority level and salary, with the firm providing all necessary training."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A concierge at a luxury hotel, The Grand Elysian, has noticed an increase in tourists from a specific country. He wants the hotel to pay for an intensive business language course to better serve these high-value guests.",
+    "employer": "General Manager, Isabelle Dubois",
+    "candidate": "Hotel Concierge, Pierre Fournier",
+    "negotiation_goal": "Offer to reimburse 50% of the course fee upon successful completion, making it a shared investment.",
+    "current_position": "Pierre argues that since this skill directly generates revenue, the hotel should cover 100% of the cost upfront."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "A brilliant but abrasive Senior Developer, Kevin, at a SaaS company, CodeStream, is being considered for a Tech Lead position. Peer feedback indicates his poor communication skills are a major obstacle.",
+    "employer": "VP of Engineering, Maria Flores",
+    "candidate": "Senior Developer, Kevin Lee",
+    "negotiation_goal": "Make his promotion to Tech Lead contingent on him completing a mandatory 'Leadership and Interpersonal Communication' course.",
+    "current_position": "Kevin feels his technical skills alone justify the promotion and sees the 'soft skills' training as an unnecessary hurdle."
+  },
+  {
+    "domain": "training opportunities",
+    "background": "The CFO of a CPG company, FreshBite Foods, is retiring in two years. The company wants to groom the Director of Finance, Emily, for the role, which requires international finance experience.",
+    "employer": "CEO, Mark Johnson",
+    "candidate": "Director of Finance, Emily Carter",
+    "negotiation_goal": "Propose a six-month international assignment at their European headquarters as a key part of her development plan.",
+    "current_position": "Emily is hesitant to accept the overseas assignment due to family commitments and is asking for an alternative development path."
+  }
+]

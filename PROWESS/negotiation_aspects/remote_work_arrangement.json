@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "remote work arrangement",
+    "background": "InnovateFast, a tech startup, is trying to retain a top-performing senior engineer, Anya, who wants to relocate to Portugal. The company has no legal entity there, creating significant tax and employment law challenges.",
+    "employer": "Ben, HR Manager",
+    "candidate": "Anya, Senior Software Engineer",
+    "negotiation_goal": "Retain Anya by finding a compliant solution, such as a contractor conversion or using an Employer of Record (EOR) service, without setting a costly precedent.",
+    "current_position": "Wants to remain a full-time employee with benefits while living abroad and is willing to help navigate the legalities."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "Global Trust Bank, a large financial institution, has mandated a company-wide 'Return to Office' policy requiring 3 days per week on-site. Carlos, a data analyst hired as fully remote during the pandemic, has a 2-hour commute and his performance has been exemplary.",
+    "employer": "Evelyn, Corporate HR Director",
+    "candidate": "Carlos, Data Analyst",
+    "negotiation_goal": "Enforce the new policy uniformly to ensure fairness and team cohesion, offering relocation assistance as the only alternative.",
+    "current_position": "Requesting a formal exception to the policy based on his original remote contract and consistent high performance."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "At SteelWorks Inc., a heavy manufacturing company, a Plant Manager is requesting a 2-day-per-week remote schedule. He argues that administrative duties, scheduling, and reporting can be done efficiently from home.",
+    "employer": "Gloria, VP of Operations",
+    "candidate": "Frank, Plant Manager",
+    "negotiation_goal": "Maintain 100% on-site presence for all plant leadership to ensure shop floor visibility, immediate problem-solving, and strong team leadership.",
+    "current_position": "Seeking a hybrid schedule to improve work-life balance, believing his on-site team is self-sufficient enough to handle two days without him physically present."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A new graphic designer at the PixelPerfect creative agency accepted a role advertised as 'remote'. During onboarding, she was informed of a mandatory in-office 'collaboration day' every Friday, which was not mentioned in the offer letter.",
+    "employer": "Ian, HR Coordinator",
+    "candidate": "Hannah, Graphic Designer",
+    "negotiation_goal": "Integrate the new hire into the team's established hybrid rhythm and creative process, which relies heavily on in-person brainstorming.",
+    "current_position": "Wants the mandatory office day waived, as she lives 3 hours away and accepted the job on the premise of it being fully remote."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A medical records specialist at HealthBridge Clinic, a non-profit, has requested a permanent remote work arrangement. This is a reasonable accommodation request under the ADA for a newly diagnosed chronic illness.",
+    "employer": "Karen, HR Generalist",
+    "candidate": "Javier, Medical Records Specialist",
+    "negotiation_goal": "Accommodate the employee's medical needs while ensuring strict HIPAA compliance and data security for a home office setup.",
+    "current_position": "Needs a fully remote role to manage his health condition and is willing to undergo any required security audits and training."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "The marketing department at ConnectSphere, a mid-size SaaS company, has been successfully remote for two years. A new Chief Marketing Officer has been hired and wants the entire team to return to the office to 'foster collaborative energy'.",
+    "employer": "Leo, Chief Marketing Officer",
+    "candidate": "Maria, Marketing Director (representing her team)",
+    "negotiation_goal": "Bring the team back on-site at least 3 days a week to build a new, unified culture under his leadership.",
+    "current_position": "Advocating to maintain the team's proven, successful fully remote structure, arguing that forcing a return would damage morale and risk resignations."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A top sales executive at a multinational corporation wants to work from the company's London office for six months for personal family reasons. Her role is based in New York and is tied to the North American market.",
+    "employer": "Omar, Global Mobility Specialist",
+    "candidate": "Nina, Sales Executive",
+    "negotiation_goal": "Assess and mitigate the significant tax, payroll, and visa implications of a temporary international work arrangement.",
+    "current_position": "Believes she can effectively cover her US market from the UK by adjusting her work hours and is requesting the company facilitate the temporary transfer."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "An IT security analyst for GovSecure Solutions, a government contractor, works with classified information. He is proposing a hybrid model where he works from a company-audited secure home office on non-classified tasks.",
+    "employer": "Quentin, Head of Security",
+    "candidate": "Peter, IT Security Analyst",
+    "negotiation_goal": "Uphold a strict policy that all work, regardless of classification level, must be done within a secure company facility (SCIF) to eliminate any potential security risks.",
+    "current_position": "Wants a 2-day remote work week to focus on administrative and unclassified system monitoring tasks, arguing it boosts his productivity."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A customer support team lead at e-commerce company ShopSwiftly is being promoted to Manager. The promotion is contingent on her relocating to the corporate HQ, but she currently manages her fully remote team from another state.",
+    "employer": "HR Business Partner",
+    "candidate": "Rachel, Customer Support Team Lead",
+    "negotiation_goal": "Have the new manager on-site to build cross-functional relationships with product and logistics teams, which is seen as crucial for the role's success.",
+    "current_position": "Wants to accept the promotion but remain fully remote, arguing she can effectively manage her remote team and build relationships virtually."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A university instructional designer, hired to develop online courses, has always worked remotely. A new Dean wants him to take on a hybrid role that includes leading in-person faculty training workshops, which is outside his original job scope.",
+    "employer": "Dean of Faculty Development",
+    "candidate": "Dr. Samuel Chen, Instructional Designer",
+    "negotiation_goal": "Utilize the employee's expertise to improve on-campus teaching, requiring a regular physical presence.",
+    "current_position": "Wishes to remain fully remote and focused on online course development as per his contract, or to receive a title and salary change reflecting the new responsibilities."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "At PixelStorm Games, a junior game developer on a hybrid schedule wants to move to a lower cost-of-living area and work fully remotely. Her manager is concerned this will hinder her professional development and integration with the team.",
+    "employer": "Usman, Lead Developer",
+    "candidate": "Tina, Junior Game Developer",
+    "negotiation_goal": "Keep the junior developer on a hybrid schedule to ensure she receives crucial hands-on mentorship and benefits from spontaneous team collaboration.",
+    "current_position": "Requesting a transition to a fully remote arrangement, promising to maintain high communication levels and be available during core hours."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A highly efficient paralegal at a traditional, prestigious law firm is requesting a permanent remote work arrangement. The firm's partners value a 'face-time' culture and believe physical presence is key to client trust and team collaboration.",
+    "employer": "Managing Partner",
+    "candidate": "Veronica, Paralegal",
+    "negotiation_goal": "Bring the employee back to the office at least 4 days a week to align with the firm's established, traditional work culture.",
+    "current_position": "Wants a permanent full-remote role, citing her documented increase in productivity and case file throughput since working from home."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "GenoLife Labs, a biotech firm, is implementing a uniform 3-day hybrid policy for all staff to avoid creating a 'two-tier' system between on-site lab scientists and administrative roles. A computational biologist, whose work is 100% computer-based, is challenging this.",
+    "employer": "HR Director",
+    "candidate": "Dr. Wei, Computational Biologist",
+    "negotiation_goal": "Maintain a single, equitable hybrid policy across the entire company to foster a sense of unity and prevent resentment from lab-bound staff.",
+    "current_position": "Arguing that the policy is illogical for his role, and he should be granted a fully remote exception based on job function, not a blanket policy."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "A recent graduate has a job offer from Capital Ventures for a Junior Financial Analyst role. The company has a flexible hybrid policy, but the candidate wants a contractual guarantee of fully remote work after his initial 6-month training period.",
+    "employer": "Brenda, University Recruiter",
+    "candidate": "Alex, Candidate for Junior Financial Analyst",
+    "negotiation_goal": "Secure the candidate without setting a contractual precedent for full remote work for entry-level roles, preferring to keep it a flexible, performance-based option.",
+    "current_position": "Seeking a written commitment for a permanent remote option post-training before accepting the offer."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "After a grueling project, a senior project manager at BuildIt Consulting wants to reward her high-performing team with a 'work from anywhere' month. The company COO is concerned about fairness and the precedent it sets for other teams on a strict hybrid schedule.",
+    "employer": "David, Chief Operating Officer",
+    "candidate": "Chloe, Senior Project Manager",
+    "negotiation_goal": "Deny the request to maintain policy consistency and avoid perceptions of favoritism across the organization.",
+    "current_position": "Negotiating for this one-time exception as a unique, performance-based reward to prevent team burnout and boost morale."
+  },
+  {
+    "domain": "remote work arrangement",
+    "background": "The new CFO of Global Retail Corp was hired with a remote-first contract. Six months in, the CEO is pressuring her to spend at least 50% of her time at the headquarters to build rapport with the board and investors.",
+    "employer": "CEO",
+    "candidate": "Eleanor, Chief Financial Officer",
+    "negotiation_goal": "Persuade the CFO that significant physical presence at HQ is non-negotiable for an executive role to effectively lead and influence stakeholders.",
+    "current_position": "Wants to uphold her original remote-first agreement, citing family commitments and the ability to travel for key meetings rather than maintain a permanent hybrid schedule."
+  }
+]

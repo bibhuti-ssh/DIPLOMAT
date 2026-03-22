@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "bonus structure",
+    "background": "InnovateNext, a tech startup, is hiring its first Head of Product. The company's standard bonus is tied to revenue targets, which are ambitious and not yet predictable for this new role.",
+    "employer": "CEO of InnovateNext",
+    "candidate": "Head of Product Candidate",
+    "negotiation_goal": "Link the bonus to product development milestones and user engagement metrics to incentivize building a strong foundation.",
+    "current_position": "Wants a guaranteed first-year bonus or a lower revenue threshold, arguing that product success precedes revenue."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "At banking giant OmniCorp, a high-performing wealth management team's bonus pool was reduced due to firm-wide losses in another division. The team collectively generated significant profit and feels penalized.",
+    "employer": "Managing Director",
+    "candidate": "Lead Financial Advisor (representing team)",
+    "negotiation_goal": "Maintain team morale by explaining the firm-wide policy while exploring a small discretionary fund to reward top individuals.",
+    "current_position": "Requesting their bonus calculation be ring-fenced from the firm's overall performance, based only on their division's P&L."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A plant manager at Apex Manufacturing, David, significantly improved efficiency. However, the company bonus is a flat-rate profit share, and market downturns have erased overall profits for the year.",
+    "employer": "Director of Operations",
+    "candidate": "Plant Manager",
+    "negotiation_goal": "Acknowledge the individual's contribution without setting a precedent of individual bonuses over the company-wide structure.",
+    "current_position": "Argues for a one-time 'efficiency bonus' based on the documented millions he saved the company, independent of market performance."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "GreenFuture, a non-profit, ties its annual bonus for the fundraising team to hitting specific monetary goals. The team lead, Maria, missed the goal but vastly increased the number of new, recurring small-dollar donors.",
+    "employer": "Executive Director",
+    "candidate": "Fundraising Team Lead",
+    "negotiation_goal": "Reward the strategic success of building a sustainable donor base without undermining the importance of hitting top-line financial targets.",
+    "current_position": "Wants the bonus structure to be amended post-facto to include metrics for 'new donor acquisition' and 'recurring gift value'."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A top salesperson, Kenji, at software firm CloudSphere is being promoted to a non-selling Sales Enablement Manager. He is concerned about moving from a lucrative commission-based structure to a corporate MBO-based bonus.",
+    "employer": "VP of Sales",
+    "candidate": "Senior Account Executive",
+    "negotiation_goal": "Convince the candidate that the new role has long-term value and the new bonus structure is fair for a non-quota carrying position.",
+    "current_position": "Requesting a multi-year guaranteed bonus that tapers down, bridging the gap between his previous and expected earnings."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "BioGen Pharma's bonus for its R&D scientists is paid upon a drug receiving FDA approval. Dr. Lena Hanson's team just passed a critical Phase II trial, a multi-year effort, but final approval is still years away.",
+    "employer": "Head of Research & Development",
+    "candidate": "Lead Research Scientist",
+    "negotiation_goal": "Retain key scientific talent by offering some reward for a major milestone without paying out the full 'success' bonus prematurely.",
+    "current_position": "Advocating for the introduction of smaller, milestone-based bonuses for completing clinical trial phases to maintain team motivation."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "StyleStream, a fashion retail company, bases its regional manager bonuses on in-store sales growth. The company's recent, aggressive e-commerce push has cannibalized local store sales, hurting managers' performance metrics.",
+    "employer": "National Head of Retail",
+    "candidate": "Regional Manager",
+    "negotiation_goal": "Revise the bonus model to be more holistic without creating complex and hard-to-track attribution systems.",
+    "current_position": "Proposing a new structure where managers get a percentage of online sales originating from zip codes within their region."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A senior project manager at ConstructWell is moving to a high-risk, turnaround project that is currently failing. Her bonus is tied to project completion on time and on budget, which seems impossible given the current state.",
+    "employer": "Chief Operating Officer",
+    "candidate": "Senior Project Manager",
+    "negotiation_goal": "Incentivize the candidate to take on the difficult assignment with a structure that rewards progress and recovery, not just final success.",
+    "current_position": "Asking for the bonus to be based on 'percentage of recovery' on the budget and timeline, plus a significant completion bonus if she succeeds."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "At consulting firm Stratagem Global, a newly hired analyst is forfeiting a year-end bonus from their previous job. Stratagem's standard offer does not include a sign-on bonus.",
+    "employer": "HR Manager",
+    "candidate": "Incoming Strategy Analyst",
+    "negotiation_goal": "Secure the candidate without inflating starting packages, possibly by offering a guaranteed 'performance bonus' after 6 months.",
+    "current_position": "Requesting a one-time sign-on bonus equal to the prorated amount they are leaving behind."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "The marketing team at PixelArc Games won a prestigious industry award for a campaign that had a modest budget. The company bonus is tied to ROI, and while positive, the campaign's ROI wasn't as high as larger, less creative projects.",
+    "employer": "Chief Marketing Officer",
+    "candidate": "Marketing Director",
+    "negotiation_goal": "Provide a discretionary bonus to recognize the brand value of the award without devaluing the primary ROI metric.",
+    "current_position": "Arguing that brand prestige is a long-term asset and requesting a special team 'award bonus' to celebrate the achievement."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A logistics company, ShipFast, is acquiring a smaller competitor. The integration manager's bonus is contingent on a smooth integration completed in 6 months, but unexpected legal hurdles are causing delays beyond their control.",
+    "employer": "Director of M&A",
+    "candidate": "Integration Manager",
+    "negotiation_goal": "Adjust the timeline-based incentives to reflect the new reality and keep the manager focused on a quality integration, not a rushed one.",
+    "current_position": "Wants to decouple the bonus from the 6-month timeline and tie it instead to specific integration milestones, regardless of timing."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "At hospital network HealthFirst, a department head's bonus is based on reducing operational costs. She invested in new preventative care technology that increased short-term costs but is projected to create massive long-term savings.",
+    "employer": "Hospital Administrator",
+    "candidate": "Head of Cardiology Department",
+    "negotiation_goal": "Find a way to reward the strategic, long-term investment while still adhering to the current fiscal year's budget constraints.",
+    "current_position": "Asking for the capital expenditure on the new tech to be excluded from her department's operational cost calculation for bonus purposes."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A cybersecurity firm, SecurePoint, offers a bonus for discovering new system vulnerabilities. A junior analyst found a major flaw but collaborated with a senior analyst to validate and report it; only the 'reporting' employee is eligible.",
+    "employer": "Cybersecurity Team Lead",
+    "candidate": "Junior Security Analyst",
+    "negotiation_goal": "Encourage collaboration by splitting the bonus, but needs to navigate the rigid, written policy.",
+    "current_position": "Requesting that the 'discovery bonus' be officially split between the two employees who worked on the issue."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "The entire engineering department at DataWeave Inc. hit their aggressive product launch targets. However, the sales department missed its targets significantly, causing the company-wide profit pool for bonuses to shrink to almost zero.",
+    "employer": "VP of HR",
+    "candidate": "Director of Engineering",
+    "negotiation_goal": "Retain top engineering talent by finding a non-monetary or alternative reward, as the cash pool is fixed.",
+    "current_position": "Proposing a special allocation of stock options or an extra week of PTO for his department to compensate for the lost cash bonus."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "A law firm, Barrow & Finch, promotes an associate, Chloe, to a junior partner. The partner bonus is based on 'origination credit' for new clients, but Chloe's main contribution has been expanding work with existing firm clients.",
+    "employer": "Senior Partner",
+    "candidate": "Newly Promoted Junior Partner",
+    "negotiation_goal": "Integrate the new partner into the bonus system fairly while upholding the high value placed on bringing in new business.",
+    "current_position": "Wants the bonus formula to also recognize 'expansion credit' for generating new revenue from existing clients."
+  },
+  {
+    "domain": "bonus structure",
+    "background": "Ad agency CreativeFuel is shifting from individual performance bonuses to a team-based bonus to foster collaboration. A star graphic designer, who consistently outperforms her peers, feels this new structure penalizes her.",
+    "employer": "Creative Director",
+    "candidate": "Senior Graphic Designer",
+    "negotiation_goal": "Reassure a top performer of her value and the benefits of the team structure without making an exception for one person.",
+    "current_position": "Asking for a hybrid model where 50% of her bonus is team-based and 50% is tied to her individual performance metrics."
+  }
+]

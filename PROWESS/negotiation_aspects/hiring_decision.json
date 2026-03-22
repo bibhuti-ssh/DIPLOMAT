@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "hiring decision",
+    "background": "Innovatech Solutions, a mid-sized tech firm, extended an offer to their top candidate for a Senior Software Engineer role. The candidate, Priya Sharma, has just received a strong counter-offer from her current employer and is now hesitant to accept.",
+    "employer": "Hiring Manager at Innovatech Solutions",
+    "candidate": "Priya Sharma, Senior Software Engineer",
+    "negotiation_goal": "To secure the candidate by matching or creatively exceeding the counter-offer without breaking the established salary band for the role.",
+    "current_position": "Candidate is leaning towards staying at her current company unless Innovatech can significantly improve their offer, possibly with more stock options."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Sproutly AI, a seed-stage startup, wants to hire a seasoned marketing director, Maria Flores, to build their brand from scratch. The company is cash-poor but has significant growth potential, so the offer is heavy on equity and light on salary.",
+    "employer": "CEO of Sproutly AI",
+    "candidate": "Maria Flores, experienced Marketing Director",
+    "negotiation_goal": "Convince the candidate of the company's future value and secure her with a compelling equity package and a modest salary increase.",
+    "current_position": "Candidate requires a higher base salary to cover her living expenses and is skeptical about the valuation used for the equity offer."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Global Logistics Corp is promoting an internal employee, David Chen, to an Operations Manager position. The initial salary offer is a standard 10% increase, but David feels this is well below the market rate for an external hire with the same responsibilities.",
+    "employer": "HR Business Partner at Global Logistics Corp",
+    "candidate": "David Chen, internal candidate for Operations Manager",
+    "negotiation_goal": "To retain a valuable internal employee by justifying the salary offer or finding non-monetary benefits, while managing internal pay equity.",
+    "current_position": "Candidate has presented market data and is requesting a salary that matches external hire benchmarks, not just a promotional raise."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Heartland Manufacturing, located in a rural area, is trying to hire a specialized supply chain analyst, Kevin O'Malley, from a major metropolitan city. The salary is competitive, but the negotiation has stalled on the details of the relocation package.",
+    "employer": "Recruiting Manager at Heartland Manufacturing",
+    "candidate": "Kevin O'Malley, Supply Chain Analyst",
+    "negotiation_goal": "To finalize the hire by creating a relocation package that addresses the candidate's concerns about housing, spousal job support, and cultural transition.",
+    "current_position": "Candidate is requesting a comprehensive package including a home-buying assistance bonus and resources for his partner's job search."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "The GreenFuture Foundation, a non-profit, has made an offer to Sarah Jenkins for a Grant Writer position. Sarah is passionate about the mission but the salary is 20% below her current role in the corporate sector.",
+    "employer": "Executive Director of GreenFuture Foundation",
+    "candidate": "Sarah Jenkins, experienced corporate writer",
+    "negotiation_goal": "To bridge the compensation gap by emphasizing non-monetary benefits like flexible work hours, additional PTO, and the intrinsic value of the mission.",
+    "current_position": "Candidate is asking for a four-day work week and an increased professional development budget to make the salary reduction more palatable."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Data Insights Inc. wants to convert a high-performing contractor, Leo Martinez, into a full-time Data Scientist. The full-time salary offer, when annualized, is less than his current contract rate due to the added costs of benefits and taxes for the company.",
+    "employer": "Department Head at Data Insights Inc.",
+    "candidate": "Leo Martinez, contract Data Scientist",
+    "negotiation_goal": "To successfully convert the contractor by demonstrating the long-term value of benefits, job security, and career progression.",
+    "current_position": "Candidate is focused on his take-home pay and is requesting a higher base salary or a significant sign-on bonus to offset the perceived pay cut."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "A mid-sized e-commerce company, ShopFast Online, has offered a Product Manager position to Aisha Khan. While the salary and benefits are acceptable, Aisha is insisting on a 'Senior Product Manager' title to reflect her years of experience.",
+    "employer": "HR Manager at ShopFast Online",
+    "candidate": "Aisha Khan, Product Manager candidate",
+    "negotiation_goal": "To hire the candidate without causing title inflation or internal equity issues, possibly by defining a clear path to the senior title.",
+    "current_position": "Candidate is firm on the senior title, viewing it as critical for her career trajectory and future opportunities."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Sterling Financial Group has a rigid salary band for a Compliance Officer role but needs to hire Tom Bradley, who is asking for more. The company has budget for a large, one-time sign-on bonus but cannot increase the base salary.",
+    "employer": "Compensation Analyst at Sterling Financial Group",
+    "candidate": "Tom Bradley, Compliance Officer candidate",
+    "negotiation_goal": "To secure the candidate by using the sign-on bonus to meet his first-year financial expectations, despite the base salary constraint.",
+    "current_position": "Candidate is wary of a large bonus and is pushing for a higher, more stable base salary, arguing it affects future earnings potential."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "A fully remote company, CodeAnywhere, is hiring a developer, Ben Carter, who lives in a high-cost-of-living city. The company uses a national average for salary bands, and the offer feels low to the candidate.",
+    "employer": "Tech Recruiter at CodeAnywhere",
+    "candidate": "Ben Carter, Backend Developer",
+    "negotiation_goal": "To reach an agreement by offering a one-time home office stipend or other remote work perks, without adjusting the base salary based on location.",
+    "current_position": "Candidate is arguing for a location-based salary adjustment, citing local market rates for his skills."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Apex Consulting is recruiting a former star employee, Dr. Evelyn Reed, for a Principal Consultant role. Evelyn left two years ago for a competitor and knows the company's pay scales and her own value.",
+    "employer": "Managing Partner at Apex Consulting",
+    "candidate": "Dr. Evelyn Reed, 'Boomerang' candidate",
+    "negotiation_goal": "To re-hire a known top performer by offering a package that acknowledges her new experience and institutional knowledge, including a special retention bonus.",
+    "current_position": "Candidate is negotiating for a salary at the very top of the pay band and a guaranteed bonus for the first year, leveraging her past success."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "BuildRight Construction needs a Project Manager to start a new project immediately. Their top choice, Laura Romano, is bound by a three-month non-compete agreement with her current employer.",
+    "employer": "Director of Operations at BuildRight Construction",
+    "candidate": "Laura Romano, Project Manager",
+    "negotiation_goal": "To secure the candidate's commitment despite the delayed start, perhaps by offering a signing bonus upon contract acceptance to bridge the waiting period.",
+    "current_position": "Candidate is unable to change her start date and is concerned about the loss of income during the non-compete period."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "ConnectCRM, a B2B SaaS company, is hiring a new Sales Director. The candidate, Markus Vail, wants to alter the standard compensation plan, proposing a lower base salary in exchange for a higher, uncapped commission rate.",
+    "employer": "VP of Sales at ConnectCRM",
+    "candidate": "Markus Vail, Sales Director candidate",
+    "negotiation_goal": "To evaluate the risk and reward of the proposed commission structure and agree on a plan that motivates the candidate while aligning with company goals.",
+    "current_position": "Candidate is confident in his ability to exceed targets and wants to be compensated directly for high performance, even if it means more personal risk."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "BioGen Pharma is hiring a research scientist, Dr. Kenji Tanaka, from academia. The negotiation is stuck on non-financial terms related to intellectual freedom, such as the ability to publish research and attend international conferences.",
+    "employer": "R&D Department Head at BioGen Pharma",
+    "candidate": "Dr. Kenji Tanaka, academic researcher",
+    "negotiation_goal": "To hire the brilliant researcher by creating a hybrid role that respects academic values within the constraints of a corporate R&D environment.",
+    "current_position": "Candidate is prioritizing his academic reputation and is requesting a contractual guarantee for publication rights and a conference travel budget."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Vivid Designs, a boutique creative agency, has made an offer to a promising Junior Graphic Designer, Chloe Kim. The salary is at the market rate, but Chloe is asking for a guaranteed annual professional development budget.",
+    "employer": "Creative Director at Vivid Designs",
+    "candidate": "Chloe Kim, Junior Graphic Designer",
+    "negotiation_goal": "To sign the eager candidate by formalizing a professional development plan that fits within the company's limited budget.",
+    "current_position": "Candidate is emphasizing her desire for growth and is requesting a $2,000 annual allowance for courses and workshops, which is not a standard perk."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Aegis Defense Systems has extended a conditional offer to a cybersecurity analyst, Jamal Washington. The role requires a top-secret security clearance, a process that can take over a year and is not guaranteed.",
+    "employer": "Security Manager at Aegis Defense Systems",
+    "candidate": "Jamal Washington, Cybersecurity Analyst",
+    "negotiation_goal": "To secure the candidate for a long-term role by negotiating a retention bonus that vests only after the clearance is successfully granted.",
+    "current_position": "Candidate is concerned about the career risk and is asking for a portion of the bonus to be paid upfront upon accepting the conditional offer."
+  },
+  {
+    "domain": "hiring decision",
+    "background": "Prestige Retail Holdings is finalizing an offer for a new Chief Operating Officer, Cynthia Monroe. The base salary and equity are agreed upon, but the negotiation is now focused on the executive-level perks package.",
+    "employer": "Board Compensation Committee Chair",
+    "candidate": "Cynthia Monroe, COO candidate",
+    "negotiation_goal": "To finalize the executive hire by agreeing on a competitive perks package without setting an unsustainable precedent for future hires.",
+    "current_position": "Candidate is negotiating for specific items including a full-time car service, family health coverage extension, and a guaranteed performance bonus floor for the first two years."
+  }
+]

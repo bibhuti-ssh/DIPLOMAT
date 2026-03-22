@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "onboarding",
+    "background": "A software engineer is relocating for a role at a fast-growing tech startup. The company's standard relocation package offers a lump sum, but the engineer needs direct billing for moving services due to a lack of upfront capital.",
+    "employer": "HR Manager at 'Innovate AI'",
+    "candidate": "Newly Hired Software Engineer",
+    "negotiation_goal": "Adhere to the standard lump-sum policy to ensure fairness and administrative simplicity.",
+    "current_position": "Requesting the company pay the moving vendor directly instead of receiving a post-move reimbursement."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A senior financial analyst joining a large investment bank has a small educational blog about personal finance. The standard, broad non-compete agreement she received during onboarding would force her to shut it down.",
+    "employer": "Legal Counsel at 'Sterling Capital'",
+    "candidate": "Newly Hired Senior Financial Analyst",
+    "negotiation_goal": "Protect the firm from potential conflicts of interest by enforcing the standard non-compete clause.",
+    "current_position": "Wants a specific carve-out added to the agreement to permit her pre-existing educational blog."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A graphic designer was hired by a boutique marketing agency that provides a standard laptop. However, the designer's workflow is significantly more efficient on a Mac, which is not standard issue and costs more.",
+    "employer": "Creative Director at 'Pixel & Hue'",
+    "candidate": "Newly Hired Graphic Designer",
+    "negotiation_goal": "Manage the department's hardware budget by providing standard-issue, high-performance PC equipment.",
+    "current_position": "Insists that a MacBook Pro is essential for their role and is requesting the company provide one."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A nurse practitioner accepted a position at a regional hospital with the verbal understanding of a flexible on-call schedule. The official onboarding documents outline a rigid, non-negotiable weekend rotation that is more demanding than discussed.",
+    "employer": "Nursing Department Head at 'Crestview Medical Center'",
+    "candidate": "Newly Hired Nurse Practitioner",
+    "negotiation_goal": "Fill the on-call schedule according to established protocol to ensure consistent staffing coverage.",
+    "current_position": "Wants to adjust the on-call schedule for the first six months to what was verbally agreed upon."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A new plant manager for a manufacturing company must attend a mandatory 8-week training program at headquarters in another state. This extended travel poses a significant family hardship that wasn't fully disclosed during interviews.",
+    "employer": "Regional Operations Director at 'DuraForm Industries'",
+    "candidate": "Newly Hired Plant Manager",
+    "negotiation_goal": "Ensure the new manager completes the full, standardized training program essential for the role.",
+    "current_position": "Proposing to complete half the training on-site and the other half remotely or at a closer facility."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A new hire for a non-profit organization accepted a 'hybrid' role. The onboarding materials specify a mandatory in-office schedule of Monday, Tuesday, and Thursday, which conflicts with the candidate's existing childcare arrangements.",
+    "employer": "HR Coordinator at 'GreenFuture Alliance'",
+    "candidate": "Newly Hired Program Coordinator",
+    "negotiation_goal": "Maintain the standardized hybrid schedule for team cohesion and collaboration.",
+    "current_position": "Requesting to swap the in-office days to Tuesday, Wednesday, and Thursday to align with childcare."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A new cybersecurity analyst's start date is contingent on a government security clearance. The process is taking months longer than anticipated, leaving the candidate in a state of financial limbo without income.",
+    "employer": "Security Officer at 'GovSecure Solutions'",
+    "candidate": "Cybersecurity Analyst awaiting clearance",
+    "negotiation_goal": "Follow strict protocol which prohibits non-cleared personnel from starting any work.",
+    "current_position": "Asking for a partial signing bonus to be paid out immediately to cover living expenses during the delay."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A curriculum developer joining an EdTech company has prior, personally created content they use for freelance workshops. The company's standard IP agreement assigns ownership of all 'related' work to the company, and the candidate wants to ensure their prior work is protected.",
+    "employer": "General Counsel at 'LearnSphere Inc.'",
+    "candidate": "Newly Hired Curriculum Developer",
+    "negotiation_goal": "Secure the company’s intellectual property rights as broadly as possible.",
+    "current_position": "Demanding an addendum that explicitly lists and excludes their pre-existing materials from the IP agreement."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A newly hired senior marketing manager at a SaaS company was promised a specific, high-profile project during interviews. The onboarding plan assigns them to a less strategic, maintenance-focused product line for their first year.",
+    "employer": "VP of Marketing at 'CloudLeap Software'",
+    "candidate": "Newly Hired Senior Marketing Manager",
+    "negotiation_goal": "Place the new hire where there is immediate business need, which is on the maintenance project.",
+    "current_position": "Wants a written commitment to be transitioned to the strategic project after a 90-day review period."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A remote-first company offers a one-time $500 home office stipend. The new employee has a documented medical need for a specific ergonomic setup costing $1,200, and is asking for the full amount to be covered.",
+    "employer": "Benefits Administrator at 'WorkFromAnywhere Corp.'",
+    "candidate": "Newly Hired Customer Support Specialist",
+    "negotiation_goal": "Apply the standard stipend policy equally to all new remote employees.",
+    "current_position": "Positioning the request as a necessary medical accommodation rather than a standard office setup."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A university hired a research professor whose work requires a specific lab software license. The department's onboarding budget for the year is depleted, and they are asking the professor to wait until the next fiscal quarter to get the license.",
+    "employer": "Department Chair at 'State University School of Sciences'",
+    "candidate": "Newly Hired Assistant Professor",
+    "negotiation_goal": "Delay non-essential capital expenditures until the next budget cycle begins in three months.",
+    "current_position": "Arguing the software is critical to begin their research immediately and cannot be delayed."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A logistics coordinator's offer includes a sign-on bonus paid after 90 days. Due to an unexpected expense, they need to access a portion of the bonus on their first paycheck to secure housing in the new city.",
+    "employer": "Payroll Manager at 'ShipFast Logistics'",
+    "candidate": "Newly Hired Logistics Coordinator",
+    "negotiation_goal": "Maintain the standard 90-day bonus payout schedule to prevent payroll exceptions.",
+    "current_position": "Requesting a 50% advance on the bonus, to be paid with their first salary deposit."
+  },
+  {
+    "domain": "onboarding",
+    "background": "The offer letter for a Senior Project Manager stated 20 days of PTO. However, the official HR onboarding system defaulted the new hire to the standard 15 days, as 20 days is reserved for employees with 5+ years of tenure.",
+    "employer": "HR Director at 'Constructive Solutions LLC'",
+    "candidate": "Newly Hired Senior Project Manager",
+    "negotiation_goal": "Correct the offer letter's error and align the PTO with standard company policy for new hires.",
+    "current_position": "Insisting the company honor the written terms of the signed offer letter."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A new sales executive for a biotech firm is scheduled for back-to-back onboarding meetings for their first two weeks. The executive wants to spend 50% of that time in the field with existing reps to learn the market and product in a real-world context.",
+    "employer": "Sales Training Manager at 'BioGen Innovations'",
+    "candidate": "Newly Hired Sales Executive",
+    "negotiation_goal": "Ensure the executive completes the mandatory, structured in-house onboarding curriculum.",
+    "current_position": "Advocating for a blended onboarding schedule with significant field-based shadowing."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A junior accountant at a mid-sized firm is required to complete a specific certification within their first year. The firm pays for the exam, but the candidate wants the firm to also pay for a highly-rated, expensive prep course.",
+    "employer": "Hiring Manager at 'BalanceRight Accountants'",
+    "candidate": "Newly Hired Junior Accountant",
+    "negotiation_goal": "Stick to the policy of only reimbursing the final exam cost, not preparatory materials.",
+    "current_position": "Arguing the prep course is an industry-standard tool necessary for passing the exam on the first attempt."
+  },
+  {
+    "domain": "onboarding",
+    "background": "A data scientist joining a large e-commerce company has a pre-planned, three-week international trip six months after their start date. They want to get pre-approval for this unpaid leave during onboarding, before formally booking non-refundable flights.",
+    "employer": "Department Head at 'GlobalCart Online'",
+    "candidate": "Newly Hired Data Scientist",
+    "negotiation_goal": "Avoid setting a precedent by approving extended leave before the employee has passed their probationary period.",
+    "current_position": "Seeking written confirmation that the unpaid leave will be approved before committing financially to the trip."
+  }
+]

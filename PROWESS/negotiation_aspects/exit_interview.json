@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "exit interview",
+    "background": "A high-performing senior software engineer at a mid-size tech company is leaving for a competitor. The exit interview reveals the primary motivation isn't salary, but a lack of project ownership and creative freedom. The company, realizing her value, wants to prevent her departure.",
+    "employer": "CTO of Innovatech Solutions",
+    "candidate": "Departing Senior Software Engineer",
+    "negotiation_goal": "To convince the employee to stay by crafting a compelling counter-offer that includes a promotion to Lead Engineer and autonomy over a new R&D project.",
+    "current_position": "The engineer has already accepted the other offer and is skeptical that the company's culture will genuinely change to support her autonomy."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A long-tenured Marketing Director at a large consumer goods corporation is being laid off due to restructuring. The standard severance package is offered, but during the exit interview, he expresses concern that it doesn't reflect his 15 years of service and the broad non-compete clause he's being asked to sign.",
+    "employer": "HR Director of Global Goods Inc.",
+    "candidate": "Laid-off Marketing Director",
+    "negotiation_goal": "To secure the director's signature on an enhanced non-disclosure and non-disparagement agreement without significantly increasing the company's financial liability.",
+    "current_position": "The director is negotiating for an additional three months of severance and full COBRA coverage in exchange for signing the stricter agreements."
+  },
+  {
+    "domain": "exit interview",
+    "background": "The sole subject matter expert in a niche scientific field is retiring from a biotech startup. During the exit interview, the CEO realizes the immense knowledge gap his departure will create. The conversation shifts from a simple farewell to a business proposal.",
+    "employer": "CEO of BioGenix Labs",
+    "candidate": "Retiring Principal Scientist",
+    "negotiation_goal": "To retain the scientist's expertise by creating a flexible, part-time consulting agreement for the next 12 months to train his replacement.",
+    "current_position": "The scientist is open to consulting but is negotiating for a high hourly rate, a strictly defined scope of work, and a maximum of 10 hours per week."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A regional sales manager is leaving a manufacturing firm to start his own business in an adjacent, non-competing industry. The standard exit paperwork includes a broad one-year non-compete agreement that would prevent him from launching his venture.",
+    "employer": "General Manager of MidWest Steel Fabricators",
+    "candidate": "Departing Regional Sales Manager",
+    "negotiation_goal": "To retain a good relationship and protect company interests by modifying the non-compete clause to be more specific, rather than granting a full release.",
+    "current_position": "The manager is requesting a formal, written waiver of the non-compete clause, arguing his new business poses no threat to the company's market."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A junior game developer at an indie studio mentions her extensive portfolio of personal projects during her exit interview. This raises a red flag for HR regarding potential intellectual property (IP) overlap, as her personal work uses similar game mechanics to a yet-unannounced company project.",
+    "employer": "HR Manager of PixelForge Studios",
+    "candidate": "Junior Game Developer",
+    "negotiation_goal": "To have the developer sign a specific IP clarification document, confirming her personal projects were developed independently and without use of company resources or confidential information.",
+    "current_position": "The developer is worried the studio is trying to claim her personal IP and is refusing to sign anything without consulting a lawyer."
+  },
+  {
+    "domain": "exit interview",
+    "background": "The only database administrator for a small non-profit is leaving for a much higher-paying corporate job. Her exit interview reveals critical systems are poorly documented, and the organization is unprepared for the transition, facing a potential operational crisis.",
+    "employer": "Executive Director of Community Action Alliance",
+    "candidate": "Departing Database Administrator",
+    "negotiation_goal": "To negotiate a phased departure, where the employee extends her end date by two weeks and provides paid, on-call support for the following month.",
+    "current_position": "The administrator is sympathetic but has a firm start date at her new job, so she can only offer limited after-hours support at a premium rate."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A senior account executive with deep client relationships at a SaaS company is leaving to join a non-competitor. The company is concerned about client disruption and potential poaching, even if indirect. The exit interview is focused on ensuring a smooth and controlled handover.",
+    "employer": "VP of Sales at SalesFlow CRM",
+    "candidate": "Senior Account Executive",
+    "negotiation_goal": "To agree on a joint communication plan to key clients and a narrowly defined 6-month non-solicitation clause in exchange for an early payout of all earned commissions.",
+    "current_position": "The executive agrees to a smooth handover but is hesitant to sign any additional restrictive covenants, fearing it could limit her future networking."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A VP of Communications at a global PR firm resigns to take a year-long sabbatical. The firm's proposed departure announcement frames her exit as part of a 'leadership realignment,' which she feels could damage her professional reputation. She uses the exit interview to address this.",
+    "employer": "Head of HR at StratComm Global",
+    "candidate": "Departing VP of Communications",
+    "negotiation_goal": "To finalize mutually agreeable language for the internal and external departure announcements before her exit is official.",
+    "current_position": "The VP insists the announcement must explicitly state she resigned voluntarily for a planned sabbatical and will not sign final paperwork until it is changed."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A financial analyst at an investment bank resigns one week before annual bonuses are paid. The company's policy is ambiguous for voluntary departures, and his manager is hinting the bonus may be forfeited. The exit interview is his last chance to secure the payment.",
+    "employer": "Managing Director at Barrington Capital",
+    "candidate": "Departing Financial Analyst",
+    "negotiation_goal": "To avoid setting a precedent of paying bonuses to departing employees while retaining the analyst's goodwill, possibly by offering a partial payout.",
+    "current_position": "The analyst is demanding his full, pro-rated bonus, arguing it was earned based on performance over the past year and has threatened to escalate the issue."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A lead project manager for a construction firm resigns in the middle of a critical, high-value project. His departure would cause significant delays and financial penalties for the company. The exit interview turns into an urgent negotiation to prevent project collapse.",
+    "employer": "Director of Operations at Apex Construction",
+    "candidate": "Resigning Lead Project Manager",
+    "negotiation_goal": "To retain the manager on a short-term contract by offering a substantial completion bonus tied to reaching a specific project milestone in 6 weeks.",
+    "current_position": "The manager has another offer but is willing to consider a short-term contract if the completion bonus is significant enough to offset the delayed start elsewhere."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A talented data scientist is leaving a large automotive company, citing a toxic manager as the sole reason in his exit interview. The Senior HR Business Partner recognizes this is a retention failure and wants to keep his skills within the company.",
+    "employer": "Senior HR Business Partner at Titan Motors",
+    "candidate": "Departing Data Scientist",
+    "negotiation_goal": "To pivot the exit into an internal transfer to a different, high-priority department, bypassing the standard application process and offering an immediate solution.",
+    "current_position": "The data scientist is wary, having lost faith in the company's ability to manage personnel issues, and is already in late-stage interviews elsewhere."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A key early employee at a pre-IPO tech startup is leaving for family reasons, just three months shy of a major stock option vesting cliff. During her exit interview with the founder, she makes a case for special consideration based on her foundational contributions.",
+    "employer": "Founder/CEO of ConnectSphere",
+    "candidate": "Head of Product",
+    "negotiation_goal": "To determine if accelerating the vesting of her stock options is fair and won't create issues with other shareholders, while acknowledging her significant impact.",
+    "current_position": "The employee is requesting a partial or full acceleration of her next stock option tranche as a sign of goodwill for her years of service."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A junior accountant is leaving a major accounting firm 18 months into a 24-month service agreement tied to a CPA tuition reimbursement program. The exit interview includes a discussion about the firm's policy to claw back 100% of the tuition costs.",
+    "employer": "HR Manager at a 'Big Four' Accounting Firm",
+    "candidate": "Junior Accountant",
+    "negotiation_goal": "To enforce the company's clawback policy consistently while avoiding potential negative Glassdoor reviews or bad morale among remaining staff.",
+    "current_position": "The accountant is negotiating to have the clawback amount reduced pro-rata, arguing that he has fulfilled 75% of his service obligation."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A mid-level editorial manager at a legacy newspaper is laid off. The exit interview is mostly procedural, but the manager is concerned about his future prospects in a declining industry and wants to negotiate for better support.",
+    "employer": "HR Generalist at The Daily Chronicle",
+    "candidate": "Laid-off Editorial Manager",
+    "negotiation_goal": "To provide a standard outplacement package without incurring additional costs, while still ensuring a smooth and amicable separation.",
+    "current_position": "The manager is negotiating for a personalized letter of recommendation from his director (not a generic HR confirmation) and access to the executive-tier outplacement service."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A remote graphic designer quits abruptly after a conflict with his manager. The exit interview, conducted over video call, is tense, focusing on the return of a high-end company laptop before the final paycheck is released, as per company policy.",
+    "employer": "HR Coordinator at Creative Spark Agency",
+    "candidate": "Resigned Remote Graphic Designer",
+    "negotiation_goal": "To secure the safe and timely return of the expensive company asset before releasing the final payment.",
+    "current_position": "The designer distrusts the company and is refusing to ship the laptop until the final paycheck is in his bank account, creating a standoff."
+  },
+  {
+    "domain": "exit interview",
+    "background": "A co-founder is being forced out of a small design agency he helped build due to irreconcilable differences with the other founder. The exit interview is a formal negotiation mediated by an HR consultant to define the terms of his separation.",
+    "employer": "Remaining Co-Founder & CEO of Aetheric Design",
+    "candidate": "Departing Co-Founder & Creative Director",
+    "negotiation_goal": "To finalize a separation agreement that minimizes financial impact and public fallout, including the valuation of the departing co-founder's equity.",
+    "current_position": "The departing co-founder is negotiating for a higher valuation for his equity buyout and a mutually agreed-upon public statement about his exit."
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "relocation package",
+    "background": "A fast-growing tech startup, 'InnovateAI,' is hiring a senior developer, Priya, who needs to move from Austin to San Francisco. The company offers a standard lump-sum package, but Priya has two large dogs requiring specialized, climate-controlled transport that exceeds the pet allowance.",
+    "employer": "HR Manager, David Chen",
+    "candidate": "Senior Software Engineer, Priya Sharma",
+    "negotiation_goal": "Adhere to the standard relocation budget to maintain internal equity among new hires.",
+    "current_position": "Requesting a custom, itemized allowance specifically for a premium pet transportation service."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Global Pharma Inc. is transferring an executive, Marcus, from their London office to a new regional headquarters in Tokyo. The negotiation centers on the Cost of Living Adjustment (COLA) and securing placement assistance for his two children in a competitive international school.",
+    "employer": "Global Mobility Director, Kenji Tanaka",
+    "candidate": "VP of Marketing, Marcus Thorne",
+    "negotiation_goal": "Balance a competitive executive package with strict international assignment cost controls.",
+    "current_position": "Insisting on a higher COLA and guaranteed school search services before accepting the transfer."
+  },
+  {
+    "domain": "relocation package",
+    "background": "A non-profit, 'GreenFuture Foundation,' needs a specialist Program Manager, Lena, to move to a remote, high-cost area for a critical project. The foundation has a very tight budget, and Lena is concerned about the severe lack of affordable housing.",
+    "employer": "Executive Director, Sarah Jenkins",
+    "candidate": "Program Manager, Lena Petrova",
+    "negotiation_goal": "Secure the candidate with minimal financial additions, possibly by offering non-monetary perks like flexible hours.",
+    "current_position": "Negotiating for an employer-sourced housing solution or a significant, dedicated housing stipend."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Large engineering firm 'Structura Corp' offers an entry-level role to a recent graduate, Alex, for a cross-country move. The offer includes a reimbursement-based lump sum, but Alex has no savings to cover the substantial upfront moving costs.",
+    "employer": "University Recruiter, Brenda Miles",
+    "candidate": "Junior Civil Engineer, Alex Miller",
+    "negotiation_goal": "Onboard the promising candidate without altering the standard, reimbursement-based relocation policy for new grads.",
+    "current_position": "Requesting a direct-bill option for movers and a portion of the lump sum as an advance."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Creative agency 'BoldType' is hiring a new Creative Director, Chloe, whose partner is a tenured university professor. A key sticking point is Chloe's request for spousal job search assistance, a benefit not typically offered by the agency.",
+    "employer": "Head of Talent, Frank Ortiz",
+    "candidate": "Creative Director, Chloe Davis",
+    "negotiation_goal": "Hire a key creative leader without setting a costly precedent for spousal support benefits.",
+    "current_position": "Holding out for a paid service that provides career coaching and job placement for her academic partner."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Midwest Steelworks is relocating a Plant Supervisor, Bill, to a new facility in a rural town. Bill is struggling to sell his home in a slow real estate market and is worried about carrying two mortgages.",
+    "employer": "Plant HR Manager, Susan Clark",
+    "candidate": "Plant Supervisor, Bill Kowalski",
+    "negotiation_goal": "Avoid the financial risk of a home buyout program by offering an extended temporary housing allowance instead.",
+    "current_position": "Requesting a guaranteed home sale assistance program or a direct buyout option from the company."
+  },
+  {
+    "domain": "relocation package",
+    "background": "A government contractor, 'AeroDefense Solutions,' hires a cybersecurity expert, Maria, for a top-secret project. Maria has a valuable and sensitive collection of vintage computer hardware and insists on using a specific, high-security moving company not on the approved vendor list.",
+    "employer": "Senior Recruiter, Tom Reed",
+    "candidate": "Cybersecurity Analyst, Maria Flores",
+    "negotiation_goal": "Enforce the use of pre-vetted, cost-effective moving vendors to comply with company policy.",
+    "current_position": "Demanding the company cover the full cost of her preferred, more expensive high-security mover."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Luxe Fashion Group promotes an internal candidate, Omar, from Miami to Chicago for a Regional Manager role. Omar is asking for tax equalization support, as his income tax burden will increase significantly, a benefit the company reserves for C-level executives.",
+    "employer": "Compensation & Benefits Specialist, Emily Vance",
+    "candidate": "Regional Manager, Omar Hassan",
+    "negotiation_goal": "Maintain strict adherence to benefit eligibility by job level, offering a one-time bonus as a compromise.",
+    "current_position": "Negotiating for a multi-year tax assistance benefit to offset the significant tax increase."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Westwood University is hiring Dr. Reed, a professor returning to the US after a decade abroad. She needs assistance with complex international tax filing and re-establishing a US credit history, services beyond the scope of a standard academic relocation package.",
+    "employer": "Dean of Faculty, Robert Chen",
+    "candidate": "Associate Professor, Dr. Evelyn Reed",
+    "negotiation_goal": "Provide standard moving support while avoiding liability for specialized financial and tax advisory services.",
+    "current_position": "Requesting a cash allowance designated for hiring professional tax and financial consultation."
+  },
+  {
+    "domain": "relocation package",
+    "background": "EnerG Oil & Gas is sending an engineer, Javier, on a 9-month assignment to a remote site. The company's standard policy is a simple per diem, but Javier finds it impractical to set up and furnish a temporary household for such a short duration.",
+    "employer": "Field Operations HR, Linda Schmidt",
+    "candidate": "Project Engineer, Javier Morales",
+    "negotiation_goal": "Maintain the cost-effective and simple per diem model for all short-term assignments.",
+    "current_position": "Proposing to trade the per diem for a company-provided furnished apartment and vehicle."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Following an acquisition, 'MegaCorp' is consolidating offices, forcing a Product Manager, Samantha, to move. As the move is non-voluntary, she is negotiating for an 'inconvenience bonus' and extra time off beyond the standard relocation benefits.",
+    "employer": "HR Integration Lead, David Kim",
+    "candidate": "Product Manager, Samantha Jones",
+    "negotiation_goal": "Ensure a smooth transition for key acquired talent without creating a culture of special payouts.",
+    "current_position": "Seeking additional financial compensation and PTO to account for the disruption of a forced move."
+  },
+  {
+    "domain": "relocation package",
+    "background": "A hospital network, 'Unity Health,' hires a top surgeon, Dr. Chen, who requires significant accessibility modifications in his home. He is negotiating for the relocation package to cover the cost of making similar custom modifications in his new residence.",
+    "employer": "Physician Recruiter, Maria Garcia",
+    "candidate": "Specialist Surgeon, Dr. Kenji Chen",
+    "negotiation_goal": "Cap the miscellaneous expense allowance and avoid directly paying for home renovations.",
+    "current_position": "Arguing that the modifications are a medical necessity and should be covered as a relocation expense."
+  },
+  {
+    "domain": "relocation package",
+    "background": "A film studio, 'Starlight Pictures,' is relocating a VFX artist, Clara, from Canada to Los Angeles. The negotiation is stalled on visa processing; Clara insists on using her preferred top-tier immigration law firm, while the studio has a standard, less expensive legal partner.",
+    "employer": "Talent Acquisition Partner, Ben Carter",
+    "candidate": "VFX Artist, Clara Dubois",
+    "negotiation_goal": "Control legal costs and streamline immigration processing by using the company's designated law firm.",
+    "current_position": "Refusing to proceed without the company covering all fees for her chosen immigration lawyer."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Mid-sized tech company 'DataWeave' is hiring a sales director, Tom, who owns a small, profitable local business. Tom is trying to negotiate for funds to cover the costs of selling his business, arguing it's a direct financial loss incurred by accepting the job.",
+    "employer": "Director of HR, Laura Bell",
+    "candidate": "Sales Director, Tom Petrov",
+    "negotiation_goal": "Reject covering personal business losses, as they are far outside the scope of employee relocation policy.",
+    "current_position": "Framing the request as a 'transition bonus' needed to offset the loss of a secondary income stream."
+  },
+  {
+    "domain": "relocation package",
+    "background": "Global Logistics Corp is closing an office and offering an analyst, Fatima, a role in a lower-cost-of-living city. Company policy prohibits relocation assistance for such moves, but Fatima argues that the move still incurs significant out-of-pocket costs and disruption.",
+    "employer": "HR Business Partner, Greg Smith",
+    "candidate": "Operations Analyst, Fatima Khan",
+    "negotiation_goal": "Uphold the cost-neutrality policy to prevent setting a precedent for future internal transfers.",
+    "current_position": "Requesting a policy exception for a modest lump sum based on her tenure and strong performance."
+  },
+  {
+    "domain": "relocation package",
+    "background": "A biotech firm, 'GeneVolution,' is hiring a senior scientist, Dr. Anya Sharma, who has a custom-built, temperature-sensitive wine cellar with over 500 bottles. The company's insurance and moving partners will not cover the collection's full value or guarantee its specialized transport.",
+    "employer": "Talent Acquisition Director, Carlos Rossi",
+    "candidate": "Senior Research Scientist, Dr. Anya Sharma",
+    "negotiation_goal": "Avoid taking on the high liability and complexity of moving a fragile, high-value personal collection.",
+    "current_position": "Requesting a cash equivalent payout to arrange for her own insured, specialized logistics for the wine collection."
+  }
+]

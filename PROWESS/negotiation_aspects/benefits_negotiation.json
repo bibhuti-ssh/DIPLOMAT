@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "benefits negotiation",
+    "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+    "employer": "Anya Sharma, Co-founder & CTO",
+    "candidate": "Ben Carter, Principal AI Engineer",
+    "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+    "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "HopeForward Foundation, a non-profit with a tight budget, is hiring a Program Manager. The candidate is a perfect fit but has requested the organization fully fund a costly project management certification within her first year.",
+    "employer": "David Chen, HR Director",
+    "candidate": "Maria Flores, Program Manager Candidate",
+    "negotiation_goal": "Offer a partial stipend or a delayed reimbursement plan to manage budget constraints while still supporting development.",
+    "current_position": "Insisting on full, upfront funding for the PMP certification as a condition of accepting the offer."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "SteelWorks Manufacturing is internally promoting a plant supervisor to a manager role that requires relocating to another state. The standard relocation package doesn't include spousal job placement support, which is a key concern for his family.",
+    "employer": "Laura Ives, Regional HR Business Partner",
+    "candidate": "Kenji Tanaka, Plant Manager (Internal Promotion)",
+    "negotiation_goal": "Adhere to the standard relocation budget by offering non-monetary support, like local networking contacts.",
+    "current_position": "Requesting an additional $5,000 in the package specifically for spousal career coaching services."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "Vivid Creative, a fast-paced ad agency, wants to hire a top designer who is requesting a compressed four-day work week. This clashes with the agency's highly collaborative, in-person culture, especially on Fridays.",
+    "employer": "Marcus Thorne, Creative Director",
+    "candidate": "Chloe Davis, Senior Graphic Designer Candidate",
+    "negotiation_goal": "Propose a trial period for a hybrid schedule or a 9/80 arrangement to ensure team collaboration isn't compromised.",
+    "current_position": "Firm on a permanent four-day (10-hour days) work week for improved work-life balance."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "St. Jude's Medical Center is hiring an experienced RN who has one year left in her Nurse Practitioner master's program. She is asking for tuition reimbursement that exceeds the hospital's standard annual cap for all employees.",
+    "employer": "Robert Miles, Nursing Recruitment Manager",
+    "candidate": "Fatima Al-Jamil, Registered Nurse Candidate",
+    "negotiation_goal": "Adhere to the established $5,250 annual tuition cap but offer a signing bonus that could be used for tuition costs.",
+    "current_position": "Asking for the full remaining tuition of $12,000 to be covered in the first year of employment."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "Global Retail Corp is offering a Director role to an external candidate who has disclosed she is pregnant. The candidate wants to secure an extended, fully paid parental leave policy in her contract before accepting the position.",
+    "employer": "Brenda Joyce, VP of Human Resources",
+    "candidate": "Sarah Chen, Marketing Director Candidate",
+    "negotiation_goal": "Uphold the company's standard 12-week paid leave policy but offer flexibility on her return-to-work plan (e.g., phased return).",
+    "current_position": "Requesting 20 weeks of fully paid parental leave, citing executive-level benchmarks in the industry."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "A prestigious law firm, Riggs & Sterling, is hiring a lateral Senior Associate. The candidate is pushing for a significant client entertainment and development budget, a perquisite typically reserved for partners.",
+    "employer": "Eleanor Vance, Hiring Partner",
+    "candidate": "Michael Prescott, Senior Associate Candidate",
+    "negotiation_goal": "Maintain the clear distinction between associate and partner-level benefits to preserve firm structure and hierarchy.",
+    "current_position": "Arguing the budget is essential for building his book of business and proving his value for the partnership track."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "BioGen Innovations is promoting a lead scientist to a Research Director position. Having been with the company for 10 years, he wants to negotiate a guaranteed six-month paid sabbatical to be taken within the next two years.",
+    "employer": "Dr. Lena Petrova, Chief Scientific Officer",
+    "candidate": "Dr. Aris Thorne, Research Director (Internal Promotion)",
+    "negotiation_goal": "Delay the sabbatical or reduce its length to ensure leadership continuity on a critical, time-sensitive project.",
+    "current_position": "Seeking a contractually guaranteed sabbatical as a condition of accepting the increased responsibilities."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "SecureNet Solutions, a defense contractor, requires a Top Secret clearance for a new role. The candidate is asking for an extra week of PTO upon starting to compensate for the personal time involved in the lengthy clearance process.",
+    "employer": "Gary Henderson, HR Manager for Cleared Personnel",
+    "candidate": "Alex Rivera, Cybersecurity Analyst Candidate",
+    "negotiation_goal": "Deny extra PTO as it sets a precedent, but offer a one-time signing bonus once the clearance is fully adjudicated.",
+    "current_position": "Requesting 5 additional days of PTO be added to their starting balance, arguing the clearance process is a pre-employment burden."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "Northwood University is trying to recruit a renowned history professor. Her primary negotiation point is securing a tenure-track position for her husband, also an academic, in the university's sociology department.",
+    "employer": "Provost William Stanhope, University Administration",
+    "candidate": "Dr. Evelyn Reed, Professor of History Candidate",
+    "negotiation_goal": "Explore a visiting scholar or lecturer role for the spouse, as creating a new tenure-track line is a major institutional challenge.",
+    "current_position": "Making her acceptance contingent on a formal, tenure-track offer for her spouse."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "PaySwift, a fully remote FinTech company, has a standard $1,000 annual work-from-home stipend. A candidate living in a high-cost city argues this is insufficient to cover the costs of a proper and ergonomic home office setup.",
+    "employer": "Priya Singh, Head of People Operations",
+    "candidate": "Liam Gallagher, Senior Product Manager Candidate",
+    "negotiation_goal": "Maintain the standardized stipend for equity across all remote employees, regardless of their location.",
+    "current_position": "Requesting a one-time $3,000 setup allowance and an increased annual stipend of $2,000."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "Stratagem Consulting Group is hiring a consultant for a role requiring 80% travel. The candidate is negotiating for travel perks that exceed the firm's standard policy, such as guaranteed business class flights.",
+    "employer": "Jessica Wu, Senior HR Manager",
+    "candidate": "Omar Badri, Management Consultant Candidate",
+    "negotiation_goal": "Uphold the standard travel policy to control project costs and maintain fairness among consultants.",
+    "current_position": "Requesting a contractual guarantee of business class for flights over 3 hours and top-tier hotel status."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "SunVortex Energy has made an offer to a sales executive who has a competing offer with a superior wellness package. The candidate is asking SunVortex to match the competitor's benefits, which include a gym membership and mental health app subscriptions.",
+    "employer": "Tom Jenkins, Sales Director",
+    "candidate": "Maria Rossi, Sales Executive Candidate",
+    "negotiation_goal": "Highlight existing wellness benefits and offer a modest signing bonus instead of creating a one-off, customized benefits package.",
+    "current_position": "Requesting a direct match of the competitor's wellness benefits, valued at approximately $2,500 per year."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "Pawsome Goods, an online retailer for pet supplies, has a pet-friendly office but no pet insurance benefit. A candidate is surprised by this and is negotiating for the company to subsidize their personal pet insurance plan.",
+    "employer": "Samantha Jones, HR Coordinator",
+    "candidate": "Kevin Lee, Logistics Coordinator Candidate",
+    "negotiation_goal": "Explain that adding a new company-wide benefit cannot be done for a single hire, offering a small flexible spending amount instead.",
+    "current_position": "Asking the company to cover 50% of their premium pet insurance plan, arguing it aligns with the company's brand."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "OmniCorp, a Fortune 500 company, is hiring a new VP. The experienced candidate, coming from a volatile industry, is proactively negotiating a guaranteed severance package in his employment contract, which is unusual for the stable company.",
+    "employer": "Cynthia Monroe, Chief Human Resources Officer",
+    "candidate": "Richard Sterling, VP of Operations Candidate",
+    "negotiation_goal": "Reassure the candidate of company stability and adhere to the standard severance policy, which is based on years of service.",
+    "current_position": "Requesting a guaranteed minimum of 12 months' salary as severance, regardless of tenure."
+  },
+  {
+    "domain": "benefits negotiation",
+    "background": "PixelForge Studios is hiring a Lead Developer for a major new game. The candidate, aware of the industry's 'crunch culture,' wants to contractually secure two extra weeks of PTO to be used immediately after the game ships.",
+    "employer": "David Kim, Studio Head",
+    "candidate": "Eva Rostova, Lead Game Developer Candidate",
+    "negotiation_goal": "Avoid setting a contractual precedent for 'crunch PTO' but verbally commit to generous, flexible time off post-launch.",
+    "current_position": "Demanding a guaranteed two weeks of extra, post-launch PTO be included in the written offer."
+  }
+]

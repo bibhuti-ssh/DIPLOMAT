@@ -1,0 +1,36 @@
+{
+  "hr_dsa_dpo_preference": {
+    "file_name": "hr_dsa_dpo_preference.json",
+    "formatting": "sharegpt",
+    "ranking": true,
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "hr_dsa_dpo_segments": {
+    "file_name": "hr_dsa_dpo_segments.json",
+    "formatting": "sharegpt",
+    "ranking": true,
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "hr_dsa_dpo_sft": {
+    "file_name": "hr_dsa_dpo_sft.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "hr_dsa_dpo_sft_pairs": {
+    "file_name": "hr_dsa_dpo_sft_pairs.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  }
+}

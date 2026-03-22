@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "contract terms",
+    "background": "A fast-growing AI startup, 'InnovateAI,' is hiring a lead researcher, Dr. Anya Sharma, from a major competitor. The standard contract includes a broad two-year, nationwide non-compete clause, which Anya finds overly restrictive for her specialized field.",
+    "employer": "HR Director, Mark Chen",
+    "candidate": "Senior AI Researcher, Dr. Anya Sharma",
+    "negotiation_goal": "Retain a strong non-compete to protect proprietary algorithms and trade secrets.",
+    "current_position": "Wants to narrow the non-compete's geographic scope and reduce the duration to one year."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'PixelPerfect,' a boutique design agency, is converting a top freelance graphic designer, Leo Vance, to a full-time role. The contract’s IP clause states all creative work, including personal projects created on his own time, becomes company property.",
+    "employer": "Creative Director, Chloe Davis",
+    "candidate": "Graphic Designer, Leo Vance",
+    "negotiation_goal": "Secure ownership of all work produced during employment to avoid IP conflicts and leakage.",
+    "current_position": "Insists on an amendment to exclude his pre-existing portfolio and future personal art projects from the IP clause."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'GlobalMechanics Inc.' is hiring an experienced Plant Manager, Frank Miller, for a new facility in a different state. The generous relocation package has a 24-month clawback provision, requiring full repayment if he leaves for any reason.",
+    "employer": "Senior HR Manager, Brenda Wells",
+    "candidate": "Plant Manager, Frank Miller",
+    "negotiation_goal": "Enforce the standard 24-month clawback to protect the company's significant financial investment.",
+    "current_position": "Wants the clawback to be prorated over the 24 months and voided in case of a layoff without cause."
+  },
+  {
+    "domain": "contract terms",
+    "background": "A fintech company, 'CapitalStream,' has offered a fully remote Data Analyst position to Maria Garcia. The contract specifies she must reside in one of five pre-approved states for tax purposes, but Maria is planning a move to a non-approved state.",
+    "employer": "Talent Acquisition Specialist, Kenji Tanaka",
+    "candidate": "Data Analyst, Maria Garcia",
+    "negotiation_goal": "Adhere to the state-residency policy to avoid creating tax nexus and legal complications in a new state.",
+    "current_position": "Requesting an exception to work from her planned state or a stipend to cover costs of maintaining residency in an approved one."
+  },
+  {
+    "domain": "contract terms",
+    "background": "The 'Green Earth Foundation,' a prominent non-profit, is hiring a new Executive Director, Sarah Jenkins. The contract offers a minimal, two-week severance package, which Sarah feels is inadequate given the volatility of donor-funded leadership roles.",
+    "employer": "Board Chair, David Lee",
+    "candidate": "Executive Director, Sarah Jenkins",
+    "negotiation_goal": "Keep the severance package lean to conserve funds for the organization's mission, as per board policy.",
+    "current_position": "Proposing a six-month severance package if her termination is without cause."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'OmniCorp,' a multinational conglomerate, includes a mandatory binding arbitration clause in all employment contracts, waiving the right to a jury trial. The candidate for a new Marketing Manager role, Tom Breyer, is concerned this limits his legal recourse.",
+    "employer": "Corporate Recruiter, Emily Stone",
+    "candidate": "Marketing Manager, Tom Breyer",
+    "negotiation_goal": "Maintain the mandatory arbitration clause as a standard, non-negotiable corporate policy for legal consistency.",
+    "current_position": "Asking to strike the clause entirely or amend it to be a mutual, optional agreement post-dispute."
+  },
+  {
+    "domain": "contract terms",
+    "background": "A venture-backed startup, 'NextGen Robotics,' is hiring a VP of Engineering, Omar Hassan. The contract has a standard four-year equity vesting schedule with a one-year cliff, but no acceleration clause in case of an acquisition.",
+    "employer": "CEO, Jessica Riley",
+    "candidate": "VP of Engineering, Omar Hassan",
+    "negotiation_goal": "Avoid adding a 'double-trigger' acceleration clause to keep the cap table clean for future funding rounds and acquisitions.",
+    "current_position": "Requesting that his unvested equity fully vests if he's terminated following a change of control (acquisition)."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'DataWeave,' a rapidly growing SaaS company, offered a role to Priya Patel with the title 'Product Specialist.' Based on the interviews, Priya believes the responsibilities align with a 'Senior Product Manager' role and wants the contract to reflect that for career progression.",
+    "employer": "Head of Product, Sam Jones",
+    "candidate": "Product Specialist candidate, Priya Patel",
+    "negotiation_goal": "Keep the offered title to align with internal leveling and salary bands, while reassuring the candidate of the role's seniority.",
+    "current_position": "Insists on the 'Senior Product Manager' title and a more detailed scope of work in the contract."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'EuroLux Pharma,' a European company, is hiring its first US Head of Sales, Dana Scully. The contract, based on their EU template, requires a three-month notice period for resignation, which is highly unusual in the US 'at-will' employment market.",
+    "employer": "Global Head of HR, Pierre Dubois",
+    "candidate": "Head of Sales, Dana Scully",
+    "negotiation_goal": "Retain a longer notice period to ensure a stable leadership transition for the critical new market entry.",
+    "current_position": "Wants to reduce the notice period to a standard two to four weeks, arguing the three-month term is a career hindrance."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'Northwood University' has offered a tenure-track Assistant Professor position to Dr. Michael Chen. The contract lacks specific language about a guaranteed research and professional development fund, which is crucial for him to establish his lab.",
+    "employer": "Department Head, Dr. Eleanor Vance",
+    "candidate": "Assistant Professor, Dr. Michael Chen",
+    "negotiation_goal": "Manage departmental budget constraints by offering access to general funds rather than a guaranteed personal budget.",
+    "current_position": "Requesting a guaranteed annual budget of $10,000 for research and travel to be explicitly written into the contract."
+  },
+  {
+    "domain": "contract terms",
+    "background": "A digital media company, 'ViralVids,' wants to hire popular YouTuber Alex Ray as a full-time Video Host. The contract has a strict exclusivity clause preventing him from maintaining his personal monetized channel, which is his primary brand.",
+    "employer": "Head of Talent, Fiona Bell",
+    "candidate": "Content Creator, Alex Ray",
+    "negotiation_goal": "Secure Alex's full creative focus for the company channel by enforcing the exclusivity clause.",
+    "current_position": "Willing to join but needs the contract to allow him to continue his personal, non-competing channel on his own time."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'BuildRight Construction Supplies' is hiring a new Regional Sales Director, Maria Flores. The contract mentions a 'discretionary annual bonus' but lacks specific metrics, targets, or payout formulas.",
+    "employer": "VP of Sales, John Davis",
+    "candidate": "Regional Sales Director, Maria Flores",
+    "negotiation_goal": "Keep the bonus structure flexible and discretionary to adapt to changing market conditions and company performance.",
+    "current_position": "Wants specific, quantifiable KPIs and a clear payout formula added to a contract addendum to ensure target clarity."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'SecureNet Solutions,' a defense contractor, is hiring a Cybersecurity Analyst, Wei Zhang. The NDA requires disclosure of her spouse's employment, as her spouse works for a major tech firm, creating potential conflict-of-interest concerns.",
+    "employer": "Security Officer & HR Lead, Captain Harris (Ret.)",
+    "candidate": "Cybersecurity Analyst, Wei Zhang",
+    "negotiation_goal": "Uphold strict security protocols by enforcing the disclosure clause as a non-negotiable term for security clearance.",
+    "current_position": "Finds the spousal disclosure clause an invasion of privacy and is asking for it to be removed or significantly narrowed."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'Mercy General Hospital' is hiring a Senior IT Systems Administrator, Kevin Lee, for its 24/7 operations. The contract has vague language about 'availability for after-hours emergencies' without defining on-call frequency or compensation.",
+    "employer": "IT Director, Susan Rice",
+    "candidate": "Senior Systems Administrator, Kevin Lee",
+    "negotiation_goal": "Maintain flexibility for emergency IT coverage without committing to a rigid, costly on-call pay structure.",
+    "current_position": "Wants the contract to specify a rotational on-call schedule and define compensation for on-call hours and call-outs."
+  },
+  {
+    "domain": "contract terms",
+    "background": "A boutique management consulting firm, 'Insight Partners,' is bringing on a new Partner, Dr. Evelyn Reed. The contract's indemnification clause holds her personally liable for client lawsuits with limited corporate protection.",
+    "employer": "Managing Partner, Robert Graham",
+    "candidate": "Partner, Dr. Evelyn Reed",
+    "negotiation_goal": "Limit the firm's liability by having partners assume some personal risk, a standard practice at their firm.",
+    "current_position": "Demands a standard Directors & Officers (D&O) liability insurance clause and mutual indemnification from the firm."
+  },
+  {
+    "domain": "contract terms",
+    "background": "'Apex Strategy Consultants' needs a new Senior Consultant, Ben Carter, to start in two weeks for a critical project. Ben has a non-refundable international trip and can't start for six weeks, and the signing bonus is tied to the early start date.",
+    "employer": "Partner, Rachel Goldberg",
+    "candidate": "Senior Consultant, Ben Carter",
+    "negotiation_goal": "Secure the candidate for the urgent project timeline or find a compromise on the signing bonus if the start date slips.",
+    "current_position": "Requesting to delay the start date by four weeks while retaining the full signing bonus due to the prior commitment."
+  }
+]

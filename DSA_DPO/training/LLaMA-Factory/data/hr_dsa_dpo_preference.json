@@ -1,0 +1,42 @@
+[
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm excited about the role. I'm looking for $120k and two remote days per week."
+      },
+      {
+        "from": "gpt",
+        "value": "Thanks for sharing. Our budget is closer to $100k with one remote day."
+      },
+      {
+        "from": "human",
+        "value": "I can be flexible, but I have a competing offer at $118k."
+      }
+    ],
+    "chosen": {
+      "from": "gpt",
+      "value": "I hear you. Could we explore $105k plus a signing bonus and revisit comp in 6 months?"
+    },
+    "rejected": {
+      "from": "gpt",
+      "value": "That's not our problem. Take $90k in-office or we should stop here."
+    }
+  },
+  {
+    "conversations": [
+      {
+        "from": "human",
+        "value": "I'm leaning toward another offer unless we can add a professional development stipend."
+      }
+    ],
+    "chosen": {
+      "from": "gpt",
+      "value": "Thanks for sharing that. We might not change base policy, but let's discuss options."
+    },
+    "rejected": {
+      "from": "gpt",
+      "value": "We already offer enough. If you're shopping around, maybe this isn't a fit."
+    }
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "flexible hours",
+    "background": "A senior software engineer at a fast-growing tech startup, 'Innovatech', is a top performer but wants to shift her workday to 11 AM - 7 PM to align with her partner's schedule. The company culture prizes early morning 'scrum' meetings and fears her late start will create a communication bottleneck.",
+    "employer": "Engineering Manager",
+    "candidate": "Senior Software Engineer",
+    "negotiation_goal": "To keep the engineer happy while ensuring she attends a mandatory 9 AM daily stand-up, perhaps remotely.",
+    "current_position": "Requesting a fixed 11 AM start time, arguing that asynchronous communication tools make her physical presence at the scrum unnecessary."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A financial analyst at a large, traditional investment bank, 'Sterling & Dunn', is returning from parental leave. He wants to work a compressed week of four 10-hour days to have an extra day for childcare.",
+    "employer": "Department Head",
+    "candidate": "Financial Analyst",
+    "negotiation_goal": "To deny the compressed week due to concerns about client availability on Fridays, a critical trading day.",
+    "current_position": "Proposing a detailed handover plan and being on-call for emergencies on his day off to mitigate availability concerns."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "The operations manager at 'WeldRight Manufacturing' needs to leave by 3 PM twice a week for physical therapy appointments. The plant floor operates on a rigid shift schedule, and her absence could delay production handovers.",
+    "employer": "Plant Director",
+    "candidate": "Operations Manager",
+    "negotiation_goal": "To find a solution that allows for the appointments without disrupting the sensitive shift change process.",
+    "current_position": "Suggesting she train a deputy to handle the handover on those two days and will make up the hours earlier in the morning."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A marketing copywriter at 'Aperture Creatives', a boutique ad agency, wants to work entirely remotely from a different time zone. The creative director believes that in-person, spontaneous collaboration is essential for the agency's success.",
+    "employer": "Creative Director",
+    "candidate": "Marketing Copywriter",
+    "negotiation_goal": "To retain the talented writer by proposing a hybrid model, requiring in-person attendance one week per month.",
+    "current_position": "Insisting on a fully remote arrangement, citing high productivity and cost savings from relocating."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "Two experienced nurses at 'City General Hospital' want to propose a job-sharing arrangement for one full-time emergency room position. This would allow them both to pursue further education while remaining employed.",
+    "employer": "Nursing Supervisor",
+    "candidate": "Registered Nurses (proposing as a pair)",
+    "negotiation_goal": "To evaluate the proposal's impact on patient care continuity and the complexity of scheduling and benefits administration.",
+    "current_position": "Presenting a comprehensive plan outlining communication protocols, shift handovers, and how they will ensure seamless patient care."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A junior paralegal at a small law firm, 'Bryson & Associates', is a caregiver for an elderly parent and needs a flexible start time. The firm's managing partner is concerned about fairness and setting a precedent for the other support staff.",
+    "employer": "Managing Partner",
+    "candidate": "Junior Paralegal",
+    "negotiation_goal": "To grant a trial period of flexibility, contingent on performance metrics and no negative impact on team workflow.",
+    "current_position": "Requesting a permanent change to her contract, framed as a necessary adjustment for her to remain in the role long-term."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A customer support team lead for an e-commerce company, 'ShopSphere', wants to work a split shift to manage school drop-offs and pick-ups. The current scheduling software is not designed for non-contiguous shifts, and it could complicate coverage during peak hours.",
+    "employer": "Call Center Manager",
+    "candidate": "Customer Support Team Lead",
+    "negotiation_goal": "To explore manual workarounds for scheduling while ensuring the team lead's duties don't suffer during the split.",
+    "current_position": "Arguing that a split shift would allow her to cover both the late morning and early evening peaks, improving overall team management."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "The head of R&D at 'BioGen Solutions', a pharmaceutical company, is negotiating a 'results-only work environment' (ROWE) for his entire department. The C-suite is skeptical, fearing a loss of control and a drop in collaborative discovery.",
+    "employer": "Chief Human Resources Officer",
+    "candidate": "Head of R&D",
+    "negotiation_goal": "To approve a 6-month pilot program for the R&D department with strict KPIs to measure its success or failure.",
+    "current_position": "Advocating for an immediate, full implementation of ROWE to attract and retain top scientific talent in a competitive market."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A newly hired UX designer at 'NextWave Gaming' was promised verbal flexibility during interviews. Now, her manager expects strict 9-to-5 adherence for team cohesion, leading to a conflict just weeks into the job.",
+    "employer": "Design Team Manager",
+    "candidate": "UX Designer",
+    "negotiation_goal": "To clarify expectations and establish a core-hours policy (e.g., 10 AM - 4 PM) as a compromise.",
+    "current_position": "Stating that the promised flexibility was a key reason she accepted the offer and wants to define a schedule that honors that agreement."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A logistics coordinator for 'Global Freight Forwarders' wants to work from 6 AM to 2 PM to align with European shipping partners. His director is concerned this will reduce his availability for afternoon meetings with the US-based sales team.",
+    "employer": "Director of Logistics",
+    "candidate": "Logistics Coordinator",
+    "negotiation_goal": "To agree to the early schedule on the condition that the coordinator attends critical afternoon meetings remotely when required.",
+    "current_position": "Arguing that the early schedule will proactively solve shipping issues before the US team even starts their day, reducing the need for afternoon meetings."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A university librarian at 'Northwood State University' wants to work one day a week from home to focus on cataloging and administrative tasks. University policy requires all non-faculty staff to be on-site, citing the need for student and faculty support.",
+    "employer": "Head Librarian",
+    "candidate": "University Librarian",
+    "negotiation_goal": "To maintain the current on-site policy but offer a private, quiet office space to minimize distractions for administrative work.",
+    "current_position": "Providing data showing that cataloging accuracy increases when done in a focused, non-disruptive environment like a home office."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A construction site foreman for 'Bedrock Construction' wants flexibility between projects, proposing to take unpaid leave for a month after a major build. HR is concerned about the precedent and the administrative burden of pausing and reactivating his employment benefits.",
+    "employer": "HR Manager",
+    "candidate": "Site Foreman",
+    "negotiation_goal": "To formalize this as a project-based contract with built-in downtime, rather than a standard full-time role with erratic leave.",
+    "current_position": "Requesting to remain a full-time employee to keep his tenure and benefits, framing the unpaid leave as a reward for intense project sprints."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "The lead data scientist at 'Quantify AI', a data analytics firm, is an avid cyclist and wants a 2-hour lunch break for training. She is willing to start earlier and finish later, but the team relies on her for quick questions throughout the day.",
+    "employer": "Chief Technology Officer",
+    "candidate": "Lead Data Scientist",
+    "negotiation_goal": "To approve the long break but require her to be available via a chat application for urgent queries during that time.",
+    "current_position": "Insisting on a completely disconnected break, arguing that this mental reset is crucial for her problem-solving ability and overall performance."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A store manager for 'Urban Threads', a national fashion retail chain, is requesting to work from home every Monday for inventory and scheduling tasks. Corporate policy strictly forbids remote work for store management to ensure leadership presence.",
+    "employer": "Regional Director",
+    "candidate": "Store Manager",
+    "negotiation_goal": "To deny the request but offer to reduce her floor hours on Mondays so she can complete administrative work undisturbed in the back office.",
+    "current_position": "Presenting a plan showing how her assistant manager is fully capable of leading the floor, making her physical presence on a slow Monday redundant."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "A government policy advisor at the 'Department of Environmental Affairs' is nearing retirement and wants to transition to a three-day work week. His manager is concerned about knowledge transfer for several complex, long-term projects he leads.",
+    "employer": "Division Chief",
+    "candidate": "Senior Policy Advisor",
+    "negotiation_goal": "To approve the phased retirement on the condition that he dedicates his remaining time to mentoring a designated successor.",
+    "current_position": "Proposing to document all his project knowledge and processes, believing this is a sufficient substitute for in-person mentoring."
+  },
+  {
+    "domain": "flexible hours",
+    "background": "An event planner for the non-profit 'Hope Gala Foundation' needs a highly flexible, non-traditional schedule due to the nature of her work (evenings, weekends). The foundation's HR uses a rigid time-tracking system for all staff to ensure grant compliance.",
+    "employer": "Executive Director",
+    "candidate": "Event Planner",
+    "negotiation_goal": "To move her to a salaried, exempt status that focuses on event success rather than logged hours, pending a review by legal.",
+    "current_position": "Requesting to be exempt from the time-tracking system, arguing that her event-driven work cannot fit into a standard 40-hour week model."
+  }
+]

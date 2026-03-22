@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "promotion discussion",
+    "background": "Anya, a top-performing software engineer at a Series B startup 'Innovatech', is promoted to Lead Engineer. Due to a recent funding round focused on growth, the company offers a significant equity package but only a minimal salary increase, citing cash flow constraints.",
+    "employer": "CTO of Innovatech",
+    "candidate": "Software Engineer",
+    "negotiation_goal": "Secure Anya's acceptance of the promotion by emphasizing long-term equity value over immediate cash compensation, thereby preserving operational cash.",
+    "current_position": "Wants a salary increase that reflects market rate for a Lead Engineer role, arguing that equity is speculative and doesn't cover current living costs."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "David, a Senior Financial Analyst at a Fortune 500 bank 'Global Trust Bank', is approved for promotion to Finance Manager. The offered salary is at the bottom of the role's pay band, which David feels is low given his long tenure and consistent over-performance.",
+    "employer": "HR Director",
+    "candidate": "Senior Financial Analyst",
+    "negotiation_goal": "Retain a valuable employee by explaining the rigid corporate pay band structure, while exploring non-salary options like a one-time performance bonus.",
+    "current_position": "Seeking a salary in the mid-to-upper range of the pay band, presenting data from recent performance reviews and market salary benchmarks."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Maria, a Clinical Nurse at 'City General Hospital', is being promoted to Clinical Nurse Manager. The new role involves significant administrative and people-management responsibilities on top of her clinical duties, but the initial offer doesn't reflect this increased scope.",
+    "employer": "Director of Nursing",
+    "candidate": "Clinical Nurse",
+    "negotiation_goal": "Fill the critical manager role quickly by highlighting the leadership opportunity and standard pay bump, while managing departmental budget.",
+    "current_position": "Negotiating for a higher salary and a dedicated administrative support block in her schedule to handle the new non-clinical workload."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "At a boutique advertising agency 'Bold Creative', Art Director Leo is promoted to Creative Director. The negotiation is less about salary and more about control; Leo wants final say on key client campaigns, a power previously held by the agency's partners.",
+    "employer": "Managing Partner",
+    "candidate": "Art Director",
+    "negotiation_goal": "Promote a key talent to retain him, but maintain ultimate partner-level oversight on the highest-value accounts.",
+    "current_position": "Insisting on full creative autonomy and team leadership authority as a condition of accepting the new title and responsibilities."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Shift Supervisor Omar at 'Precision Parts Manufacturing' is offered a promotion to Plant Operations Manager. The position requires relocating to a less desirable rural facility, and the initial offer lacks incentives for the move.",
+    "employer": "Regional Operations Head",
+    "candidate": "Shift Supervisor",
+    "negotiation_goal": "Convince Omar to relocate by offering a standard promotion package, hoping to avoid setting a precedent for large relocation bonuses.",
+    "current_position": "Negotiating for a comprehensive relocation package, including a housing allowance, a significant signing bonus, and a guaranteed review after one year."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "At the non-profit 'Green Future Foundation', Program Coordinator Fatima is being promoted to Program Director. The organization has a strict, limited budget, making a large salary increase impossible.",
+    "employer": "Executive Director",
+    "candidate": "Program Coordinator",
+    "negotiation_goal": "Promote Fatima to a leadership role without straining the budget, by focusing on mission alignment and non-monetary perks.",
+    "current_position": "Requesting a modest salary bump, but heavily negotiating for a flexible four-day work week and a substantial professional development stipend for an MBA program."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Assistant Store Manager Chloe at 'StyleSpree Retail' is promoted to Store Manager. However, she has a competing offer for a similar role from a rival company, which she has revealed to her HR manager.",
+    "employer": "District HR Manager",
+    "candidate": "Assistant Store Manager",
+    "negotiation_goal": "Retain an experienced manager and avoid a hiring gap by matching the competitor's base salary, but holding firm on the standard bonus structure.",
+    "current_position": "Leveraging the competing offer to negotiate not only a higher base salary but also a more favorable quarterly bonus structure."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "After a breakthrough drug trial, Dr. Ben Carter, a Research Scientist at 'BioPharm Solutions', is promoted to Principal Scientist. He was instrumental in the drug's development and wants his compensation to reflect its future commercial success.",
+    "employer": "Head of R&D",
+    "candidate": "Research Scientist",
+    "negotiation_goal": "Reward a key scientist with a promotion and bonus, but keep long-term compensation tied to company-wide performance rather than a single product.",
+    "current_position": "Negotiating for a percentage-based bonus tied to the new drug's patents and future sales revenue, in addition to a salary increase."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Jasmine, an internal Data Analyst at 'DataCorp', is the top candidate for a new Data Science Manager role. She discovered the position was advertised externally with a salary range 15% higher than what she was offered internally.",
+    "employer": "Hiring Manager",
+    "candidate": "Data Analyst",
+    "negotiation_goal": "Hire the best internal candidate while adhering to internal promotion policies that cap salary increases, justifying the lower offer based on her existing salary.",
+    "current_position": "Demanding the company match the low end of the externally advertised salary range, arguing that the role's value is the same regardless of who fills it."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Following a merger between 'Connective' and 'Synergy Systems', Marketing Manager Ken is being promoted to Director of Digital Marketing. The negotiation is complex as he must align his legacy 'Connective' salary expectations with the different, and lower, pay bands of 'Synergy Systems'.",
+    "employer": "VP of Marketing (from Synergy)",
+    "candidate": "Marketing Manager (from Connective)",
+    "negotiation_goal": "Standardize compensation post-merger by bringing Ken into the new company's pay structure, while acknowledging his new title and responsibilities.",
+    "current_position": "Arguing that his compensation should be based on his proven value and the new role's market rate, not the acquiring company's legacy pay scales."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Logistics Specialist Sam at 'ShipFast E-commerce' has been instrumental in the company's growth and is being promoted to the newly created role of Supply Chain Optimization Manager. Since the role never existed, there is no established salary, and the scope is still being defined.",
+    "employer": "Director of Operations",
+    "candidate": "Logistics Specialist",
+    "negotiation_goal": "Define the new role and compensation package in a way that provides value without over-committing budget to an unproven position.",
+    "current_position": "Actively negotiating the role's core responsibilities, success metrics (KPIs), and a compensation package from scratch, backed by market research on similar roles."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "At 'SaaSify Inc.', Senior Account Executive Priya is offered a promotion to 'Vice President, Sales'. The offer comes with a better title to help close larger deals but includes no immediate salary or commission structure change.",
+    "employer": "Chief Revenue Officer",
+    "candidate": "Senior Account Executive",
+    "negotiation_goal": "Elevate a top performer's status to boost sales credibility with minimal immediate cost, promising a compensation review in 6 months.",
+    "current_position": "Accepting the title but pushing for an immediate increase in her commission percentage on enterprise-level deals, arguing the new title carries higher expectations."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Engineering Manager Wei in the US is offered a promotion to 'Director of Engineering, EMEA' at his multinational tech firm, requiring a move to Berlin. The negotiation is highly complex, involving salary conversion, cost-of-living adjustments, and expatriate benefits.",
+    "employer": "Global Head of HR",
+    "candidate": "Engineering Manager",
+    "negotiation_goal": "Facilitate a critical international transfer by providing a standard expat package, while managing the high costs associated with such moves.",
+    "current_position": "Negotiating specific terms for housing, international school fees for his children, tax equalization, and an annual family travel allowance."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Product Manager Tom at 'GameSphere Studios' was promised a promotion to Senior PM six months ago, but it was delayed by a company-wide hiring freeze. The promotion is now official, but the offer reflects a start date of today.",
+    "employer": "Product Department Head",
+    "candidate": "Product Manager",
+    "negotiation_goal": "Finalize the long-awaited promotion while strictly adhering to the policy of not providing retroactive pay increases to avoid opening a floodgate of requests.",
+    "current_position": "Negotiating for the salary increase to be back-dated to the originally promised promotion date, arguing he has already been performing the senior role's duties."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "Following a major departmental restructure at 'HealthWell Insurance', HR Business Partner Isabella is being promoted to Senior HRBP. Her new role now covers three business units instead of one, significantly increasing her workload and strategic importance.",
+    "employer": "Chief Human Resources Officer",
+    "candidate": "HR Business Partner",
+    "negotiation_goal": "Reward Isabella's flexibility and expanded scope with a title and salary bump, but avoid adding headcount to the newly restructured department.",
+    "current_position": "Arguing that the threefold increase in workload is unsustainable and is negotiating for the budget to hire a supporting HR Coordinator."
+  },
+  {
+    "domain": "promotion discussion",
+    "background": "In the public sector, 'City Planning Department' analyst Ricardo is promoted to Senior Urban Planner. All salaries are dictated by rigid government pay grades, making direct salary negotiation impossible.",
+    "employer": "Department Director",
+    "candidate": "Policy Analyst",
+    "negotiation_goal": "Promote a deserving employee within strict civil service rules, ensuring procedural fairness and adherence to pay scales.",
+    "current_position": "Accepting the fixed salary but negotiating for other currency, such as leadership of a high-profile city green-space project and top priority for conference attendance."
+  }
+]

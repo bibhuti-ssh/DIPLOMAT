@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "team transition",
+    "background": "Zenith Corp, a large tech company, is moving a top engineer from a stable, legacy product team to a high-risk, high-reward AI 'skunkworks' project. The project demands longer hours and a new skillset.",
+    "employer": "HR Business Partner",
+    "candidate": "Senior Software Engineer (Anya Sharma)",
+    "negotiation_goal": "To transition Anya to the new team smoothly by incentivizing her with equity and a future promotion promise.",
+    "current_position": "Anya is requesting an immediate title change to 'Principal Engineer' and a significant base salary increase to offset the perceived risk and workload."
+  },
+  {
+    "domain": "team transition",
+    "background": "At Oakridge Medical Center, two hospital wards are merging, leading to role consolidation. An experienced nurse is being moved from a specialized cardiac unit to a general ICU.",
+    "employer": "Director of Nursing",
+    "candidate": "Charge Nurse (David Chen)",
+    "negotiation_goal": "To retain a skilled nurse by placing him in the ICU without creating pay discrepancies with existing ICU staff.",
+    "current_position": "David wants to keep his specialized pay grade and seniority benefits, arguing his cardiac expertise is a critical asset for the ICU."
+  },
+  {
+    "domain": "team transition",
+    "background": "A small advertising agency, Creative Spark, is eliminating its print division to focus exclusively on digital marketing. A talented designer with only print experience is being moved to the digital team.",
+    "employer": "Head of People & Culture",
+    "candidate": "Junior Graphic Designer (Chloe Davis)",
+    "negotiation_goal": "To retain the designer by ensuring she feels supported and capable in her new role.",
+    "current_position": "Chloe is asking for a guaranteed training budget for certified digital design courses and a formal mentorship assignment with a senior digital designer."
+  },
+  {
+    "domain": "team transition",
+    "background": "Apex Dynamics is automating a major production line, making the current supervisor's role redundant. They are offering him a newly created position managing the maintenance schedule for the new robotic arms.",
+    "employer": "Plant Manager",
+    "candidate": "Production Line Supervisor (Mark Johnson)",
+    "negotiation_goal": "To keep an employee with deep institutional knowledge through a disruptive technological change.",
+    "current_position": "Mark is resistant, fearing job obsolescence, and is negotiating for a substantial retention bonus and company-paid external certification in industrial robotics."
+  },
+  {
+    "domain": "team transition",
+    "background": "FinSecure, a mid-size fintech firm, is dissolving its centralized QA department to embed testers directly into development squads. The former QA team lead is being offered a non-managerial 'Quality Coach' role.",
+    "employer": "VP of Engineering",
+    "candidate": "QA Lead (Isabella Rossi)",
+    "negotiation_goal": "To transition the QA lead into a new strategic role that leverages her expertise without direct reports.",
+    "current_position": "Isabella feels this is a demotion and is negotiating to be made the official 'Head of Quality' for a specific, major product squad, retaining team leadership responsibilities."
+  },
+  {
+    "domain": "team transition",
+    "background": "Retail giant Global Mart needs to turn around an underperforming store in a difficult urban location. They want to transfer a high-performing manager from a successful suburban store to lead the effort.",
+    "employer": "Regional HR Director",
+    "candidate": "Store Manager (Samuel Jones)",
+    "negotiation_goal": "To persuade a top manager to take on a challenging, high-stress assignment.",
+    "current_position": "Samuel is negotiating for 'hardship pay,' a larger store operational budget, and a clearly defined bonus structure tied to specific turnaround metrics."
+  },
+  {
+    "domain": "team transition",
+    "background": "A pharmaceutical company, BioGen Innovations, is de-funding a long-term research project to reallocate resources to a product nearing market release. A key scientist from the cancelled project is being reassigned.",
+    "employer": "R&D Head",
+    "candidate": "Senior Scientist (Dr. Lena Petrova)",
+    "negotiation_goal": "To retain a brilliant scientist by moving her to a more commercially-focused team without causing her to leave the company.",
+    "current_position": "Dr. Petrova is negotiating to be allowed to dedicate 20% of her time to her original research, arguing for its long-term strategic value."
+  },
+  {
+    "domain": "team transition",
+    "background": "At the non-profit Hope Foundation, two similar community outreach programs are being merged due to a shift in grant funding. The coordinator of the smaller program is being asked to co-lead the new, larger team.",
+    "employer": "Executive Director",
+    "candidate": "Program Coordinator (Maria Garcia)",
+    "negotiation_goal": "To merge the teams efficiently without losing a key staff member or creating leadership conflict.",
+    "current_position": "Maria is requesting a title change to 'Senior Program Manager' and a formal document outlining a clear division of responsibilities between her and the other co-leader."
+  },
+  {
+    "domain": "team transition",
+    "background": "Gaming startup PixelForge is pivoting from PC games to the more lucrative mobile market. The Lead Game Designer, a PC gaming purist, is being asked to spearhead the company's first mobile title.",
+    "employer": "CEO",
+    "candidate": "Lead Game Designer (Kenji Tanaka)",
+    "negotiation_goal": "To get the most experienced designer to lead the company's critical strategic pivot.",
+    "current_position": "Kenji is unenthusiastic about mobile games and is negotiating for significant creative control and the final say on monetization strategies to ensure 'artistic integrity'."
+  },
+  {
+    "domain": "team transition",
+    "background": "A major infrastructure project managed by the Department of Urban Planning is complete. A key planner is being reassigned to a routine suburban zoning team.",
+    "employer": "Division Chief",
+    "candidate": "Senior Urban Planner (Fatima Al-Jamil)",
+    "negotiation_goal": "To reassign a valuable employee to a department with a current need, rather than a more 'prestigious' one.",
+    "current_position": "Fatima views the move as a career step-back and is negotiating for a transfer to the newly formed 'Smart Cities Initiative' team instead."
+  },
+  {
+    "domain": "team transition",
+    "background": "InsurCorp is acquiring a smaller rival and merging its underwriting department. A tenured senior underwriter from InsurCorp is being asked to report to a new manager from the acquired company.",
+    "employer": "AVP of HR",
+    "candidate": "Senior Underwriter (Tom Wilson)",
+    "negotiation_goal": "To integrate the two teams and establish the new management structure without alienating senior staff from the parent company.",
+    "current_position": "Citing his deep knowledge of InsurCorp's systems, Tom is negotiating for a 'Team Lead' position, effectively making him a peer to the new manager."
+  },
+  {
+    "domain": "team transition",
+    "background": "Starlight Hotels is creating a unified 'Guest Experience' department by merging the concierge, bell desk, and front desk teams. The highly respected Head Concierge is being offered a supervisory role in the new structure.",
+    "employer": "General Manager",
+    "candidate": "Head Concierge (Sophie Dubois)",
+    "negotiation_goal": "To place a respected leader in a key role within the new structure, ensuring a smooth transition for all staff.",
+    "current_position": "Sophie believes her experience warrants a larger role and is negotiating to be named the overall 'Guest Experience Manager' for the entire department."
+  },
+  {
+    "domain": "team transition",
+    "background": "Streamly, a media streaming service, is absorbing its niche 'Indie Film Curation' team into the main 'Content Strategy' department to streamline operations. A specialist is concerned his role will be diluted.",
+    "employer": "Director of Content Operations",
+    "candidate": "Content Curation Specialist (Liam Murphy)",
+    "negotiation_goal": "To integrate the specialist into the larger team while still benefiting from his unique expertise.",
+    "current_position": "Liam is negotiating for a protected title, 'Indie Content Strategist,' and a dedicated budget for acquiring independent films within the new department."
+  },
+  {
+    "domain": "team transition",
+    "background": "Due to a market shift, BuildRight Construction is moving a top foreman from large-scale commercial projects to oversee a new residential home-building division.",
+    "employer": "Regional Operations Manager",
+    "candidate": "Project Foreman (Carlos Ramirez)",
+    "negotiation_goal": "To transfer a skilled foreman to a growing business division, even though it's perceived as less complex work.",
+    "current_position": "Carlos is concerned about the different pay structures and is negotiating for a bonus system based on project completion speed and budget adherence, rather than the traditional percentage of a large contract."
+  },
+  {
+    "domain": "team transition",
+    "background": "LogiPro is opening a new, fully automated distribution center three hours away and wants its best current warehouse manager to run it. The transition requires the manager and her family to relocate.",
+    "employer": "HR Director",
+    "candidate": "Warehouse Manager (Brenda Jenkins)",
+    "negotiation_goal": "To convince a critical employee to relocate for a key strategic initiative.",
+    "current_position": "Brenda is negotiating for a full relocation package, including spousal job-seeking assistance and a cost-of-living salary adjustment, before she will agree to the move."
+  },
+  {
+    "domain": "team transition",
+    "background": "Legal tech SaaS company LexiCom is repurposing its internal tools team to become a client-facing 'Professional Services' team. A purely technical engineer on the team has no desire to interact with customers.",
+    "employer": "Chief Technology Officer (CTO)",
+    "candidate": "DevOps Engineer (Raj Patel)",
+    "negotiation_goal": "To retain a skilled engineer while fulfilling the business need for a new professional services team.",
+    "current_position": "Raj is negotiating for a transfer to the core product engineering team, arguing his skills are a better fit there than in a client-facing role."
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "professional development",
+    "background": "A key software engineer at a Series B tech startup, 'InnovateFast', wants the company to pay for a $15,000 advanced AI certification. The company is operating on a tight budget but is concerned about retaining this high-performing employee who has received competing offers.",
+    "employer": "HR Director",
+    "candidate": "Senior Software Engineer",
+    "negotiation_goal": "To retain the engineer by partially funding the certification, possibly with a 2-year service commitment clause.",
+    "current_position": "Requesting full, immediate funding for the certification with no strings attached, citing its direct value to upcoming projects."
+  },
+  {
+    "domain": "professional development",
+    "background": "A newly promoted marketing manager at a large CPG company, 'Global Goods Inc.', is negotiating their promotion package. They want the company to sponsor their Executive MBA, a perk typically reserved for Director-level employees and above.",
+    "employer": "VP of Marketing",
+    "candidate": "Newly Promoted Marketing Manager",
+    "negotiation_goal": "To offer a staggered, performance-based tuition reimbursement plan for the MBA, avoiding a precedent for other managers.",
+    "current_position": "Insisting on full sponsorship as a condition of accepting the promotion, framing it as an investment in their long-term leadership."
+  },
+  {
+    "domain": "professional development",
+    "background": "A grant writer at a regional non-profit, 'Community Uplift', wants to attend a prestigious international fundraising conference in London. The organization has an extremely limited travel and training budget, questioning the tangible return on investment.",
+    "employer": "Executive Director",
+    "candidate": "Grant Writer",
+    "negotiation_goal": "To approve a smaller, domestic conference or require the employee to cover a portion of the international travel costs.",
+    "current_position": "Arguing the networking opportunities at the international conference could lead to major funding and is crucial for their growth."
+  },
+  {
+    "domain": "professional development",
+    "background": "A factory floor supervisor at 'Apex Manufacturing' is requesting time off and funding for a Six Sigma Black Belt certification. Management agrees on the value but wants to implement a 'clawback' clause, requiring repayment if the employee leaves within three years.",
+    "employer": "Plant Manager",
+    "candidate": "Production Supervisor",
+    "negotiation_goal": "To secure a 3-year commitment in writing from the employee in exchange for funding the high-value certification.",
+    "current_position": "Willing to commit to one year post-certification, but finds a three-year clawback clause excessively restrictive."
+  },
+  {
+    "domain": "professional development",
+    "background": "A high-potential Registered Nurse at 'MetroHealth Hospital' wants to transition to an administrative track and is asking for full tuition for a Master's in Healthcare Administration. The hospital's standard policy only covers 50% reimbursement up to an annual cap.",
+    "employer": "Nursing Department Head",
+    "candidate": "Registered Nurse",
+    "negotiation_goal": "To get the nurse to accept the standard 50% reimbursement, possibly supplemented with a small, one-time scholarship.",
+    "current_position": "Requesting a policy exception for full reimbursement, citing their perfect performance record and long-term commitment to the hospital."
+  },
+  {
+    "domain": "professional development",
+    "background": "A junior graphic designer at a boutique advertising agency, 'Creative Spark', wants the agency to pay for multiple premium online subscriptions like Adobe Creative Cloud, Skillshare Premium, and a typography masterclass. The manager is concerned this individual request will lead to the entire team demanding similar perks.",
+    "employer": "Creative Director",
+    "candidate": "Junior Graphic Designer",
+    "negotiation_goal": "To approve one subscription as a trial and create a standardized policy for the team for future requests.",
+    "current_position": "Arguing that access to all these tools is essential to stay competitive and will improve their work quality immediately."
+  },
+  {
+    "domain": "professional development",
+    "background": "A cybersecurity analyst at a federal government agency is requesting urgent, off-cycle budget approval for a SANS course on a new threat vector. The request falls outside the rigid annual training calendar and requires multiple levels of justification.",
+    "employer": "IT Security Manager",
+    "candidate": "Cybersecurity Analyst",
+    "negotiation_goal": "To build a strong business case to push the request through bureaucratic hurdles, emphasizing the immediate security risk.",
+    "current_position": "Stressing the time-sensitive nature of the threat and the inadequacy of currently available internal training."
+  },
+  {
+    "domain": "professional development",
+    "background": "A research scientist at a pharmaceutical giant, 'BioPharm Solutions', wants to take a three-month paid sabbatical to work at a partner university lab to learn a new CRISPR technique. The company fears project delays but acknowledges the immense value of bringing that skill in-house.",
+    "employer": "R&D Director",
+    "candidate": "Research Scientist",
+    "negotiation_goal": "To approve the sabbatical but negotiate a detailed knowledge-transfer plan upon return to mitigate project disruption.",
+    "current_position": "Proposing the sabbatical as a critical, non-negotiable step for their professional growth and the company's innovation."
+  },
+  {
+    "domain": "professional development",
+    "background": "A new hire for a Curriculum Developer role at 'Edutech Innovations' is negotiating their offer. They are asking for a contractual guarantee of 'Innovation Time,' allowing them 15% of their work week for self-directed learning and projects.",
+    "employer": "Hiring Manager",
+    "candidate": "Curriculum Developer Candidate",
+    "negotiation_goal": "To offer a 90-day trial period for the 'Innovation Time' concept, tied to meeting core job responsibilities.",
+    "current_position": "Requesting the 15% time be a permanent, guaranteed part of their role from day one, similar to policies at other tech firms."
+  },
+  {
+    "domain": "professional development",
+    "background": "A paralegal at a small 10-person law firm, 'Smith & Jones Law', has been accepted into a part-time law school program. They are requesting the firm contribute to their tuition, a request unprecedented in the firm's history.",
+    "employer": "Managing Partner",
+    "candidate": "Paralegal",
+    "negotiation_goal": "To decline direct tuition payment but offer a flexible schedule and a potential bonus upon passing the bar exam.",
+    "current_position": "Asking for a modest but meaningful annual contribution to tuition, promising to stay with the firm for several years post-graduation."
+  },
+  {
+    "domain": "professional development",
+    "background": "A top-performing sales executive at 'Telco United' is experiencing burnout and has requested a career change. They want the company to fund their transition into a corporate sales trainer role, including 'train-the-trainer' certifications.",
+    "employer": "Sales Director",
+    "candidate": "Senior Sales Executive",
+    "negotiation_goal": "To retain the employee by creating a hybrid role for 6 months, where they train new hires while still managing key accounts.",
+    "current_position": "Seeking a clean break from sales quotas and an immediate, fully-funded move into a full-time training position."
+  },
+  {
+    "domain": "professional development",
+    "background": "A project manager at 'Bedrock Construction' wants the company to fund their LEED AP certification in sustainable building. While the company doesn't currently focus on green projects, the manager argues it is a key future market.",
+    "employer": "Head of Operations",
+    "candidate": "Project Manager",
+    "negotiation_goal": "To agree to fund the certification if the employee develops a business plan on how it can generate new revenue within two years.",
+    "current_position": "Positioning the certification as a low-cost investment to future-proof the company's capabilities and brand."
+  },
+  {
+    "domain": "professional development",
+    "background": "An operations analyst at 'ShipRight Logistics' wants a high-visibility, cross-departmental project to lead instead of a formal course. This requires getting buy-in from other managers who are protective of their team's time and resources.",
+    "employer": "HR Business Partner",
+    "candidate": "Operations Analyst",
+    "negotiation_goal": "To facilitate a meeting between the analyst and other department heads to negotiate a limited scope for the project.",
+    "current_position": "Wants HR to mandate the project as a formal development assignment, giving them the authority to secure resources."
+  },
+  {
+    "domain": "professional development",
+    "background": "The Head Concierge at the 'Grand Majestic Hotel' is seeking sponsorship for the prestigious and expensive Les Clefs d'Or membership. Management is skeptical that the abstract brand value justifies the significant cost and time away from the hotel.",
+    "employer": "General Manager",
+    "candidate": "Head Concierge",
+    "negotiation_goal": "To offer to pay 50% of the fees, contingent on the concierge creating a presentation for other staff on service excellence.",
+    "current_position": "Arguing that the membership brings global prestige to the hotel and is a standard for world-class luxury properties."
+  },
+  {
+    "domain": "professional development",
+    "background": "A store manager at a national fashion retail chain, 'StyleThread', is a finalist for a regional manager role. They are attempting to negotiate a guaranteed mentorship with the VP of Retail Operations as part of the potential promotion.",
+    "employer": "Director of HR",
+    "candidate": "Store Manager",
+    "negotiation_goal": "To offer a mentorship pairing with a Senior Regional Manager instead, as the VP's schedule is notoriously difficult to access.",
+    "current_position": "Holding firm on the request for VP mentorship, believing it is critical for their success and visibility in the new role."
+  },
+  {
+    "domain": "professional development",
+    "background": "A petroleum engineer at a major oil and gas company, 'PetroCorp', has requested tuition reimbursement for a Master's in Renewable Energy. The request is met with skepticism by leadership, who see it as conflicting with the company's core business.",
+    "employer": "Engineering Department Head",
+    "candidate": "Petroleum Engineer",
+    "negotiation_goal": "To understand the employee's career goals and potentially fund a more aligned degree, like an MBA in Energy Management.",
+    "current_position": "Making a case that understanding renewables is vital for the company's long-term energy transition strategy and risk management."
+  }
+]

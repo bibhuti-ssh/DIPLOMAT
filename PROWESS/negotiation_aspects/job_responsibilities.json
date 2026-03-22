@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "job responsibilities",
+    "background": "InnovateAI, a fast-growing tech startup, is hiring a Senior AI Researcher. The initial job description focused purely on developing new machine learning models, but during interviews, the conversation has shifted to include significant pre-sales and client-facing technical support.",
+    "employer": "Hiring Manager, InnovateAI",
+    "candidate": "Dr. Aris Thorne, AI Researcher",
+    "negotiation_goal": "To secure a candidate who can handle both deep research and client-facing technical duties to save on headcount.",
+    "current_position": "Wants the role to remain at least 90% focused on pure research and development, arguing that pre-sales work will dilute his core expertise."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "GlobalCorp, a massive manufacturing conglomerate, is promoting an internal candidate to Plant Manager. The promotion comes with the unwritten expectation that she will also oversee the logistics of a neighboring, underperforming plant until a new manager is found for it.",
+    "employer": "Regional Director, GlobalCorp",
+    "candidate": "Brenda Marks, Plant Manager Candidate",
+    "negotiation_goal": "To have Brenda temporarily manage two plants to ensure stability during a leadership transition without immediately increasing overhead.",
+    "current_position": "Willing to accept the promotion but wants the dual-plant responsibility formally documented as temporary with a clear end date and a bonus."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "The Green Earth Foundation, a mid-sized environmental non-profit, is hiring a Grant Writer. The organization's director wants this role to also encompass managing their social media presence and donor-relations newsletter, tasks not originally advertised.",
+    "employer": "Executive Director, The Green Earth Foundation",
+    "candidate": "Samuel Chen, Grant Writer",
+    "negotiation_goal": "To combine grant writing and digital communications into a single role due to a tight operational budget.",
+    "current_position": "Concerned that the marketing tasks will detract from the time needed for complex grant applications and wants them removed or assigned to an intern."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "St. Jude's Regional Hospital is hiring a Head of Nursing for the surgical ward. The hospital administration wants the role to include leading a major electronic health record (EHR) system migration, a highly technical project requiring extensive vendor management.",
+    "employer": "Hospital Administrator, St. Jude's",
+    "candidate": "Maria Flores, experienced Nurse Manager",
+    "negotiation_goal": "To assign the EHR project to the Head of Nursing to ensure clinical buy-in and avoid hiring a separate project manager.",
+    "current_position": "Argues that the EHR project is outside her clinical leadership scope and wants a dedicated IT Project Manager to be assigned, whom she will support as a stakeholder."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "BoldBrand, a boutique creative agency, is hiring a Senior Copywriter. The role is intended to be for a creative individual contributor, but the owner now wants the person to take on direct client account management for their assigned projects.",
+    "employer": "Founder/Creative Director, BoldBrand",
+    "candidate": "Liam Gallagher, Senior Copywriter",
+    "negotiation_goal": "To have senior creatives manage their own client relationships to streamline communication and make clients feel more connected.",
+    "current_position": "Wants to remain a purely creative force, arguing that account management duties will lead to creative burnout and less effective work."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "Apex Financial Services is hiring a Compliance Officer. The firm wants this officer to also be responsible for developing and running all internal employee training programs, a function typically handled by HR.",
+    "employer": "Chief Legal Officer, Apex Financial",
+    "candidate": "Fatima Hussein, Compliance Specialist",
+    "negotiation_goal": "To integrate compliance and training functions to create a more robust culture of compliance from a single source.",
+    "current_position": "Wants to focus exclusively on regulatory compliance and risk assessment, proposing to consult on training content but not be responsible for its creation and delivery."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "PixelStorm Games is hiring a Lead Game Artist. The studio head wants the lead artist to also manage the outsourcing budget and relationships with international contract artists, which involves significant administrative and financial oversight.",
+    "employer": "Studio Head, PixelStorm Games",
+    "candidate": "Kenji Tanaka, Lead Game Artist",
+    "negotiation_goal": "To offload vendor management from the busy production team onto the lead artist, who best understands the creative requirements.",
+    "current_position": "Agrees to set the artistic standards for outsourced work but insists that a producer or art coordinator should handle the financial and contractual aspects."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "A large public university is hiring a new Dean for its engineering school. The university provost is pushing for the Dean to personally lead fundraising efforts for a new $50 million science building, a responsibility that past Deans have delegated.",
+    "employer": "University Provost",
+    "candidate": "Dr. Eleanor Vance, Dean Candidate",
+    "negotiation_goal": "To ensure the new Dean is the face of the crucial fundraising campaign to maximize its chances of success with major donors.",
+    "current_position": "Wants to be the strategic head of the campaign but requires the university to provide a dedicated development director for the school to handle the day-to-day fundraising."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "FreshFare Organics, a national grocery chain, is hiring a Regional Manager. The job description is vague on technology, but the VP of Operations now expects this person to lead the pilot program for a new, untested inventory management software in their region.",
+    "employer": "VP of Operations, FreshFare Organics",
+    "candidate": "David Rodriguez, experienced Retail Manager",
+    "negotiation_goal": "To have the new Regional Manager champion the software pilot, believing operational leaders will drive faster adoption than the IT department.",
+    "current_position": "Is hesitant to have his region's performance tied to unproven software and wants to negotiate for a co-leadership role on the project with an IT counterpart."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "Sterling & Dunn, a prestigious law firm, is hiring a Senior Associate. The firm has a strict policy requiring all senior associates to take on mentorship responsibilities for two junior associates, involving significant non-billable time.",
+    "employer": "Partner, Sterling & Dunn",
+    "candidate": "Priya Sharma, lateral hire candidate",
+    "negotiation_goal": "To maintain the firm's structured mentorship program and ensure senior lawyers contribute to junior associate development.",
+    "current_position": "Wants to mentor only one associate for her first year to focus on integrating into the firm and building her own practice."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "A city government is hiring a Director of Public Works. The City Manager wants the director to also assume responsibility for the city's Parks and Recreation department, which was recently dissolved as a standalone entity due to budget cuts.",
+    "employer": "City Manager",
+    "candidate": "Michael Bell, Civil Engineer",
+    "negotiation_goal": "To consolidate departmental oversight and reduce administrative costs by merging Public Works with Parks and Rec.",
+    "current_position": "Argues that managing recreational programming is fundamentally different from public infrastructure and wants a separate deputy director hired to manage the parks division."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "AutoDrive Solutions, an automotive tech company, is hiring a Quality Assurance Manager. The role is meant to focus on software, but the engineering director wants it to include hardware testing for their new sensor line, a completely different discipline.",
+    "employer": "Director of Engineering, AutoDrive Solutions",
+    "candidate": "Sarah Jenkins, Software QA expert",
+    "negotiation_goal": "To create a single, unified QA function that covers both hardware and software under one leader.",
+    "current_position": "Maintains that her expertise is exclusively in software QA and that a hardware specialist is needed to properly manage that side of testing."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "CloudSphere, a B2B SaaS company, is hiring a remote Senior Product Manager. After extending an offer, the company is now asking the role to include managing the company's public developer-facing API documentation, a task usually for a technical writer.",
+    "employer": "Head of Product, CloudSphere",
+    "candidate": "Leo Martinez, Product Manager",
+    "negotiation_goal": "To ensure product managers own their product's entire ecosystem, including its developer documentation, for better consistency.",
+    "current_position": "Willing to oversee the strategy for the documentation but wants to negotiate for a dedicated technical writer to handle the actual creation and maintenance."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "BuildRight Construction is hiring a Project Superintendent. The company wants this superintendent to be directly responsible for on-site safety compliance and all incident reporting, a job typically handled by a dedicated Safety Officer.",
+    "employer": "Operations Manager, BuildRight Construction",
+    "candidate": "Frank Miller, veteran Superintendent",
+    "negotiation_goal": "To empower superintendents with full site authority, including safety, to streamline decision-making.",
+    "current_position": "Insists on having a dedicated Safety Officer assigned to his projects, arguing that he cannot be responsible for both project timelines and specialized safety compliance."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "The Daily Chronicle newspaper is hiring a new Investigations Editor. The publisher wants this editor to also manage the opinion/editorial section, two departments with traditionally separate and sometimes conflicting goals.",
+    "employer": "Publisher, The Daily Chronicle",
+    "candidate": "Janet Robinson, experienced journalist",
+    "negotiation_goal": "To consolidate editorial leadership and reduce costs by merging the management of the investigations and opinion desks.",
+    "current_position": "Argues for the importance of a 'church and state' separation between news and opinion, and is refusing to manage the op-ed section to protect journalistic integrity."
+  },
+  {
+    "domain": "job responsibilities",
+    "background": "VitaCure Labs, a biotech firm, is hiring a Lab Manager. The Head of R&D wants this person to be responsible for all regulatory paperwork and submissions to the FDA, which is a highly specialized and legally sensitive task.",
+    "employer": "Head of R&D, VitaCure Labs",
+    "candidate": "Dr. Chen Liu, Ph.D. in Molecular Biology",
+    "negotiation_goal": "To have the lab manager, who is closest to the research, also handle the regulatory submissions for accuracy and speed.",
+    "current_position": "Is comfortable preparing the scientific data but wants a dedicated regulatory affairs specialist to be the one responsible for the final submission and legal compliance."
+  }
+]

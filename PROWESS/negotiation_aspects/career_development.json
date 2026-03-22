@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "career development",
+    "background": "At 'CodeStream,' a fast-growing SaaS startup, a high-performing junior developer has outgrown their role. The company has a flat structure and no formal 'Senior' positions yet, creating a retention risk.",
+    "employer": "CTO",
+    "candidate": "Junior Software Developer",
+    "negotiation_goal": "Retain talent by offering a 'Project Lead' title on a key initiative and a budget for advanced certifications, without creating a formal senior tier.",
+    "current_position": "Requesting an immediate promotion to 'Senior Developer' with a corresponding salary increase, believing their contributions merit the title."
+  },
+  {
+    "domain": "career development",
+    "background": "An analyst at 'Veridian Capital,' a global investment bank, wants to move from the Risk department to the more coveted Mergers & Acquisitions team. This internal transfer requires a costly and time-consuming certification that the candidate currently lacks.",
+    "employer": "HR Business Partner",
+    "candidate": "Financial Risk Analyst",
+    "negotiation_goal": "Facilitate the transfer by proposing a phased transition plan where the company and employee share the cost of the required CFA certification.",
+    "current_position": "Wants an immediate transfer and for the company to fully fund the certification, citing their strong performance record in their current role."
+  },
+  {
+    "domain": "career development",
+    "background": "A senior clinical coordinator at 'Hopewell Health,' a non-profit clinic, is vying for a newly opened supervisor position. While they have excellent practical experience, they lack any formal management or leadership training.",
+    "employer": "Clinic Director",
+    "candidate": "Senior Clinical Coordinator",
+    "negotiation_goal": "Groom the candidate for future leadership by offering to fund a management course, contingent on them first mentoring a junior coordinator for six months.",
+    "current_position": "Believes their on-the-job experience is sufficient and is asking for the 'Clinical Supervisor' promotion immediately."
+  },
+  {
+    "domain": "career development",
+    "background": "A top-performing store manager for 'Azure Apparel,' a mid-sized fashion retailer, has requested an international assignment to advance their career. The company has a presence in Europe but has a complex and limited process for expatriate roles.",
+    "employer": "Regional Director of Operations",
+    "candidate": "Store Manager",
+    "negotiation_goal": "Offer a six-month secondment to the London office as a trial, contingent on the manager training their replacement and exceeding Q4 sales targets.",
+    "current_position": "Pushing for a permanent transfer to the European headquarters in Paris, citing long tenure and a desire for a long-term international career path."
+  },
+  {
+    "domain": "career development",
+    "background": "At 'Apex Motors,' a large automotive manufacturer, a skilled process engineer has been accepted into a prestigious MBA program. They are now asking the company to sponsor their education, which represents a significant financial investment.",
+    "employer": "Head of Engineering",
+    "candidate": "Process Engineer",
+    "negotiation_goal": "Agree to partial tuition reimbursement for a part-time MBA, linked to a 3-year service commitment after graduation to ensure ROI.",
+    "current_position": "Requesting full sponsorship for a full-time executive MBA, arguing it will provide direct strategic value to the company upon their return."
+  },
+  {
+    "domain": "career development",
+    "background": "A data scientist at 'Quantify,' a fully remote analytics firm, feels their skills are becoming outdated. They want company support to attend specialized AI conferences and enroll in advanced online courses to stay on the cutting edge.",
+    "employer": "Head of People & Culture",
+    "candidate": "Data Scientist",
+    "negotiation_goal": "Approve a professional development budget tied to specific company-aligned skills, requiring them to present key learnings to the team.",
+    "current_position": "Wants a discretionary annual learning stipend of $5,000 to use as they see fit for any relevant conferences or certifications."
+  },
+  {
+    "domain": "career development",
+    "background": "A curriculum developer at EdTech startup 'LearnSphere' wants to pivot into product management. They have subject matter expertise but no direct experience in product roadmapping or agile development.",
+    "employer": "VP of Product",
+    "candidate": "Lead Curriculum Developer",
+    "negotiation_goal": "Create a 6-month 'Product Management Apprenticeship' where the employee splits time between their old and new roles, with a full transition based on performance.",
+    "current_position": "Having completed several external PM courses, they are asking for a direct promotion to 'Associate Product Manager'."
+  },
+  {
+    "domain": "career development",
+    "background": "A long-serving policy advisor at a federal environmental agency is nearing retirement but wishes to stay involved. They want to transition to a part-time role focused on mentoring new hires to preserve institutional knowledge.",
+    "employer": "Division Chief",
+    "candidate": "Senior Policy Advisor",
+    "negotiation_goal": "Create a new 'Senior Mentor' contract role with clearly defined, limited hours and responsibilities to retain their expertise without blocking the promotion path for others.",
+    "current_position": "Wants to maintain their current title, working 20 hours a week on projects of their choosing while informally mentoring staff."
+  },
+  {
+    "domain": "career development",
+    "background": "The Front Office Manager at 'The Grandview Collection,' a luxury hotel chain, is ambitious for a General Manager role. They excel in guest services but lack the cross-departmental experience (e.g., F&B, Sales) required for a GM position.",
+    "employer": "Regional HR Manager",
+    "candidate": "Front Office Manager",
+    "negotiation_goal": "Outline a detailed 2-year development plan that includes rotations through other departments before being considered for a GM role at a smaller property.",
+    "current_position": "Believes their 5 years of exceptional performance qualifies them for the next available Assistant General Manager opening immediately."
+  },
+  {
+    "domain": "career development",
+    "background": "A research scientist at biotech firm 'GeneVolution Labs' made a key breakthrough that was part of a larger team effort. They are now asking to be named as the primary inventor on the resulting patent application.",
+    "employer": "Head of R&D",
+    "candidate": "Research Scientist II",
+    "negotiation_goal": "Acknowledge their contribution by naming them as a co-inventor on the patent, while clarifying that this does not change their role or team-based compensation.",
+    "current_position": "Negotiating for primary inventor status and a promotion to 'Principal Scientist,' believing their specific discovery was the most critical part of the project."
+  },
+  {
+    "domain": "career development",
+    "background": "Logistics company 'SwiftHaul' is implementing a new warehouse automation system. A tech-savvy shift supervisor with deep operational knowledge wants to lead the project, a role typically assigned to the IT department.",
+    "employer": "Director of Operations",
+    "candidate": "Warehouse Shift Supervisor",
+    "negotiation_goal": "Appoint them as project lead for the user-acceptance testing phase to leverage their operational expertise and gauge their project management skills.",
+    "current_position": "Asking to be the overall Project Manager for the entire automation rollout, arguing their floor-level experience is more valuable than technical management."
+  },
+  {
+    "domain": "career development",
+    "background": "A political correspondent at 'The Daily Chronicle,' a major online news publication, wants to pivot to data investigative journalism. The role requires advanced data visualization and statistical analysis skills they are still developing.",
+    "employer": "Managing Editor",
+    "candidate": "Political Correspondent",
+    "negotiation_goal": "Support the transition by funding a data journalism course, but require them to continue their current beat for 6 months while working on smaller data projects.",
+    "current_position": "Wants to be immediately reassigned to the investigative desk to focus on data-driven stories, believing they can learn the necessary tools on the job."
+  },
+  {
+    "domain": "career development",
+    "background": "At 'PixelStorm Games,' a senior QA analyst has a passion for game design and an impressive portfolio of personal projects. They are pushing for a formal transition from a testing role to a creative one on the design team.",
+    "employer": "Lead Game Designer",
+    "candidate": "Senior QA Analyst",
+    "negotiation_goal": "Offer them the chance to contribute to design documents and join brainstorming sessions for a new project, while maintaining their primary QA responsibilities.",
+    "current_position": "Asking for a 'Junior Game Designer' title and a full-time role on the design team for the studio's next flagship title."
+  },
+  {
+    "domain": "career development",
+    "background": "An operations manager at 'Solara Inc.,' a renewable energy company, wants to take a one-year sabbatical to pursue a master's in Environmental Policy. The company has a sabbatical policy, but never for a full year or for academic purposes.",
+    "employer": "HR Director",
+    "candidate": "Operations Manager",
+    "negotiation_goal": "Grant a 6-month unpaid sabbatical with a guaranteed comparable role upon return, contingent on signing a one-year retention agreement.",
+    "current_position": "Requesting a one-year, partially-paid sabbatical, arguing the advanced degree will bring invaluable strategic insight back to the company."
+  },
+  {
+    "domain": "career development",
+    "background": "A senior consultant at 'Innovate Advisory,' a major consulting firm, wants to build a new practice area around a niche technology (Quantum Computing). This is an unproven market for the firm and would require a significant investment in non-billable time.",
+    "employer": "Practice Partner",
+    "candidate": "Senior Consultant",
+    "negotiation_goal": "Approve a 'research and development' budget allowing them to spend 20% of their time building a business case for the new practice, with specific milestones.",
+    "current_position": "Wants to be named the lead of a new 'Quantum Advisory' service line immediately, with a budget to hire a junior analyst."
+  },
+  {
+    "domain": "career development",
+    "background": "At boutique creative agency 'Pixel & Hue,' a talented senior designer wants to move into a leadership role. However, they have only ever managed their own projects and have no experience leading a team or managing client relationships directly.",
+    "employer": "Creative Director",
+    "candidate": "Senior Graphic Designer",
+    "negotiation_goal": "Test their leadership potential by making them the creative lead on a high-stakes internal rebranding project before giving them a client-facing team.",
+    "current_position": "Asking to be promoted to Art Director and assigned to lead the agency's largest new client account."
+  }
+]

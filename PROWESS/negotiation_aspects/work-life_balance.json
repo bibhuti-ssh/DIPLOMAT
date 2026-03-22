@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "work-life balance",
+    "background": "Anya, a top-performing software engineer at a fast-paced tech startup, is returning from parental leave. The company culture values long hours and 'face time,' which conflicts with her new responsibilities as a parent and need for a predictable schedule.",
+    "employer": "Ben, Engineering Manager at 'Innovatech Solutions'",
+    "candidate": "Anya, Senior Software Engineer",
+    "negotiation_goal": "Retain a key employee by offering some flexibility without setting a precedent that could disrupt team velocity.",
+    "current_position": "Requesting a permanent 4-day work week or a fully remote position with flexible hours to manage childcare."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "David is a financial analyst at a large, traditional bank with a strict in-office policy. He has recently become the primary caregiver for his elderly parent, requiring him to attend frequent medical appointments on short notice.",
+    "employer": "Chloe, Department Head at 'Summit Financial'",
+    "candidate": "David, Financial Analyst",
+    "negotiation_goal": "Maintain team cohesion and adherence to the company's return-to-office policy while accommodating an employee's emergency needs.",
+    "current_position": "Seeking a formal hybrid arrangement with flexible start/end times to manage caregiving duties without using all his PTO."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Frank, a graphic designer at a boutique creative agency, is experiencing severe burnout. The agency's client-facing culture promotes an 'always-on' expectation, with frequent after-hours emails and weekend work requests becoming the norm.",
+    "employer": "Elena, Creative Director at 'Creative Spark Agency'",
+    "candidate": "Frank, Graphic Designer",
+    "negotiation_goal": "Prevent a talented designer from quitting by addressing burnout without compromising client service standards.",
+    "current_position": "Asking for the implementation of team-wide 'quiet hours' after 7 PM and a 'no-meeting-Fridays' policy."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Henry, a top marketing specialist at a mid-sized e-commerce company, wants to work from Southeast Asia for six months. The company is fully remote but has no formal policy or legal framework for employees working internationally.",
+    "employer": "Grace, HR Manager at 'GreenLeaf Organics'",
+    "candidate": "Henry, Marketing Specialist",
+    "negotiation_goal": "Explore the feasibility of international remote work without taking on significant tax and legal liabilities.",
+    "current_position": "Proposing a trial period as an independent contractor for 6 months to simplify the legal and tax situation for the company."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Jack is a newly hired Director of Operations at a large international non-profit. The job description stated up to 50% travel, but he wants to negotiate this down significantly to be present for his young children.",
+    "employer": "Isla, CEO of 'Global Health Partners'",
+    "candidate": "Jack, Director of Operations",
+    "negotiation_goal": "Ensure the new director has sufficient on-the-ground presence in key regions while honoring his family commitments.",
+    "current_position": "Requesting a cap of 25% travel, proposing to hire a deputy to handle more field visits and maximizing video conferencing."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Leo, a skilled machine operator at a manufacturing plant, needs to adjust his schedule for family reasons. His role is 100% on-site and tied to the 24/7 production schedule, making remote work impossible.",
+    "employer": "Karen, Plant Supervisor at 'Apex Manufacturing'",
+    "candidate": "Leo, Machine Operator",
+    "negotiation_goal": "Maintain consistent shift coverage on the production line while trying to accommodate a reliable employee's request.",
+    "current_position": "Proposing to switch to a compressed work week of four 10-hour shifts to have a three-day weekend."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "At a high-pressure law firm, paralegal Noah is struggling with the expectation of constant availability. Partners and senior associates frequently email and call late into the evening and on weekends, expecting immediate responses.",
+    "employer": "Maya, Partner at 'Stellar Legal Group'",
+    "candidate": "Noah, Paralegal",
+    "negotiation_goal": "Maintain high standards of client responsiveness that the firm is known for.",
+    "current_position": "Advocating for a formal 'right to disconnect' policy that sets clear boundaries and response time expectations outside of standard business hours."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Peter, an urban development analyst for a city government, is passionate about community service. He wants to take every Friday afternoon off to manage a volunteer-run community garden project he co-founded.",
+    "employer": "Olivia, City Planner for the 'City of Northwood'",
+    "candidate": "Peter, Urban Development Analyst",
+    "negotiation_goal": "Support employee community involvement without impacting project deadlines or team workload distribution.",
+    "current_position": "Requesting a formal flexible work arrangement to work longer hours Monday-Thursday to take Friday afternoons off."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "A SaaS company hired Sofia, a UX designer in Lisbon, to work with its core team in San Francisco. All critical team meetings are scheduled for 4 PM PST, which is midnight her time, forcing her to choose between her job and sleep.",
+    "employer": "Alex, Product Manager at 'DataWeave Inc.'",
+    "candidate": "Sofia, UX Designer",
+    "negotiation_goal": "Foster synchronous collaboration within the product team without alienating and burning out a new international hire.",
+    "current_position": "Asking for core meetings to be rotated to earlier times in the PST schedule and a greater reliance on asynchronous updates."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Maria, a lab technician at a pharmaceutical company, has been accepted into a part-time Master's program. The program has mandatory in-person classes on Tuesday and Thursday afternoons, conflicting with her standard work schedule.",
+    "employer": "Dr. Chen, R&D Lead at 'Precision Pharma'",
+    "candidate": "Maria, Lab Technician",
+    "negotiation_goal": "Ensure full lab coverage for ongoing experiments while supporting an employee's professional development.",
+    "current_position": "Proposing a job-sharing or schedule-swapping arrangement with a colleague to ensure her duties are covered during her classes."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "A FinTech company wants to hire Liam, a successful freelance content strategist, for a full-time role. Liam is hesitant to give up the autonomy and non-traditional schedule he enjoys as a freelancer for a rigid corporate 9-to-5.",
+    "employer": "Sam, Hiring Manager at 'Finity Bank'",
+    "candidate": "Liam, Content Strategist Candidate",
+    "negotiation_goal": "Secure a talented candidate by adapting the traditional role structure to be more appealing to someone from the gig economy.",
+    "current_position": "Negotiating for a 'Results-Oriented Work Environment' (ROWE) contract, where his performance is measured by output, not hours worked."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "A large retail corporation is enforcing a mandatory 5-day return-to-office policy. Tom, a buyer with a grueling 2-hour commute each way, found he was more productive and happier working from home.",
+    "employer": "Jessica, Merchandising Director at 'OmniRetail Corp.'",
+    "candidate": "Tom, Buyer",
+    "negotiation_goal": "Enforce the new company-wide RTO policy consistently to ensure fairness and team collaboration.",
+    "current_position": "Presenting a data-backed case to work from the office only two days a week, highlighting increased performance metrics during the remote period."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "David, a social worker at a non-profit, deals with highly stressful and emotionally draining cases daily. He finds the standard PTO package is insufficient for preventing compassion fatigue and burnout among his team.",
+    "employer": "Rachel, Executive Director at 'The Compassion Collective'",
+    "candidate": "David, Social Worker",
+    "negotiation_goal": "Address employee burnout and turnover in a high-stress field within a tight non-profit budget.",
+    "current_position": "Advocating for a separate, no-questions-asked 'wellness day' allowance of 4 days per year for his department."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Fatima, a salaried junior engineer at a robotics firm, is consistently working 50-60 hour weeks to meet aggressive project deadlines. This level of unpaid overtime was not disclosed during the hiring process and is unsustainable.",
+    "employer": "Omar, Project Lead at 'NextGen Robotics'",
+    "candidate": "Fatima, Junior Robotics Engineer",
+    "negotiation_goal": "Meet critical project milestones without increasing the salary budget for the engineering team.",
+    "current_position": "Requesting a formal Time Off In Lieu (TOIL) policy for all hours worked over 45 per week, rather than a pay increase."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "Sarah, a project coordinator for a construction company, has a complex childcare schedule due to a blended family. She needs to leave work at 3 PM sharp three days a week to handle school pickups for her stepchildren.",
+    "employer": "Mark, Site Operations Manager at 'BuildRight Construction'",
+    "candidate": "Sarah, Project Coordinator",
+    "negotiation_goal": "Ensure project coordination continues smoothly until the end of the business day, especially for on-site crews.",
+    "current_position": "Proposing an official schedule shift to 7 AM - 3 PM on specific days, with a commitment to be online for an hour in the evening for urgent issues."
+  },
+  {
+    "domain": "work-life balance",
+    "background": "After a decade of constant travel as a top regional sales manager, Carlos wants to reduce his time on the road. He wants to be more present for his young family but doesn't want to leave the aerospace company he loves.",
+    "employer": "Brenda, VP of Sales at 'AeroDynamics Ltd.'",
+    "candidate": "Carlos, Regional Sales Manager",
+    "negotiation_goal": "Retain a top sales performer with deep institutional knowledge, without losing his revenue-generating capabilities.",
+    "current_position": "Proposing the creation of a new role for himself in 'Sales Enablement,' where he would mentor junior staff and manage key accounts remotely."
+  }
+]

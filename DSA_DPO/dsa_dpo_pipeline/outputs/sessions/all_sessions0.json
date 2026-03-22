@@ -1,0 +1,553 @@
+[
+  {
+    "session_id": "sess_d9072ea2",
+    "scenario": {
+      "domain": "benefits negotiation",
+      "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+      "employer": "Anya Sharma, Co-founder & CTO",
+      "candidate": "Ben Carter, Principal AI Engineer",
+      "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+      "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience.",
+      "scenario_id": "scenario_1"
+    },
+    "dialogue": [
+      {
+        "role": "employer",
+        "content": "I understand your concerns regarding the vesting schedule. At Innovatech, we have the standard four-year vesting with a one-year cliff in place to ensure everyone is equally committed to our long-term vision. This structure helps us maintain fairness and consistency across the team. However, I'm open to discussing other aspects of the offer that could make it more appealing to you. Let's explore other options together.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "One possibility might be adjusting the equity component slightly. We value your skills highly, and retaining top talent like yourself aligns with our core values of innovation and growth. What do you think?",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Rapport Building",
+        "politeness_score": 0.9
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your perspective and your interest in our company. While the vesting schedule itself is something we aim to keep consistent across the team, we could consider discussing the overall equity package in terms of quantity. Perhaps increasing the total number of shares could address your concerns while still aligning with our long-term goals. Would that be something you’d be interested in exploring?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "That's definitely a viable option. Increasing the share count would require some adjustments internally, but our goal is to ensure you feel valued from the start. It reflects our investment in your future here at Innovatech. Could we discuss what level of increase feels equitable based on market standards?",
+        "negotiation_strategy": "Win-Win Framing",
+        "persuasion_strategy": "Concern Addressing",
+        "politeness_score": 0.8500000000000001
+      },
+      {
+        "role": "employer",
+        "content": "Absolutely, we want to make sure you feel valued and see your future with Innovatech as promising. Let's take a look at the current market standards and see how we can adjust the share count to align with them while also reflecting your unique skills and potential contributions. Could you share any specific benchmarks or figures you have in mind so we can work from there?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      },
+      {
+        "role": "candidate",
+        "content": "Thanks for being open to this discussion! If we were to agree on a higher share count, could we also revisit performance bonuses tied to earlier milestones? This way, your efforts wouldn’t go unrecognized until later down the line. How does that sound?",
+        "negotiation_strategy": "Reciprocal Concessions",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.65
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your proactive approach to structuring the offer. Revisiting performance bonuses is definitely something we can discuss. While the equity vesting schedule would remain the same, we could certainly look at implementing milestone-based bonuses that recognize your contributions earlier on. This would ensure that your efforts are acknowledged and rewarded as you help drive our growth. Let's identify what these milestones might look like and how they align with our strategic goals. How does that align with your expectations?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "candidate",
+        "content": "That aligns perfectly. Our focus at Innovatech is on building a culture where every contribution matters. I believe identifying key milestones will not only motivate you but also reflect our commitment to transparency and collaboration. Can you outline what kind of milestones you envision within the first year?",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Value Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "Absolutely, identifying key milestones is crucial for setting clear expectations and ensuring mutual success. For the first year, we could focus on milestones such as developing and successfully deploying a new AI feature, achieving certain performance metrics or KPIs in existing projects, or leading a team initiative that results in significant process improvements. Each milestone would be tailored to leverage your expertise effectively and align with Innovatech's strategic objectives. We can work together to define these milestones more precisely, ensuring they are both challenging and achievable. Does this approach resonate with what you had in mind?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Yes, this sounds productive. As we move forward, let’s consider a review period after six months to evaluate progress towards these milestones and potentially adjust if needed. This ensures alignment and allows us to adapt as necessary. Are you comfortable with this framework?",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "employer",
+        "content": "That sounds like a very pragmatic approach. A six-month review period would provide a great opportunity for us to assess progress, celebrate achievements, and make any necessary adjustments to keep everything on track. I'm comfortable with this framework as it emphasizes flexibility and continuous alignment. Let's make sure these reviews are constructive and focused on mutual growth. I'm glad we're working towards a solution that ensures both immediate impact and long-term success.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "I'm excited about our collaborative approach here. To finalize, would you prefer an adjustment in the equity component alongside the agreed-upon milestone bonuses? Once we nail down those numbers, I believe we can craft an offer that truly excites you.",
+        "negotiation_strategy": "Principled Negotiation",
+        "persuasion_strategy": "Future Vision Alignment",
+        "politeness_score": 0.75
+      }
+    ],
+    "failure_mode": "no_injection",
+    "scores": {
+      "agreement_quality": 0.9,
+      "mutual_satisfaction": 0.9,
+      "strategy_alignment": 0.5,
+      "politeness_trajectory": 1.0,
+      "conflict_breakdown": 0.0,
+      "total_score": 0.7050000000000001
+    },
+    "label": "positive",
+    "justifications": {
+      "agreement_quality": "The final outcome reflects a strong reconciliation of both parties' interests, with the employer maintaining the standard vesting schedule while offering increased equity and milestone-based bonuses, which addresses the candidate's concerns effectively.",
+      "mutual_satisfaction": "Both parties express clear satisfaction with the proposed adjustments and collaborative approach, indicating a strong sense of mutual agreement and excitement about the outcome.",
+      "conflict_breakdown": "The dialogue demonstrates a constructive and collaborative negotiation process with no signs of conflict, threats, ultimatums, or breakdown behaviors. Both parties are engaged in a positive discussion, exploring options and aligning their goals."
+    }
+  },
+  {
+    "session_id": "sess_da5503fc",
+    "scenario": {
+      "domain": "benefits negotiation",
+      "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+      "employer": "Anya Sharma, Co-founder & CTO",
+      "candidate": "Ben Carter, Principal AI Engineer",
+      "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+      "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience.",
+      "scenario_id": "scenario_1"
+    },
+    "dialogue": [
+      {
+        "role": "employer",
+        "content": "I understand your concerns about the vesting schedule. It's important for us to maintain a consistent policy across our team to ensure fairness and encourage long-term commitment. This standard vesting schedule is designed to align our team's interests with the company's growth and success, particularly as we approach our IPO. Would you be open to discussing other aspects of the offer that might address your concerns?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "candidate",
+        "content": "Absolutely! We value your skills and experience. Perhaps we could explore an increased salary component or additional signing bonus to make up for the longer vesting period? These options would allow you to feel more secure financially while joining our team.",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your flexibility and understand the importance of feeling financially secure. We can certainly explore the possibility of increasing the salary or offering a more substantial signing bonus. Let's take a closer look at the overall compensation package and see how we can make it more appealing for you while maintaining our standard vesting schedule. Would you like to discuss specific figures you're considering?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "candidate",
+        "content": "That’s a great approach. To give context, our current offers for similar roles in the market typically include a base salary aligned with industry benchmarks and performance bonuses tied to key milestones. How do you perceive these elements within the framework of your desired compensation?",
+        "negotiation_strategy": "Principled Negotiation",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "We aim to ensure that our compensation is competitive and reflective of the value you bring to the team. Our base salary is designed to be in line with industry standards, and we do offer performance bonuses tied to specific milestones, which can significantly enhance your earnings based on your contributions and the company's success. We are open to discussing how these performance bonuses can be structured to better align with your expectations. Could you provide more details on what specific benchmarks or bonus structures you believe would be most motivating and rewarding for you?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Thank you for clarifying. Understanding those benchmarks helps us tremendously. For instance, if we adjust the signing bonus to $X, combined with a revised vesting schedule where Y% vests after Z years, would this create a balance that feels equitable for you? This proposal still aligns with our core values of fostering long-term commitment while valuing immediate contribution.",
+        "negotiation_strategy": "Data-Driven Justification",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.6000000000000001
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your proposal and your focus on finding a balanced solution. While the signing bonus adjustment is something we can consider, we are committed to maintaining our standard vesting schedule to ensure consistency and fairness across the team. However, I'm open to discussing the possibility of adjusting the signing bonus to a competitive level that reflects your immediate contributions. Let's focus on crafting a signing bonus that acknowledges your value while keeping our vesting policy intact. Can we explore specific figures for the signing bonus that you have in mind?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Let’s say we propose an increase to the signing bonus by 15%. This demonstrates our willingness to meet your needs without compromising the established vesting structure. How does this figure resonate with you? We also want to emphasize that your contributions will be reviewed annually for potential adjustments to your salary and bonuses. Does this help bridge any gaps in your initial concerns?",
+        "negotiation_strategy": "Principled Negotiation",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your thoughtful proposal and willingness to work within our existing framework. A 15% increase in the signing bonus is a substantial adjustment, and it shows a strong commitment to recognizing your immediate contributions. Coupled with the opportunity for annual reviews to adjust salary and bonuses based on performance, I believe this approach effectively addresses your concerns while maintaining our core policies. Let's work on finalizing the details of the signing bonus to ensure it meets your expectations. Would you like to discuss any other elements of the offer?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Thank you for engaging in such a constructive dialogue. I think we are close to reaching a mutually beneficial agreement. Shall we go ahead with drafting an updated offer letter reflecting the agreed terms?",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.65
+      }
+    ],
+    "failure_mode": "competitive_override",
+    "scores": {
+      "agreement_quality": 0.85,
+      "mutual_satisfaction": 0.9,
+      "strategy_alignment": 0.5,
+      "politeness_trajectory": 0.9733234508667631,
+      "conflict_breakdown": 0.0,
+      "total_score": 0.6884985176300145
+    },
+    "label": "positive",
+    "justifications": {
+      "agreement_quality": "The final outcome reflects a balanced concession where the employer maintains the standard vesting schedule while the candidate receives a significant increase in the signing bonus. This demonstrates a fair compromise that addresses both parties' interests effectively.",
+      "mutual_satisfaction": "Both parties express satisfaction with the proposed adjustments, indicating a constructive dialogue and a willingness to finalize the agreement. The candidate feels their concerns are acknowledged, and the employer is open to enhancing the offer, leading to a high level of mutual satisfaction.",
+      "conflict_breakdown": "The dialogue demonstrates a collaborative and constructive negotiation process with no signs of conflict, coercion, or breakdown. Both parties are engaged in finding mutually beneficial solutions without any threats, ultimatums, or hostility."
+    }
+  },
+  {
+    "session_id": "sess_4c4f580e",
+    "scenario": {
+      "domain": "benefits negotiation",
+      "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+      "employer": "Anya Sharma, Co-founder & CTO",
+      "candidate": "Ben Carter, Principal AI Engineer",
+      "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+      "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience.",
+      "scenario_id": "scenario_1"
+    },
+    "dialogue": [
+      {
+        "role": "employer",
+        "content": "I understand your concerns about the vesting schedule. Our standard four-year vesting with a one-year cliff is in place to ensure fairness across our team and align everyone's long-term interests with the company's growth. We believe this structure is crucial for building a strong, committed team as we move towards our IPO. However, I'm open to discussing other aspects of the offer to find a mutually beneficial solution.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Given your experience, I want to ensure you feel valued from day one. How do you see your immediate priorities aligning with our long-term vision? Addressing your concerns can help us tailor your role more effectively.",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Value Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "Aligning your immediate priorities with our long-term vision is crucial for both your success and ours. From day one, we see your role as pivotal in advancing our AI capabilities, which are central to our product roadmap and competitive edge. Your expertise will help drive innovation, optimize our current systems, and mentor our growing team. As we progress towards our IPO, your contributions will have a lasting impact on our trajectory. Let's discuss how we can ensure you feel valued and supported in achieving these goals, perhaps through other incentives or resources.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      },
+      {
+        "role": "candidate",
+        "content": "Absolutely! While the vesting schedule remains essential for team cohesion, I could explore options like an accelerated vesting period tied to performance milestones that align directly with your contribution to our projects. This would allow you to benefit sooner while still maintaining our overall equity structure. What are your thoughts on this approach?",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Future Vision Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your flexibility and focus on aligning our interests. While our standard vesting schedule is important for consistency, I am open to discussing performance milestones that could potentially accelerate vesting. This approach allows us to recognize exceptional contributions while maintaining the integrity of our equity structure. Let's explore specific milestones and how they could be structured to ensure they're both challenging and achievable, reflecting your impact on our projects.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "That sounds promising. Establishing clear performance metrics will not only highlight your contributions but also foster accountability. Could you propose some initial milestones based on your understanding of our needs in AI development? It would help me advocate for this adjustment internally.",
+        "negotiation_strategy": "Reciprocal Concessions",
+        "persuasion_strategy": "Value Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "Certainly. Based on our current needs in AI development, we could consider milestones such as:\n\n1. Successfully leading the development and deployment of a new AI feature that significantly enhances product functionality by a specific date.\n2. Achieving measurable improvements in algorithm efficiency or accuracy, such as a defined percentage increase in model performance.\n3. Establishing and mentoring a high-performing AI team, with clear progress in skill development and project delivery within the first year.\n4. Contributing to patentable innovations in AI that align with our strategic objectives.\n\nThese milestones should be challenging yet attainable, reflecting the high impact we expect from your role. I'll work with our team to refine these and ensure they align with your expertise and our goals.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      },
+      {
+        "role": "candidate",
+        "content": "This seems very reasonable, and it aligns well with my career aspirations. If we were to formalize these milestones, what adjustments could we make to the traditional vesting schedule to reflect my contributions? Would you consider a partial acceleration after each milestone achieved?",
+        "negotiation_strategy": "Win-Win Framing",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.65
+      },
+      {
+        "role": "employer",
+        "content": "I'm glad to hear that these milestones align with your aspirations. We can certainly explore a structure where achieving specific milestones results in partial acceleration of your vesting schedule. For instance, each milestone could trigger the vesting of an additional percentage of your equity, perhaps tied to the significance of the milestone. This way, you can see tangible benefits from your contributions while maintaining the overall four-year vesting framework. I'll discuss this internally to determine the best way to balance these adjustments with our existing policies and ensure they're fair and motivating for you.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Thank you for being receptive to this dialogue. I genuinely believe that aligning our goals will enhance your integration into our team and motivate you further. Once we finalize the details, I will communicate everything clearly to ensure transparency and build trust from the outset.",
+        "negotiation_strategy": "Reciprocal Concessions",
+        "persuasion_strategy": "Value Alignment",
+        "politeness_score": 0.8
+      },
+      {
+        "role": "employer",
+        "content": "You're welcome, and I appreciate your proactive approach. Clear communication and transparency are key to building a strong working relationship. I'll work on formalizing these details with our team and ensure that everything is clearly outlined. This way, we can start on a solid foundation, with mutual understanding and trust, as you integrate into our team. Looking forward to the exciting contributions you'll bring to Innovatech.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Let's wrap up by confirming next steps then. I'll draft a revised proposal including performance milestones and potential vesting adjustments, and share it with you for review. Together, we can finalize the details that align both your expectations and our organizational values.",
+        "negotiation_strategy": "Reciprocal Concessions",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "employer",
+        "content": "That sounds like a great plan. Once you draft the revised proposal, I'll review it promptly and provide any necessary feedback. Our goal is to ensure that the final agreement reflects both our expectations and values, setting you up for success as you join our team. Looking forward to finalizing this together.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.42
+      },
+      {
+        "role": "candidate",
+        "content": "Thank you for your commitment to making this work. I truly value our conversation today and look forward to moving forward positively.",
+        "negotiation_strategy": "Win-Win Framing",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.65
+      }
+    ],
+    "failure_mode": "ignore_politeness",
+    "scores": {
+      "agreement_quality": 0.9,
+      "mutual_satisfaction": 0.9,
+      "strategy_alignment": 0.5,
+      "politeness_trajectory": 1.0,
+      "conflict_breakdown": 0.0,
+      "total_score": 0.7050000000000001
+    },
+    "label": "positive",
+    "justifications": {
+      "agreement_quality": "The final outcome reflects a strong reconciliation of both parties' interests, with the employer maintaining the overall vesting framework while allowing for performance-based adjustments that satisfy the candidate's request for accelerated vesting. This demonstrates a balanced concession from both sides.",
+      "mutual_satisfaction": "Both parties express clear satisfaction with the proposed adjustments and the collaborative process. The candidate feels valued and aligned with the company's goals, while the employer appreciates the candidate's proactive approach and commitment to transparency, indicating a positive outlook for their working relationship.",
+      "conflict_breakdown": "The dialogue demonstrates a collaborative and constructive negotiation process with no signs of conflict, coercion, or breakdown. Both parties are open to discussing adjustments and finding mutually beneficial solutions without any threats, ultimatums, or hostility."
+    }
+  },
+  {
+    "session_id": "sess_466fb15b",
+    "scenario": {
+      "domain": "benefits negotiation",
+      "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+      "employer": "Anya Sharma, Co-founder & CTO",
+      "candidate": "Ben Carter, Principal AI Engineer",
+      "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+      "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience.",
+      "scenario_id": "scenario_1"
+    },
+    "dialogue": [
+      {
+        "role": "employer",
+        "content": "I understand your concern about the equity vesting schedule. Our standard four-year vesting with a one-year cliff is designed to align with the commitment we expect from all team members. It ensures everyone is equally invested in the long-term success of Innovatech. We believe this structure fosters a strong sense of ownership and dedication. Is there anything specific about your situation that you think we could address to help make the offer more appealing for you?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Well, given my experience in launching successful products, I was hoping for an accelerated vesting schedule. A two-year vesting period would reflect my commitment and potential impact at Innovatech. What do you think?",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "I certainly appreciate the value and expertise you bring, and we’re excited about the potential impact you could have here. However, maintaining a consistent vesting schedule across all team members is important to us for fairness and cohesion. That said, we can explore other ways to enhance the offer, such as a signing bonus or performance-based incentives. Would these options be of interest to you?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "A signing bonus could indeed offset some concerns about the vesting schedule. Let’s say we consider a $30,000 signing bonus alongside the current vesting plan—would that alleviate your concerns significantly? Alternatively, we could discuss performance metrics tied to additional stock options. How does that sound?",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Value Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "A $30,000 signing bonus is something we can consider to make the offer more competitive. We can also explore setting clear performance milestones that, once met, could qualify you for additional stock options. This way, you have the opportunity to earn more equity based on your contributions and impact. Let's discuss what specific performance metrics would be meaningful and achievable for you. Does this approach address your concerns?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Yes, I believe this collaborative approach not only addresses your immediate needs but also reinforces our shared goals for Innovatech’s future. Can we agree on establishing those performance metrics before finalizing the offer? This will ensure alignment and transparency moving forward.",
+        "negotiation_strategy": "Principled Negotiation",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "Absolutely, establishing clear performance metrics upfront is a great way to ensure we’re aligned and transparent about expectations. We can work together to define these metrics, focusing on measurable outcomes that reflect your contributions and the company’s strategic goals. Once we have that framework in place, we can finalize the offer. I’m looking forward to having you on board and contributing to Innovatech’s growth and success.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      },
+      {
+        "role": "candidate",
+        "content": "Great! So let’s outline those performance metrics together during the next step. I truly believe this collaboration will set a solid foundation for your role at Innovatech. Thank you for your flexibility and understanding throughout this negotiation; it means a lot to us.",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.65
+      },
+      {
+        "role": "employer",
+        "content": "Thank you for your willingness to work together on this. I'm confident that by establishing clear performance metrics, we'll set the stage for a successful partnership. I appreciate your openness and enthusiasm, and I'm excited about the potential impact you'll have at Innovatech. Let’s schedule a time to discuss these metrics in detail and move forward with finalizing your offer.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "candidate",
+        "content": "Absolutely! I’ll send over a calendar invite shortly. I’m eager to dive into this and see how we can leverage your skills to achieve remarkable results together. Thanks again for your patience and collaboration throughout this process.",
+        "negotiation_strategy": "Reciprocal Concessions",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "employer",
+        "content": "Thank you, and I look forward to receiving the invite. I'm excited about the opportunity to work together and leverage your expertise to drive Innovatech's success. Your collaborative spirit is greatly appreciated, and I'm confident we'll achieve great things as a team. See you soon!",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      }
+    ],
+    "failure_mode": "no_injection",
+    "scores": {
+      "agreement_quality": 0.8,
+      "mutual_satisfaction": 0.9,
+      "strategy_alignment": 0.5,
+      "politeness_trajectory": 1.0,
+      "conflict_breakdown": 0.0,
+      "total_score": 0.68
+    },
+    "label": "positive",
+    "justifications": {
+      "agreement_quality": "The final outcome includes a signing bonus and performance metrics tied to additional stock options, which provides a balanced concession from both parties. While the candidate did not achieve the accelerated vesting schedule, the employer offered alternatives that enhance the overall compensation package, indicating a fair negotiation.",
+      "mutual_satisfaction": "Both parties express clear satisfaction with the collaborative approach and the proposed next steps. The candidate feels their concerns are addressed through the signing bonus and performance metrics, while the employer appreciates the candidate's flexibility and enthusiasm, indicating a strong mutual satisfaction.",
+      "conflict_breakdown": "The dialogue demonstrates a constructive negotiation process with no signs of conflict, coercion, or breakdown. Both parties engage collaboratively, exploring options and expressing appreciation for each other's contributions without any threats, ultimatums, or hostility."
+    }
+  },
+  {
+    "session_id": "sess_0b2f7753",
+    "scenario": {
+      "domain": "benefits negotiation",
+      "background": "Innovatech, a pre-IPO tech startup, offers a role to a highly sought-after AI specialist. The salary is competitive, but the standard four-year equity vesting schedule with a one-year cliff is a major sticking point for the candidate.",
+      "employer": "Anya Sharma, Co-founder & CTO",
+      "candidate": "Ben Carter, Principal AI Engineer",
+      "negotiation_goal": "Retain the standard vesting schedule to maintain fairness across the team and ensure long-term commitment.",
+      "current_position": "Requesting an accelerated vesting schedule (e.g., 2-year vest or removal of the 1-year cliff) due to senior experience.",
+      "scenario_id": "scenario_1"
+    },
+    "dialogue": [
+      {
+        "role": "employer",
+        "content": "I understand your concern about the equity vesting schedule. At Innovatech, we have structured the vesting schedule to align with industry standards and to ensure fairness across the team. The four-year vesting with a one-year cliff is designed to encourage long-term commitment and contribution, which is crucial for our growth and success. Could you share more about your specific concerns or any alternative solutions you might have in mind?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "candidate",
+        "content": "Certainly! My main concern is that a longer vesting period may limit my financial flexibility early on. I was hoping for a slightly shorter vesting timeline or perhaps some accelerated vesting upon achieving certain milestones. What do you think about those options?",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "I appreciate your perspective, and it's great to see your focus on achieving milestones. While we are committed to maintaining our standard vesting schedule for consistency and team equity, I'm open to discussing the possibility of milestone-based bonuses or additional performance-based incentives. These could provide you with more immediate financial benefits while still aligning with our company's long-term goals. How does that sound to you?",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "That's a valid point. Our goal here at Innovatech is to foster innovation and reward hard work fairly. We want to ensure all employees feel valued for their contributions. If we can tie bonuses to clear, measurable metrics, would that help address your concerns?",
+        "negotiation_strategy": "No Strategy",
+        "persuasion_strategy": "Credibility & Confidence",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "employer",
+        "content": "Yes, tying bonuses to clear, measurable metrics could certainly address my concerns. It would provide a way to reward early contributions without changing the equity vesting schedule. Let's explore what specific milestones or metrics would be meaningful for both you and Innovatech, ensuring they align with our strategic objectives. This would allow us to move forward in a way that benefits both parties.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Great! Aligning these metrics will not only motivate you but also enhance overall team performance. For instance, if we set quarterly targets related to project deliverables, how do you feel about incorporating those into a bonus structure?",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Emotional Appeal",
+        "politeness_score": 0.6
+      },
+      {
+        "role": "employer",
+        "content": "Incorporating quarterly targets related to project deliverables into a bonus structure sounds like a practical approach. It would provide clear objectives and a tangible reward for achieving them, which can be very motivating. We can work together to identify specific targets that are both ambitious and achievable, ensuring they contribute meaningfully to Innovatech's success. Let's discuss what those targets might look like and how they align with your role.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.55
+      },
+      {
+        "role": "candidate",
+        "content": "Absolutely! Focusing on key projects and setting realistic timelines can drive results and boost morale. Perhaps we can draft a proposal outlining these metrics along with expected outcomes? This collaborative effort can create a strong foundation for mutual expectations and satisfaction.",
+        "negotiation_strategy": "Collaborative Style",
+        "persuasion_strategy": "Concern Addressing",
+        "politeness_score": 0.8
+      },
+      {
+        "role": "employer",
+        "content": "That sounds like an excellent plan. Drafting a proposal will allow us to clearly define the metrics, timelines, and expected outcomes, ensuring we are both aligned on expectations. This collaborative approach will not only set a strong foundation for your role but also contribute positively to the team's overall morale and performance. Let's schedule a time to sit down and work through the details together.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      },
+      {
+        "role": "candidate",
+        "content": "I agree completely. Collaboration is key, especially when establishing a new compensation framework. Would next Tuesday afternoon work for you to finalize the specifics?",
+        "negotiation_strategy": "Win-Win Framing",
+        "persuasion_strategy": "Future Vision Alignment",
+        "politeness_score": 0.75
+      },
+      {
+        "role": "employer",
+        "content": "Next Tuesday afternoon works perfectly for me. Let's use that time to finalize the specifics and ensure we have a comprehensive plan in place. I look forward to our collaboration and to welcoming you as a valuable member of the Innovatech team.",
+        "negotiation_strategy": "",
+        "persuasion_strategy": "",
+        "politeness_score": 0.5
+      }
+    ],
+    "failure_mode": "competitive_override",
+    "scores": {
+      "agreement_quality": 0.9,
+      "mutual_satisfaction": 0.9,
+      "strategy_alignment": 0.5,
+      "politeness_trajectory": 0.9863271264002681,
+      "conflict_breakdown": 0.0,
+      "total_score": 0.7029490689600403
+    },
+    "label": "positive",
+    "justifications": {
+      "agreement_quality": "The final outcome includes a balanced agreement where the employer maintains the standard vesting schedule while offering milestone-based bonuses, addressing the candidate's concerns without compromising team equity. This reflects a strong reconciliation of both parties' interests.",
+      "mutual_satisfaction": "Both parties express clear satisfaction with the proposed collaboration on metrics and bonuses, indicating a positive outlook on the negotiation outcome. The candidate and employer both show eagerness to finalize the details, suggesting a high level of comfort with the agreement.",
+      "conflict_breakdown": "The dialogue demonstrates a constructive negotiation process with no signs of conflict, coercion, or breakdown. Both parties are engaged in collaborative discussions, exploring options and solutions without any threats, ultimatums, or hostility."
+    }
+  }
+]

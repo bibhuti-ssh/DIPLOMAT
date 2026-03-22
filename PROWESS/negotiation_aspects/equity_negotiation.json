@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "equity negotiation",
+    "background": "An early-stage AI startup, CogniCore, is formalizing its founding team before closing a seed round. The negotiation is for a key technical co-founder's initial equity stake, which will set the precedent for the company's cap table.",
+    "employer": "Lead Investor / Board Member",
+    "candidate": "Incoming CTO & Co-Founder",
+    "negotiation_goal": "To grant a substantial but fiscally prudent equity stake that reflects a late-joiner co-founder status, preserving shares for future hires.",
+    "current_position": "Requesting a higher percentage of founder's equity, arguing their platform contribution is as critical as the initial founders."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "At public tech firm GlobalNet Solutions, a high-performing engineering manager is promoted to Senior Director. The standard internal promotion policy offers a smaller RSU grant than what is typically given to external hires for the same role.",
+    "employer": "HR Business Partner",
+    "candidate": "Newly Promoted Senior Director of Engineering",
+    "negotiation_goal": "Adhere to internal equity bands for promotions to maintain fairness and budget controls.",
+    "current_position": "Demanding an RSU grant that matches the market rate for external hires, leveraging their long tenure and a competing inquiry."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "Pre-IPO FinTech unicorn PaySphere is hiring a VP of Product who has significant experience with stock options. The candidate is focused on optimizing their tax burden upon a future liquidity event.",
+    "employer": "Head of Talent Acquisition",
+    "candidate": "VP of Product Candidate",
+    "negotiation_goal": "To secure the candidate without altering the company-wide, standardized stock option plan.",
+    "current_position": "Requesting the right to early exercise their ISOs to start the long-term capital gains clock, which is not standard company policy."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "Large tech firm Innovate Inc. is acquiring a small startup, CodeWeavers, primarily for its talent. A key engineer from CodeWeavers holds now-worthless options and is a critical asset for the product integration.",
+    "employer": "M&A Integration HR Lead",
+    "candidate": "Lead Engineer from Acquired Startup",
+    "negotiation_goal": "To provide a competitive retention package that secures the engineer's knowledge without over-valuing their previous, unvested options.",
+    "current_position": "Negotiating for a large, front-loaded RSU grant from Innovate Inc. that compensates for their lost startup equity."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "SteelForm Manufacturing, an established industrial firm, is building a new digital division. They are trying to hire a tech leader using their traditional, non-equity-based long-term incentive plan (LTIP).",
+    "employer": "Chief Human Resources Officer",
+    "candidate": "Head of Digital Transformation Candidate",
+    "negotiation_goal": "To hire top tech talent by explaining the value of the phantom stock plan, which is tied to company profit, not stock value.",
+    "current_position": "Pushing for a true equity grant or a significantly higher cash bonus, as they are unfamiliar and skeptical of phantom stock."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "A Series B SaaS company, Connectify, is hiring a star enterprise sales executive who would be leaving a large amount of unvested equity. The candidate is concerned about the financial risk of the standard one-year vesting cliff.",
+    "employer": "Hiring Manager (VP of Sales)",
+    "candidate": "Enterprise Account Executive Candidate",
+    "negotiation_goal": "To hire the candidate while upholding the standard 1-year cliff, 4-year vesting schedule to ensure long-term commitment.",
+    "current_position": "Asking for an accelerated vesting schedule, such as 25% vesting after 6 months, to mitigate the risk of leaving their current role."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "Following an internal compensation audit at e-commerce firm ShopFast Online, a senior data scientist discovered her initial equity grant is significantly lower than recent hires at her level. She feels undervalued despite strong performance reviews.",
+    "employer": "Compensation & Benefits Manager",
+    "candidate": "Senior Data Scientist (Current Employee)",
+    "negotiation_goal": "To address the employee's concerns with a modest performance-based refresh grant, avoiding a full reset to prevent a flood of similar requests.",
+    "current_position": "Requesting a one-time equity \"top-up\" grant to bring her total vested and unvested equity in line with new hires."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "Clinical-stage biotech firm GenoTherapeutics is hiring a Chief Medical Officer to lead its drug trials. The role's success is directly tied to specific, high-stakes regulatory milestones.",
+    "employer": "CEO",
+    "candidate": "Chief Medical Officer Candidate",
+    "negotiation_goal": "To link a portion of the equity compensation to long-term company success and retention through a time-based vesting schedule.",
+    "current_position": "Proposing that a significant tranche of their stock options should vest upon successful completion of Phase 2 and Phase 3 trials."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "A Principal ML Engineer has two offers: a high-value RSU package from a FAANG company and a high-percentage stock option grant from Series C startup FlowState AI. The startup's paper value is lower, making the decision difficult.",
+    "employer": "FlowState AI Recruiter",
+    "candidate": "Principal Machine Learning Engineer Candidate",
+    "negotiation_goal": "To convince the candidate of the high-growth potential of their options, justifying the risk compared to the public company's offer.",
+    "current_position": "Asking for a larger option grant and more transparency on the 409A valuation to better compare the offers' potential upside."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "A cybersecurity firm, Quantum Secure, is poaching a VP from a competitor. The candidate is six months away from a massive RSU vest at their current company, creating significant 'golden handcuffs'.",
+    "employer": "Chief Revenue Officer",
+    "candidate": "VP of Strategic Alliances Candidate",
+    "negotiation_goal": "To structure a sign-on package that buys out the candidate's unvested equity without setting an unsustainable precedent.",
+    "current_position": "Requiring a new-hire equity grant and sign-on bonus that exceeds the value of the RSUs they are forfeiting."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "SparkCharge EV, a seed-stage hardware startup, is negotiating with its fifth employee, the Head of Hardware. The candidate is savvy about startup finance and worried about their stake shrinking in future funding rounds.",
+    "employer": "Founder/CEO",
+    "candidate": "Head of Hardware Engineering (Employee #5)",
+    "negotiation_goal": "To secure this crucial early hire without committing to complex anti-dilution terms that could complicate future fundraising.",
+    "current_position": "Negotiating for an anti-dilution provision or a guaranteed refresh grant in the Series A round to protect their initial percentage."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "US-based DataWeave Analytics is hiring its first General Manager in Germany. The standard US incentive stock option (ISO) plan has poor tax consequences for German employees, making the offer less attractive.",
+    "employer": "EMEA HR Director",
+    "candidate": "General Manager, Germany Candidate",
+    "negotiation_goal": "To offer a compelling package by using a locally compliant equity alternative, like a Growth Share model, without a major administrative lift.",
+    "current_position": "Requesting the company structure a tax-efficient phantom stock or virtual share plan that mimics the value of US options."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "A Brand Manager at Healthful Foods is returning from a year-long parental leave. While she was out, the company issued a significant equity refresh to all employees at her level to boost retention.",
+    "employer": "Department Head",
+    "candidate": "Returning Brand Manager",
+    "negotiation_goal": "To follow company policy, which did not include employees on leave in the refresh, while retaining a valued employee.",
+    "current_position": "Arguing that she should receive the same grant as her peers, as her leave should not impact her long-term compensation."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "BuildIt CRM is hiring a Regional Sales Director in a highly competitive market. The candidate is confident in their ability to massively outperform sales targets and wants their compensation to reflect that potential.",
+    "employer": "VP of Global Sales",
+    "candidate": "Regional Sales Director Candidate",
+    "negotiation_goal": "To keep the initial equity grant within the standard salary band while incentivizing high performance.",
+    "current_position": "Proposing a smaller initial RSU grant in exchange for a large performance-based equity kicker that vests upon achieving 150% of the sales target."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "D2C startup Aura Wellness wants to bring on a well-known e-commerce expert as a part-time advisor. The founder has a standard advisor equity grant but the candidate believes their influence is worth more.",
+    "employer": "Founder",
+    "candidate": "Experienced E-commerce Advisor",
+    "negotiation_goal": "To secure the advisor's expertise at the standard 0.1% equity rate vested over two years.",
+    "current_position": "Requesting 0.5% of company equity with an accelerated 1-year vesting schedule, citing their powerful industry network."
+  },
+  {
+    "domain": "equity negotiation",
+    "background": "A B-Corp, EdTech for All, is hiring a Director from the non-profit world who has never received equity. The candidate is risk-averse and struggling to value the stock options component of their offer.",
+    "employer": "Head of People Operations",
+    "candidate": "Director of Curriculum Development Candidate",
+    "negotiation_goal": "To educate the candidate on the value and potential of equity to close them without increasing the cash component of the offer.",
+    "current_position": "Asking for a higher base salary to compensate for the perceived risk and uncertainty of the equity grant."
+  }
+]
