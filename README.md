@@ -5,7 +5,7 @@ This repository combines the training pipeline and dataset assets used for DIPLO
 It is organized into two core components:
 
 - **DSA_DPO/** contains the end-to-end DSA-DPO workflow for generating sessions, scoring outcomes, creating preference pairs, and preparing training-ready data.
-- **PROWESS/** contains the dataset resources, including the first **600 sampled conversations** from the full PROWESS corpus.
+- **PROWESS/** contains the dataset resources, including the first 600 sampled conversations from the full PROWESS corpus. The sample dataset is provided for review purposes. We are committed to make the full dataset available for reserach purpose, upon acceptance.
 
 ## Components
 
